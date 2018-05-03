@@ -1,0 +1,996 @@
+﻿Log file open, 05/02/18 19:27:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Trolley
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1104500120) SRandInit(1104500120).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.252223
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.02-10.27.07:668][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.02-10.27.07:668][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.02-10.27.07:772][  0]LogInit: Computer: DESKTOP-FMM3QSI
+[2018.05.02-10.27.07:772][  0]LogInit: User: 201411255
+[2018.05.02-10.27.07:772][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.05.02-10.27.07:772][  0]LogInit: High frequency timer resolution =3.312647 MHz
+[2018.05.02-10.27.07:772][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.05.02-10.27.07:772][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.02-10.27.07:772][  0]LogMemory: Process Physical Memory: 274.20 MB used, 274.20 MB peak
+[2018.05.02-10.27.07:772][  0]LogMemory: Process Virtual Memory: 269.39 MB used, 269.39 MB peak
+[2018.05.02-10.27.07:772][  0]LogMemory: Physical Memory: 3048.24 MB used,  5029.28 MB free, 8077.52 MB total
+[2018.05.02-10.27.07:772][  0]LogMemory: Virtual Memory: 673.74 MB used,  5029.28 MB free, 134217728.00 MB total
+[2018.05.02-10.27.08:457][  0]LogInit: Using OS detected language (ko-KR).
+[2018.05.02-10.27.08:457][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.05.02-10.27.08:622][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.05.02-10.27.09:203][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.02-10.27.17:413][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.02-10.27.17:471][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.05.02-10.27.17:471][  0]LogD3D11RHI:       1977/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.05.02-10.27.17:479][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4400' (Feature Level 11_0)
+[2018.05.02-10.27.17:479][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.05.02-10.27.17:481][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.02-10.27.17:481][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.02-10.27.17:481][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.02-10.27.17:487][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.02-10.27.17:487][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.02-10.27.17:487][  0]LogWindows: EnumDisplayDevices:
+[2018.05.02-10.27.17:488][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2018.05.02-10.27.17:488][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:1)
+[2018.05.02-10.27.17:488][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.05.02-10.27.17:489][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.05.02-10.27.17:489][  0]LogWindows:    4. 'Intel(R) HD Graphics 4400' (P:0 D:0)
+[2018.05.02-10.27.17:489][  0]LogWindows:    5. 'Intel(R) HD Graphics 4400' (P:0 D:0)
+[2018.05.02-10.27.17:490][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.02-10.27.17:490][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.05.02-10.27.17:490][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.02-10.27.17:490][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.02-10.27.17:490][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2018.05.02-10.27.17:517][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.02-10.27.17:535][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.02-10.27.17:647][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Intermediate/Shaders/WorkingDirectory/8380/).
+[2018.05.02-10.27.17:647][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/201411255/AppData/Local/Temp/UnrealShaderWorkingDir/407F74A44A2DBDDA8876FC9545E288EF/'.
+[2018.05.02-10.27.17:647][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.02-10.27.24:871][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.02-10.27.24:937][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.02-10.27.25:001][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.02-10.27.25:064][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.02-10.27.25:142][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.02-10.27.25:205][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.02-10.27.25:269][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.02-10.27.25:332][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.02-10.27.25:389][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.02-10.27.25:453][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.02-10.27.25:521][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.02-10.27.25:584][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.02-10.27.25:647][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.02-10.27.25:709][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.02-10.27.25:841][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.02-10.27.25:841][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.02-10.27.25:918][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.02-10.27.25:969][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.02-10.27.26:108][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.02-10.27.26:155][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.02-10.27.26:240][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.02-10.27.26:310][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.02-10.27.26:371][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.02-10.27.26:462][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.02-10.27.26:462][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.02-10.27.27:496][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.02-10.27.28:502][  0]LogDerivedDataCache: Loaded boot cache 1.01s 78MB C:/Users/201411255/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.02-10.27.28:502][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/201411255/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.05.02-10.27.28:502][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.02-10.27.28:502][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.02-10.27.28:502][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.02-10.27.28:502][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.02-10.27.28:562][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.02-10.27.28:575][  0]LogDerivedDataCache: Using Local data cache path C:/Users/201411255/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.02-10.27.28:587][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.02-10.27.28:588][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.02-10.27.28:619][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.02-10.27.28:619][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.02-10.27.32:320][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.02-10.27.33:642][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.02-10.27.33:693][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.02-10.27.33:694][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.02-10.27.33:694][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.02-10.27.33:694][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.02-10.27.33:694][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.02-10.27.33:895][  0]LogNetVersion: Trolley , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2282078908)
+[2018.05.02-10.27.34:956][  0]LogAssetRegistry: FAssetRegistry took 0.0274 seconds to start up
+[2018.05.02-10.27.47:349][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.103293 seconds
+[2018.05.02-10.27.47:355][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.05.02-10.27.47:355][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.05.02-10.27.47:355][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.02-10.27.47:449][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.02-10.28.05:035][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.02-10.28.05:115][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.02-10.28.06:712][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.02-10.28.08:021][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.05.02-10.28.08:021][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.05.02-10.28.08:088][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.05.02-10.28.08:154][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.05.02-10.28.09:600][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.02-10.28.10:147][  0]LogOcInput: OculusInput pre-init called
+[2018.05.02-10.28.10:694][  0]LogEngine: Initializing Engine...
+[2018.05.02-10.28.10:698][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.02-10.28.11:712][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.02-10.28.11:712][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.02-10.28.11:870][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.02-10.28.11:893][  0]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-10.28.12:218][  0]LogInit: FAudioDevice initialized.
+[2018.05.02-10.28.12:530][  0]LogDerivedDataCache: Saved boot cache 0.31s 78MB C:/Users/201411255/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.02-10.28.12:561][  0]LogInit: Texture streaming: Enabled
+[2018.05.02-10.28.13:035][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.02-10.28.13:274][  0]LogInit: Transaction tracking system initialized
+[2018.05.02-10.28.13:742][  0]BlueprintLog: New page: 에디터 로드
+[2018.05.02-10.28.15:228][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.05.02-10.28.16:546][  0]LogConsoleResponse: Display: 
+[2018.05.02-10.28.21:221][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.02-10.28.21:221][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.02-10.28.21:221][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.02-10.28.21:658][  0]LogFileCache: Scanning file cache for directory 'C:/Users/201411255/Documents/GitHub/Trolley_0.05/Content/' took 0.03s
+[2018.05.02-10.28.23:890][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.05.02-10.28.23:891][  0]Cmd: MAP LOAD FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.02-10.28.23:891][  0]LightingResults: New page: 라이팅 빌드
+[2018.05.02-10.28.23:944][  0]MapCheck: New page: 맵 체크
+[2018.05.02-10.28.23:944][  0]LightingResults: New page: 라이팅 빌드
+[2018.05.02-10.28.26:534][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.02-10.28.31:462][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.02-10.28.31:614][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.02-10.28.31:632][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.02-10.28.31:705][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 73.489ms.
+[2018.05.02-10.28.31:705][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 7.815
+[2018.05.02-10.28.32:065][  0]LogCollectionManager: Loaded 0 collections in 0.002770 seconds
+[2018.05.02-10.28.32:274][  0]LogFileCache: Scanning file cache for directory 'C:/Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Collections/' took 0.01s
+[2018.05.02-10.28.32:274][  0]LogFileCache: Scanning file cache for directory 'C:/Users/201411255/Documents/GitHub/Trolley_0.05/Content/Developers/201411255/Collections/' took 0.01s
+[2018.05.02-10.28.32:274][  0]LogFileCache: Scanning file cache for directory 'C:/Users/201411255/Documents/GitHub/Trolley_0.05/Content/Collections/' took 0.01s
+[2018.05.02-10.28.32:274][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.02-10.28.32:295][  0]LogContentBrowser: Native class hierarchy populated in 0.0204 seconds. Added 2363 classes and 519 folders.
+[2018.05.02-10.28.32:467][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.02-10.28.34:531][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.05.02-10.28.34:663][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.05.02-10.28.34:883][  0]LogSlate: Took 0.021322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.02-10.28.34:950][  0]LogSlate: Took 0.065827 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.05.02-10.28.34:974][  0]LogSlate: Took 0.021226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.02-10.28.35:002][  0]LogSlate: Took 0.021387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.02-10.28.35:587][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2018.05.02-10.28.35:686][  0]LogSlate: Took 0.026150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.02-10.28.35:837][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.05.02-10.28.35:837][  0]LogLoad: (Engine Initialization) Total time: 100.51 seconds
+[2018.05.02-10.28.35:837][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.02-10.28.35:837][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.05.02-10.28.35:837][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.05.02-10.28.36:215][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.02-10.28.37:195][  3]LogAssetRegistry: Asset discovery search completed in 62.2616 seconds
+[2018.05.02-10.28.37:198][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.02-10.28.37:198][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000108 seconds (updated 0 objects)
+[2018.05.02-10.28.57:886][251]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.02-10.28.58:386][251]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.05.02-10.28.59:301][251]LogSlate: Took 0.000560 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.02-10.29.02:684][446]LogSlate: Took 0.017371 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.02-10.29.02:905][447]LogSlate: Took 0.018211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.02-10.29.29:604][750]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.02-10.30.27:328][535]BlueprintLog: New page: BP_DoorOpen_90 컴파일
+[2018.05.02-10.30.28:239][562]LogSavePackage: Save=61.36ms
+[2018.05.02-10.30.28:239][562]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/BP_DoorOpen_90D5D1BE2444D094A8C1C08B8CADFD105B.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/BP_DoorOpen_90.uasset'
+[2018.05.02-10.30.28:246][562]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/BP_DoorOpen_90.uasset
+[2018.05.02-10.30.39:989][795]LogEditorViewport: Clicking on Actor (LMB): BP_DoorOpen_C (BP_DoorOpen)
+[2018.05.02-10.30.40:631][864]Cmd: DELETE
+[2018.05.02-10.30.40:631][864]Cmd: ACTOR DELETE
+[2018.05.02-10.30.40:926][864]LogEditorActor: Deleted Actor: BP_DoorOpen_C
+[2018.05.02-10.30.40:994][864]LogEditorActor: Deleted 1 Actors (0.120 secs)
+[2018.05.02-10.30.43:444][143]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.05.02-10.30.43:588][143]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-10.30.43:589][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-10.30.43:589][143]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 3. 오전 4:30:43)
+[2018.05.02-10.30.43:589][143]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.02-10.30.43:614][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025270s)
+[2018.05.02-10.30.43:615][143]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.02-10.30.43:616][143]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2018.05.02-10.30.43:616][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.026849s)
+[2018.05.02-10.30.43:658][143]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-10.30.43:670][143]LogInit: FAudioDevice initialized.
+[2018.05.02-10.30.43:741][143]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.02-10.30.43:750][143]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.02-19.30.43
+[2018.05.02-10.30.43:750][143]LogWorld: Bringing up level for play took: 0.007875
+[2018.05.02-10.30.43:806][143]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.05.02-10.30.43:815][143]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.456
+[2018.05.02-10.30.43:816][143]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-10.30.43:855][143]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.05.02-10.30.50:766][913]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-10.30.50:824][913]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-10.31.50:442][999]LogSavePackage: Save=59.60ms
+[2018.05.02-10.31.50:442][999]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/BP_DoorOpen_90CC3E186F4F06F0A6D7C52E931905C4AE.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/BP_DoorOpen_90.uasset'
+[2018.05.02-10.31.50:447][999]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/BP_DoorOpen_90.uasset
+[2018.05.02-10.31.54:088][298]BlueprintLog: New page: BP_DoorOpen_90 컴파일
+[2018.05.02-10.31.56:261][453]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.05.02-10.31.56:295][453]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-10.31.56:296][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-10.31.56:296][453]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 3. 오전 4:31:56)
+[2018.05.02-10.31.56:296][453]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.02-10.31.56:324][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027848s)
+[2018.05.02-10.31.56:325][453]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.02-10.31.56:325][453]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2018.05.02-10.31.56:325][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.029498s)
+[2018.05.02-10.31.56:377][453]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-10.31.56:389][453]LogInit: FAudioDevice initialized.
+[2018.05.02-10.31.56:441][453]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.02-10.31.56:449][453]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.02-19.31.56
+[2018.05.02-10.31.56:450][453]LogWorld: Bringing up level for play took: 0.007931
+[2018.05.02-10.31.56:460][453]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 1.1
+[2018.05.02-10.31.56:460][453]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-10.31.59:395][769]LogBlueprintUserMessages: [BP_DoorOpen_346] You Need KeyCard
+[2018.05.02-10.32.08:323][771]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-10.32.08:384][771]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-10.32.29:562][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_C1)
+[2018.05.02-10.32.59:917][869]LogMetaData: Removing '/Game/TopDownBP/Blueprints/BP_DoorOpen.BP_DoorOpen_C' ref from Metadata '/Game/TopDownBP/Blueprints/BP_DoorOpen_90.PackageMetaData'
+[2018.05.02-10.32.59:917][869]LogMetaData: Removing '/Game/TopDownBP/Blueprints/BP_DoorOpen.SKEL_BP_DoorOpen_C' ref from Metadata '/Game/TopDownBP/Blueprints/BP_DoorOpen_90.PackageMetaData'
+[2018.05.02-10.32.59:973][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/BP_DoorOpen" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/BP_DoorOpen.uasset" SILENT=true
+[2018.05.02-10.33.00:040][869]LogSavePackage: Save=64.62ms
+[2018.05.02-10.33.00:040][869]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/BP_DoorOpen26D898E744F5061DC646288E14359F13.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/BP_DoorOpen.uasset'
+[2018.05.02-10.33.00:044][869]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/BP_DoorOpen.uasset
+[2018.05.02-10.33.03:355][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/BP_DoorOpen" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/BP_DoorOpen.uasset" SILENT=true
+[2018.05.02-10.33.03:419][223]LogSavePackage: Save=51.78ms
+[2018.05.02-10.33.03:419][223]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/BP_DoorOpen4CFE43224186AB844FB8259CAA5BA61A.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/BP_DoorOpen.uasset'
+[2018.05.02-10.33.03:421][223]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/BP_DoorOpen.uasset
+[2018.05.02-10.33.04:991][410]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.05.02-10.33.05:024][410]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-10.33.05:024][410]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.05.02-10.33.05:025][410]LogPlayLevel: [PlayLevel] Compiling TopDownExampleMap before play...
+[2018.05.02-10.33.05:153][410]LogPlayLevel: PlayLevel: Blueprint regeneration took 128 ms (1 blueprints)
+[2018.05.02-10.33.05:153][410]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 3. 오전 4:33:05)
+[2018.05.02-10.33.05:153][410]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.02-10.33.05:176][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022944s)
+[2018.05.02-10.33.05:177][410]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.02-10.33.05:177][410]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2018.05.02-10.33.05:177][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.024381s)
+[2018.05.02-10.33.05:217][410]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-10.33.05:228][410]LogInit: FAudioDevice initialized.
+[2018.05.02-10.33.05:282][410]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.02-10.33.05:290][410]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.02-19.33.05
+[2018.05.02-10.33.05:291][410]LogWorld: Bringing up level for play took: 0.008708
+[2018.05.02-10.33.05:303][410]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.057
+[2018.05.02-10.33.05:303][410]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-10.33.12:685][241]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-10.33.12:744][241]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-10.33.16:829][694]LogEditorViewport: Clicking on Actor (LMB): BP_DoorOpen_C (BP_DoorOpen_90)
+[2018.05.02-10.33.24:116][432]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.05.02-10.33.24:140][432]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-10.33.24:140][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-10.33.24:141][432]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 3. 오전 4:33:24)
+[2018.05.02-10.33.24:141][432]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.02-10.33.24:166][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025510s)
+[2018.05.02-10.33.24:167][432]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.02-10.33.24:167][432]LogPlayLevel: PIE: World Init took: (0.001049s)
+[2018.05.02-10.33.24:168][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.027064s)
+[2018.05.02-10.33.24:218][432]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-10.33.24:230][432]LogInit: FAudioDevice initialized.
+[2018.05.02-10.33.24:282][432]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.02-10.33.24:289][432]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.02-19.33.24
+[2018.05.02-10.33.24:289][432]LogWorld: Bringing up level for play took: 0.007006
+[2018.05.02-10.33.24:298][432]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.939
+[2018.05.02-10.33.24:299][432]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-10.33.39:423][181]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-10.33.39:479][181]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-10.34.45:432][244]LogEditorTransaction: Undo 컴포넌트 붙이기
+[2018.05.02-10.34.45:698][263]LogEditorTransaction: Undo 컴포넌트 떼기
+[2018.05.02-10.34.46:050][287]LogEditorTransaction: Undo 컴포넌트 제거
+[2018.05.02-10.34.51:506][774]LogEditorTransaction: Undo 컴포넌트 제거
+[2018.05.02-10.35.02:087][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/BP_DoorOpen" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/BP_DoorOpen.uasset" SILENT=true
+[2018.05.02-10.35.02:164][623]LogSavePackage: Save=67.12ms
+[2018.05.02-10.35.02:164][623]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/BP_DoorOpenB1E1909241825A92FD404FA6D86563A1.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/BP_DoorOpen.uasset'
+[2018.05.02-10.35.02:168][623]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/BP_DoorOpen.uasset
+[2018.05.02-10.35.02:708][676]BlueprintLog: New page: BP_DoorOpen 컴파일
+[2018.05.02-10.35.03:786][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/BP_DoorOpen" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/BP_DoorOpen.uasset" SILENT=true
+[2018.05.02-10.35.03:852][730]LogSavePackage: Save=58.87ms
+[2018.05.02-10.35.03:852][730]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/BP_DoorOpen97249A35435509A71626E19DA9C8D1D2.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/BP_DoorOpen.uasset'
+[2018.05.02-10.35.03:854][730]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/BP_DoorOpen.uasset
+[2018.05.02-10.39.19:008][147]LogSavePackage: Save=369.67ms
+[2018.05.02-10.39.19:008][147]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/TopDownExampleMap_Auto13C1248424393B6F1944C218A654B9606.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2018.05.02-10.39.19:012][147]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap
+[2018.05.02-10.39.19:017][147]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.457
+[2018.05.02-10.39.19:017][147]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.457
+[2018.05.02-11.25.08:731][622]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.05.02-11.25.08:758][622]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.25.08:758][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-11.25.08:759][622]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 3. 오전 5:25:08)
+[2018.05.02-11.25.08:759][622]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.02-11.25.08:787][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027771s)
+[2018.05.02-11.25.08:788][622]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.02-11.25.08:789][622]LogPlayLevel: PIE: World Init took: (0.002288s)
+[2018.05.02-11.25.08:789][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.030578s)
+[2018.05.02-11.25.08:849][622]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-11.25.08:866][622]LogInit: FAudioDevice initialized.
+[2018.05.02-11.25.08:922][622]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.02-11.25.08:932][622]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.02-20.25.08
+[2018.05.02-11.25.08:933][622]LogWorld: Bringing up level for play took: 0.009355
+[2018.05.02-11.25.08:946][622]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.413
+[2018.05.02-11.25.08:947][622]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.25.21:119][946]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.25.21:175][946]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.25.27:363][673]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.05.02-11.25.27:389][673]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.25.27:389][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-11.25.27:390][673]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 3. 오전 5:25:27)
+[2018.05.02-11.25.27:390][673]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.02-11.25.27:417][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026982s)
+[2018.05.02-11.25.27:418][673]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.02-11.25.27:418][673]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2018.05.02-11.25.27:418][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.028552s)
+[2018.05.02-11.25.27:467][673]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-11.25.27:481][673]LogInit: FAudioDevice initialized.
+[2018.05.02-11.25.27:538][673]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.02-11.25.27:545][673]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.02-20.25.27
+[2018.05.02-11.25.27:546][673]LogWorld: Bringing up level for play took: 0.006701
+[2018.05.02-11.25.27:555][673]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.196
+[2018.05.02-11.25.27:556][673]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.25.30:197][953]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.25.30:258][953]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.25.51:515][676]LogSavePackage: Save=82.85ms
+[2018.05.02-11.25.51:515][676]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/TopDownCharacter2153C27F460FFE5C7AD5969B38440B2A.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Character/TopDownCharacter.uasset'
+[2018.05.02-11.25.51:521][676]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Character/TopDownCharacter.uasset
+[2018.05.02-11.25.52:589][756]BlueprintLog: New page: TopDownCharacter 컴파일
+[2018.05.02-11.25.55:146][957]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.05.02-11.25.55:180][957]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.25.55:180][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-11.25.55:181][957]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 3. 오전 5:25:55)
+[2018.05.02-11.25.55:181][957]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.02-11.25.55:205][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024317s)
+[2018.05.02-11.25.55:206][957]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.02-11.25.55:206][957]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2018.05.02-11.25.55:207][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.026004s)
+[2018.05.02-11.25.55:256][957]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-11.25.55:270][957]LogInit: FAudioDevice initialized.
+[2018.05.02-11.25.55:326][957]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.02-11.25.55:333][957]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.02-20.25.55
+[2018.05.02-11.25.55:334][957]LogWorld: Bringing up level for play took: 0.007327
+[2018.05.02-11.25.55:343][957]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.016
+[2018.05.02-11.25.55:343][957]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.26.31:921][666]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.26.31:957][666]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.26.36:857][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1Floor)
+[2018.05.02-11.26.40:555][ 79]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.26.40:556][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-11.26.40:556][ 79]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 3. 오전 5:26:40)
+[2018.05.02-11.26.40:556][ 79]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.02-11.26.40:587][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030517s)
+[2018.05.02-11.26.40:588][ 79]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.02-11.26.40:588][ 79]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2018.05.02-11.26.40:588][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.032271s)
+[2018.05.02-11.26.40:640][ 79]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-11.26.40:653][ 79]LogInit: FAudioDevice initialized.
+[2018.05.02-11.26.40:685][ 79]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.02-11.26.40:691][ 79]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.02-20.26.40
+[2018.05.02-11.26.40:692][ 79]LogWorld: Bringing up level for play took: 0.006593
+[2018.05.02-11.26.40:697][ 79]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.661
+[2018.05.02-11.26.40:698][ 79]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.26.42:953][343]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.26.43:013][343]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.26.43:869][435]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.05.02-11.26.43:895][435]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.26.43:895][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-11.26.43:896][435]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 3. 오전 5:26:43)
+[2018.05.02-11.26.43:896][435]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.02-11.26.43:924][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028373s)
+[2018.05.02-11.26.43:925][435]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.02-11.26.43:925][435]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2018.05.02-11.26.43:925][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.029668s)
+[2018.05.02-11.26.43:980][435]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-11.26.43:993][435]LogInit: FAudioDevice initialized.
+[2018.05.02-11.26.44:023][435]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.02-11.26.44:029][435]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.02-20.26.44
+[2018.05.02-11.26.44:029][435]LogWorld: Bringing up level for play took: 0.005545
+[2018.05.02-11.26.44:035][435]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.676
+[2018.05.02-11.26.44:035][435]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.26.45:795][641]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.26.45:829][641]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.26.55:282][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_A2)
+[2018.05.02-11.26.56:561][871]Cmd: DELETE
+[2018.05.02-11.26.56:561][871]Cmd: ACTOR DELETE
+[2018.05.02-11.26.56:565][871]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.02-11.26.56:588][871]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.05.02-11.26.58:534][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_C1)
+[2018.05.02-11.26.58:716][101]Cmd: DELETE
+[2018.05.02-11.26.58:716][101]Cmd: ACTOR DELETE
+[2018.05.02-11.26.58:720][101]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.02-11.26.58:743][101]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.05.02-11.27.07:674][130]LogEditorViewport: Clicking on Actor (LMB): BP_DoorOpen_C (BP_DoorOpen_90)
+[2018.05.02-11.27.36:376][162]Cmd: EDIT COPY
+[2018.05.02-11.27.36:613][168]Cmd: EDIT PASTE
+[2018.05.02-11.28.02:002][845]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.05.02-11.28.02:029][845]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.28.02:029][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-11.28.02:030][845]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 3. 오전 5:28:02)
+[2018.05.02-11.28.02:030][845]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.02-11.28.02:056][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026277s)
+[2018.05.02-11.28.02:057][845]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.02-11.28.02:058][845]LogPlayLevel: PIE: World Init took: (0.001534s)
+[2018.05.02-11.28.02:058][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.028380s)
+[2018.05.02-11.28.02:111][845]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-11.28.02:125][845]LogInit: FAudioDevice initialized.
+[2018.05.02-11.28.02:158][845]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.02-11.28.02:163][845]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.02-20.28.02
+[2018.05.02-11.28.02:164][845]LogWorld: Bringing up level for play took: 0.005623
+[2018.05.02-11.28.02:170][845]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.811
+[2018.05.02-11.28.02:170][845]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.28.23:734][401]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.28.23:775][401]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.28.28:108][899]LogEditorViewport: Clicking on Actor (LMB): BP_DoorOpen_C (BP_DoorOpen_90)
+[2018.05.02-11.28.39:310][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/BP_DoorOpen" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/BP_DoorOpen.uasset" SILENT=true
+[2018.05.02-11.28.39:379][737]LogSavePackage: Save=55.61ms
+[2018.05.02-11.28.39:379][737]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/BP_DoorOpenB9689F0B4A92BB4631964CBEE0DE3238.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/BP_DoorOpen.uasset'
+[2018.05.02-11.28.39:385][737]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/BP_DoorOpen.uasset
+[2018.05.02-11.28.41:298][911]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.05.02-11.28.41:326][911]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.28.41:326][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-11.28.41:326][911]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 3. 오전 5:28:41)
+[2018.05.02-11.28.41:326][911]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.02-11.28.41:355][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028887s)
+[2018.05.02-11.28.41:356][911]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.02-11.28.41:356][911]LogPlayLevel: PIE: World Init took: (0.001293s)
+[2018.05.02-11.28.41:357][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.030614s)
+[2018.05.02-11.28.41:408][911]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-11.28.41:422][911]LogInit: FAudioDevice initialized.
+[2018.05.02-11.28.41:451][911]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.02-11.28.41:458][911]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.02-20.28.41
+[2018.05.02-11.28.41:459][911]LogWorld: Bringing up level for play took: 0.007520
+[2018.05.02-11.28.41:465][911]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.106
+[2018.05.02-11.28.41:465][911]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.28.57:904][838]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.28.57:948][838]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.29.00:387][105]LogEditorViewport: Clicking on Actor (LMB): BP_DoorOpen_C (BP_DoorOpen_90)
+[2018.05.02-11.29.09:152][  9]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2018.05.02-11.29.11:495][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1Floor)
+[2018.05.02-11.29.12:101][220]LogEditorViewport: Clicking on Actor (LMB): BP_Item1_C (BP_Item1)
+[2018.05.02-11.29.20:026][907]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2018.05.02-11.29.33:902][960]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.05.02-11.29.33:930][960]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.29.33:930][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-11.29.33:930][960]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 3. 오전 5:29:33)
+[2018.05.02-11.29.33:930][960]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.02-11.29.33:955][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024438s)
+[2018.05.02-11.29.33:956][960]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.02-11.29.33:956][960]LogPlayLevel: PIE: World Init took: (0.001206s)
+[2018.05.02-11.29.33:957][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.026156s)
+[2018.05.02-11.29.34:011][960]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-11.29.34:024][960]LogInit: FAudioDevice initialized.
+[2018.05.02-11.29.34:055][960]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.02-11.29.34:061][960]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.02-20.29.34
+[2018.05.02-11.29.34:062][960]LogWorld: Bringing up level for play took: 0.006024
+[2018.05.02-11.29.34:067][960]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.709
+[2018.05.02-11.29.34:068][960]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.29.40:863][744]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.29.40:903][744]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.29.54:768][362]LogEditorViewport: Clicking on Actor (LMB): BP_Roof_C (1F_경비원실천장)
+[2018.05.02-11.29.57:051][587]LogEditorViewport: Clicking on Actor (LMB): BP_DoorOpen_C (BP_DoorOpen_90)
+[2018.05.02-11.29.57:735][637]Cmd: DELETE
+[2018.05.02-11.29.57:735][637]Cmd: ACTOR DELETE
+[2018.05.02-11.29.57:740][637]LogEditorActor: Deleted Actor: BP_DoorOpen_C
+[2018.05.02-11.29.57:764][637]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2018.05.02-11.29.58:169][684]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.05.02-11.29.58:201][684]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.29.58:201][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-11.29.58:202][684]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 3. 오전 5:29:58)
+[2018.05.02-11.29.58:202][684]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.02-11.29.58:225][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023632s)
+[2018.05.02-11.29.58:226][684]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.02-11.29.58:226][684]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2018.05.02-11.29.58:227][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.025072s)
+[2018.05.02-11.29.58:281][684]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-11.29.58:292][684]LogInit: FAudioDevice initialized.
+[2018.05.02-11.29.58:326][684]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.02-11.29.58:333][684]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.02-20.29.58
+[2018.05.02-11.29.58:333][684]LogWorld: Bringing up level for play took: 0.006670
+[2018.05.02-11.29.58:339][684]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.98
+[2018.05.02-11.29.58:339][684]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.30.14:890][610]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.30.14:927][610]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.30.44:839][440]BlueprintLog: New page: BP_DoorOpen 컴파일
+[2018.05.02-11.30.46:285][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/BP_DoorOpen" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/BP_DoorOpen.uasset" SILENT=true
+[2018.05.02-11.30.46:377][479]LogSavePackage: Save=79.08ms
+[2018.05.02-11.30.46:377][479]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/BP_DoorOpenE1BDEB89406165A38829E5B51F785781.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/BP_DoorOpen.uasset'
+[2018.05.02-11.30.46:383][479]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/BP_DoorOpen.uasset
+[2018.05.02-11.30.49:127][722]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.05.02-11.30.49:172][722]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.30.49:172][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-11.30.49:172][722]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 3. 오전 5:30:49)
+[2018.05.02-11.30.49:172][722]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.02-11.30.49:204][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031706s)
+[2018.05.02-11.30.49:205][722]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.02-11.30.49:206][722]LogPlayLevel: PIE: World Init took: (0.001716s)
+[2018.05.02-11.30.49:213][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.040658s)
+[2018.05.02-11.30.49:270][722]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-11.30.49:288][722]LogInit: FAudioDevice initialized.
+[2018.05.02-11.30.49:318][722]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.02-11.30.49:326][722]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.02-20.30.49
+[2018.05.02-11.30.49:327][722]LogWorld: Bringing up level for play took: 0.008107
+[2018.05.02-11.30.49:336][722]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.023
+[2018.05.02-11.30.49:336][722]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.31.11:875][325]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.31.11:913][325]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.02-11.31.21:054][597]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.02-11.31.21:347][598]Cmd: QUIT_EDITOR
+[2018.05.02-11.31.21:886][598]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.05.02-11.31.21:972][598]LogExit: Preparing to exit.
+[2018.05.02-11.31.22:878][598]LogDirectoryWatcher: A directory notification for 'C:/Users/201411255/Documents/GitHub/Trolley_0.05/Content/' was aborted.
+[2018.05.02-11.31.23:163][598]LogExit: Editor shut down
+[2018.05.02-11.31.23:190][598]LogExit: Transaction tracking system shut down
+[2018.05.02-11.31.23:635][598]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.05.02-11.31.23:635][598]LogDirectoryWatcher: A directory notification for '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/' was aborted.
+[2018.05.02-11.31.23:635][598]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.05.02-11.31.23:636][598]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.05.02-11.31.23:636][598]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.05.02-11.31.23:636][598]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.05.02-11.31.23:636][598]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.05.02-11.31.24:712][598]LogExit: Object subsystem successfully closed.
+[2018.05.02-11.31.24:915][598]LogD3D11RHI: Shutdown
+[2018.05.02-11.31.24:927][598]LogD3D11RHI: CleanupD3DDevice
+[2018.05.02-11.31.24:943][598]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.05.02-11.31.27:234][598]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2018.05.02-11.31.27:234][598]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (552)
+[2018.05.02-11.31.27:234][598]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2018.05.02-11.31.27:234][598]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.05.02-11.31.27:234][598]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.05.02-11.31.27:235][598]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.05.02-11.31.27:260][598]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.05.02-11.31.27:294][598]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.05.02-11.31.27:294][598]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.05.02-11.31.27:294][598]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.05.02-11.31.27:365][598]LogDirectoryWatcher: A directory notification for 'C:/Users/201411255/Documents/GitHub/Trolley_0.05/Content/Collections/' was aborted.
+[2018.05.02-11.31.27:365][598]LogDirectoryWatcher: A directory notification for 'C:/Users/201411255/Documents/GitHub/Trolley_0.05/Content/Developers/201411255/Collections/' was aborted.
+[2018.05.02-11.31.27:365][598]LogDirectoryWatcher: A directory notification for 'C:/Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Collections/' was aborted.
+[2018.05.02-11.31.27:365][598]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.05.02-11.31.27:432][598]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.05.02-11.31.27:451][598]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.05.02-11.31.27:584][598]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.05.02-11.31.27:613][598]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.05.02-11.31.27:613][598]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.05.02-11.31.27:613][598]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.05.02-11.31.27:613][598]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.05.02-11.31.27:613][598]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.05.02-11.31.27:613][598]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.05.02-11.31.27:613][598]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.05.02-11.31.27:613][598]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.05.02-11.31.27:645][598]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.05.02-11.31.27:683][598]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.05.02-11.31.27:731][598]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.05.02-11.31.27:917][598]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.05.02-11.31.27:917][598]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.05.02-11.31.27:917][598]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.05.02-11.31.27:917][598]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.05.02-11.31.27:918][598]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.05.02-11.31.27:918][598]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.05.02-11.31.27:918][598]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.05.02-11.31.27:918][598]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.05.02-11.31.27:918][598]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.05.02-11.31.27:918][598]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.05.02-11.31.27:918][598]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.05.02-11.31.27:918][598]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.05.02-11.31.27:948][598]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.05.02-11.31.27:981][598]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.05.02-11.31.27:981][598]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.05.02-11.31.27:981][598]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.05.02-11.31.27:981][598]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.05.02-11.31.27:982][598]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.05.02-11.31.28:079][598]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.05.02-11.31.28:247][598]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.05.02-11.31.28:373][598]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.05.02-11.31.28:507][598]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.05.02-11.31.28:613][598]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.05.02-11.31.28:613][598]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.05.02-11.31.28:613][598]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.05.02-11.31.28:614][598]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.05.02-11.31.29:468][598]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.05.02-11.31.29:469][598]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.05.02-11.31.29:469][598]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.05.02-11.31.29:469][598]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.05.02-11.31.30:823][598]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.05.02-11.31.30:879][598]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.05.02-11.31.30:879][598]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.05.02-11.31.30:959][598]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.05.02-11.31.30:960][598]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.05.02-11.31.31:024][598]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.05.02-11.31.31:060][598]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.05.02-11.31.31:060][598]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.05.02-11.31.31:060][598]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.05.02-11.31.31:060][598]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.05.02-11.31.31:091][598]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.05.02-11.31.31:091][598]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.05.02-11.31.31:091][598]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.05.02-11.31.31:091][598]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.05.02-11.31.31:091][598]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.05.02-11.31.31:112][598]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.05.02-11.31.31:128][598]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.05.02-11.31.31:207][598]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.05.02-11.31.31:213][598]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.05.02-11.31.31:226][598]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.05.02-11.31.31:281][598]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.05.02-11.31.31:331][598]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.05.02-11.31.31:343][598]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.05.02-11.31.31:363][598]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.05.02-11.31.31:363][598]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.05.02-11.31.31:382][598]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.05.02-11.31.31:382][598]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.05.02-11.31.31:413][598]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.05.02-11.31.31:413][598]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.05.02-11.31.31:413][598]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.05.02-11.31.31:450][598]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.05.02-11.31.31:450][598]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.05.02-11.31.31:450][598]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.05.02-11.31.31:467][598]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.05.02-11.31.31:551][598]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.05.02-11.31.31:563][598]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.05.02-11.31.31:572][598]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.05.02-11.31.31:574][598]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.05.02-11.31.31:574][598]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.05.02-11.31.31:574][598]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.05.02-11.31.31:574][598]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.05.02-11.31.31:574][598]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.05.02-11.31.31:574][598]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.05.02-11.31.31:574][598]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.05.02-11.31.31:574][598]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.05.02-11.31.31:574][598]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.05.02-11.31.31:584][598]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.05.02-11.31.31:584][598]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.05.02-11.31.31:594][598]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.05.02-11.31.31:594][598]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.05.02-11.31.31:758][598]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.05.02-11.31.31:802][598]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.05.02-11.31.31:802][598]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.05.02-11.31.31:802][598]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.05.02-11.31.31:865][598]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.05.02-11.31.31:914][598]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.05.02-11.31.31:914][598]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.05.02-11.31.31:914][598]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.05.02-11.31.31:986][598]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.05.02-11.31.31:986][598]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.05.02-11.31.31:986][598]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.05.02-11.31.31:986][598]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.05.02-11.31.32:286][598]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.05.02-11.31.32:286][598]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.05.02-11.31.32:286][598]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.05.02-11.31.32:286][598]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.05.02-11.31.32:978][598]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.05.02-11.31.32:979][598]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.05.02-11.31.32:997][598]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.05.02-11.31.32:997][598]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.05.02-11.31.32:997][598]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.05.02-11.31.34:607][598]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.05.02-11.31.34:807][598]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.05.02-11.31.34:808][598]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.05.02-11.31.34:808][598]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.05.02-11.31.34:808][598]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.05.02-11.31.34:873][598]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.05.02-11.31.35:066][598]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.05.02-11.31.35:271][598]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.05.02-11.31.35:327][598]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.05.02-11.31.35:327][598]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.05.02-11.31.35:327][598]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.05.02-11.31.35:327][598]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.05.02-11.31.35:413][598]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.05.02-11.31.35:445][598]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.05.02-11.31.35:462][598]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.05.02-11.31.35:492][598]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.05.02-11.31.35:492][598]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.05.02-11.31.35:521][598]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.05.02-11.31.35:521][598]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.05.02-11.31.35:521][598]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.05.02-11.31.35:521][598]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.05.02-11.31.35:521][598]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.05.02-11.31.35:521][598]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.05.02-11.31.35:521][598]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.05.02-11.31.35:559][598]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.05.02-11.31.35:722][598]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.05.02-11.31.35:883][598]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.05.02-11.31.35:951][598]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.05.02-11.31.35:951][598]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.05.02-11.31.35:951][598]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.05.02-11.31.36:072][598]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.05.02-11.31.36:074][598]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.05.02-11.31.36:078][598]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.05.02-11.31.36:078][598]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.05.02-11.31.36:078][598]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.05.02-11.31.36:106][598]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.05.02-11.31.36:179][598]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.05.02-11.31.36:179][598]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.05.02-11.31.36:179][598]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.05.02-11.31.36:179][598]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.05.02-11.31.36:273][598]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.05.02-11.31.36:273][598]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.05.02-11.31.36:280][598]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.05.02-11.31.36:281][598]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.05.02-11.31.36:281][598]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.05.02-11.31.37:323][598]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.05.02-11.31.37:335][598]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.05.02-11.31.37:335][598]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.05.02-11.31.37:483][598]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.05.02-11.31.37:496][598]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.05.02-11.31.37:556][598]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.05.02-11.31.37:556][598]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.05.02-11.31.37:609][598]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.05.02-11.31.37:931][598]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.05.02-11.31.38:134][598]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.05.02-11.31.38:134][598]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.05.02-11.31.38:311][598]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.05.02-11.31.38:311][598]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.05.02-11.31.38:316][598]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.05.02-11.31.38:316][598]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.05.02-11.31.38:316][598]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.05.02-11.31.38:316][598]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.05.02-11.31.38:316][598]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.05.02-11.31.38:316][598]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.05.02-11.31.38:316][598]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.05.02-11.31.38:367][598]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.05.02-11.31.38:369][598]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.05.02-11.31.38:369][598]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.05.02-11.31.38:755][598]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.05.02-11.31.38:893][598]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.05.02-11.31.38:893][598]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.05.02-11.31.38:973][598]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.05.02-11.31.38:973][598]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.05.02-11.31.39:047][598]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.05.02-11.31.39:062][598]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.05.02-11.31.39:105][598]LogDerivedDataCache: Shutdown
+[2018.05.02-11.31.39:105][598]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.05.02-11.31.39:105][598]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.05.02-11.31.39:174][598]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.05.02-11.31.39:189][598]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.05.02-11.31.39:283][598]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.05.02-11.31.39:303][598]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.05.02-11.31.39:326][598]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.05.02-11.31.39:326][598]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.05.02-11.31.39:326][598]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.05.02-11.31.39:326][598]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.05.02-11.31.39:371][598]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.05.02-11.31.39:371][598]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.05.02-11.31.39:371][598]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.05.02-11.31.39:371][598]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.05.02-11.31.39:371][598]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.05.02-11.31.39:371][598]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.05.02-11.31.39:371][598]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.05.02-11.31.39:371][598]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.05.02-11.31.39:371][598]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.05.02-11.31.39:371][598]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.05.02-11.31.39:371][598]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.05.02-11.31.39:371][598]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.05.02-11.31.39:372][598]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.05.02-11.31.39:372][598]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.05.02-11.31.39:372][598]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.05.02-11.31.39:372][598]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.05.02-11.31.39:372][598]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.05.02-11.31.39:372][598]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.05.02-11.31.39:372][598]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.05.02-11.31.39:372][598]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.05.02-11.31.39:372][598]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.05.02-11.31.39:372][598]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.05.02-11.31.39:372][598]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.05.02-11.31.39:372][598]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.05.02-11.31.39:372][598]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.05.02-11.31.39:372][598]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.05.02-11.31.39:372][598]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.05.02-11.31.39:372][598]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.05.02-11.31.39:372][598]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.05.02-11.31.39:372][598]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.05.02-11.31.39:372][598]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.05.02-11.31.39:372][598]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.05.02-11.31.39:372][598]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.05.02-11.31.39:372][598]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.05.02-11.31.39:373][598]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.05.02-11.31.39:373][598]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.05.02-11.31.39:415][598]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.05.02-11.31.39:415][598]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.05.02-11.31.39:415][598]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.05.02-11.31.39:415][598]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.05.02-11.31.39:415][598]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.05.02-11.31.39:565][598]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.05.02-11.31.39:591][598]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.05.02-11.31.39:591][598]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.05.02-11.31.39:625][598]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9C384CE8-40AC-BD79-0A89-75B312D26B82%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=85f5624e41710235cc2d1c94528e1679%7Cfd159e6a22e842339ef246a1fe6d8531%7C6a8768f6-ef21-4795-bfa6-daf8d470321e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.05.02-11.31.39:646][598]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.05.02-11.31.39:713][598]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.05.02-11.31.39:765][598]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.05.02-11.31.39:765][598]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.05.02-11.31.39:865][598]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.05.02-11.31.39:911][598]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.05.02-11.31.39:911][598]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.05.02-11.31.39:911][598]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.05.02-11.31.40:016][598]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.05.02-11.31.40:148][598]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.05.02-11.31.40:148][598]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.05.02-11.31.40:217][598]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.05.02-11.31.40:217][598]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.05.02-11.31.40:317][598]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.05.02-11.31.40:317][598]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.05.02-11.31.40:451][598]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.05.02-11.31.40:451][598]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.05.02-11.31.40:484][598]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.05.02-11.31.40:627][598]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.05.02-11.31.40:968][598]LogExit: Exiting.
+[2018.05.02-11.31.41:005][598]Log file closed, 05/02/18 20:31:41

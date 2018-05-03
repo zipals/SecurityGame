@@ -1,0 +1,829 @@
+﻿Log file open, 05/03/18 15:02:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Trolley
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1822326289) SRandInit(-1822326289).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 127.639530
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.03-06.02.16:112][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.03-06.02.16:112][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.03-06.02.16:262][  0]LogInit: Computer: DESKTOP-FMM3QSI
+[2018.05.03-06.02.16:262][  0]LogInit: User: 201411255
+[2018.05.03-06.02.16:262][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.05.03-06.02.16:262][  0]LogInit: High frequency timer resolution =3.312647 MHz
+[2018.05.03-06.02.16:272][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.05.03-06.02.16:272][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.03-06.02.16:272][  0]LogMemory: Process Physical Memory: 273.68 MB used, 273.68 MB peak
+[2018.05.03-06.02.16:272][  0]LogMemory: Process Virtual Memory: 269.19 MB used, 269.19 MB peak
+[2018.05.03-06.02.16:272][  0]LogMemory: Physical Memory: 3395.71 MB used,  4681.81 MB free, 8077.52 MB total
+[2018.05.03-06.02.16:272][  0]LogMemory: Virtual Memory: 673.74 MB used,  4681.81 MB free, 134217728.00 MB total
+[2018.05.03-06.02.17:579][  0]LogInit: Using OS detected language (ko-KR).
+[2018.05.03-06.02.17:579][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.05.03-06.02.17:916][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.05.03-06.02.18:544][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.03-06.02.28:381][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.03-06.02.28:468][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.05.03-06.02.28:468][  0]LogD3D11RHI:       1977/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.05.03-06.02.28:588][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4400' (Feature Level 11_0)
+[2018.05.03-06.02.28:588][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.05.03-06.02.28:591][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.03-06.02.28:591][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.03-06.02.28:591][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.03-06.02.28:606][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.03-06.02.28:606][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.03-06.02.28:606][  0]LogWindows: EnumDisplayDevices:
+[2018.05.03-06.02.28:606][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2018.05.03-06.02.28:606][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:1)
+[2018.05.03-06.02.28:607][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.05.03-06.02.28:607][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.05.03-06.02.28:607][  0]LogWindows:    4. 'Intel(R) HD Graphics 4400' (P:0 D:0)
+[2018.05.03-06.02.28:608][  0]LogWindows:    5. 'Intel(R) HD Graphics 4400' (P:0 D:0)
+[2018.05.03-06.02.28:608][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.03-06.02.28:608][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.05.03-06.02.28:608][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.03-06.02.28:608][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.03-06.02.28:608][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2018.05.03-06.02.28:768][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.03-06.02.29:240][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.03-06.02.29:445][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Intermediate/Shaders/WorkingDirectory/4520/).
+[2018.05.03-06.02.29:445][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/201411255/AppData/Local/Temp/UnrealShaderWorkingDir/2479490646A79E29157CED91E0BEF466/'.
+[2018.05.03-06.02.29:460][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.03-06.02.41:049][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.03-06.02.41:190][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.03-06.02.41:328][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.03-06.02.41:485][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.03-06.02.41:729][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.03-06.02.41:866][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.03-06.02.42:072][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.03-06.02.42:211][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.03-06.02.42:388][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.03-06.02.42:594][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.03-06.02.42:728][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.03-06.02.43:150][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.03-06.02.43:295][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.03-06.02.43:503][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.03-06.02.43:908][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.03-06.02.43:908][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.03-06.02.44:194][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.03-06.02.44:356][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.03-06.02.44:666][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.03-06.02.44:750][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.03-06.02.44:946][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.03-06.02.45:305][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.03-06.02.45:377][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.03-06.02.45:532][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.03-06.02.45:532][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.03-06.02.47:469][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.03-06.02.48:527][  0]LogDerivedDataCache: Loaded boot cache 1.03s 78MB C:/Users/201411255/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.03-06.02.48:527][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/201411255/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.05.03-06.02.48:527][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.03-06.02.48:527][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.03-06.02.48:527][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.03-06.02.48:527][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.03-06.02.48:671][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.03-06.02.48:719][  0]LogDerivedDataCache: Using Local data cache path C:/Users/201411255/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.03-06.02.48:814][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.03-06.02.48:888][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.03-06.02.48:958][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.03-06.02.48:958][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.03-06.02.57:204][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.03-06.03.00:272][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.03-06.03.00:535][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.03-06.03.00:543][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.03-06.03.00:543][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.03-06.03.00:543][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.03-06.03.00:543][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.03-06.03.01:156][  0]LogNetVersion: Trolley , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2282078908)
+[2018.05.03-06.03.03:563][  0]LogAssetRegistry: FAssetRegistry took 0.0281 seconds to start up
+[2018.05.03-06.03.10:639][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.177436 seconds
+[2018.05.03-06.03.10:646][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.05.03-06.03.10:646][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.05.03-06.03.10:646][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.03-06.03.10:743][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.03-06.03.35:220][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.03-06.03.35:457][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.03-06.03.39:002][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.03-06.03.41:863][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.05.03-06.03.41:871][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.05.03-06.03.42:145][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.05.03-06.03.42:402][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.05.03-06.03.45:592][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.03-06.03.46:575][  0]LogOcInput: OculusInput pre-init called
+[2018.05.03-06.03.48:158][  0]LogEngine: Initializing Engine...
+[2018.05.03-06.03.48:229][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.03-06.03.50:028][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.03-06.03.50:028][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.03-06.03.50:868][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.03-06.03.51:057][  0]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.03-06.03.51:196][  0]LogInit: FAudioDevice initialized.
+[2018.05.03-06.03.51:484][  0]LogDerivedDataCache: Saved boot cache 0.28s 78MB C:/Users/201411255/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.03-06.03.51:516][  0]LogInit: Texture streaming: Enabled
+[2018.05.03-06.03.51:840][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.03-06.03.52:601][  0]LogInit: Transaction tracking system initialized
+[2018.05.03-06.03.53:776][  0]BlueprintLog: New page: 에디터 로드
+[2018.05.03-06.03.57:907][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.05.03-06.04.02:622][  0]LogConsoleResponse: Display: 
+[2018.05.03-06.04.09:954][  0]LogFileCache: Scanning file cache for directory 'C:/Users/201411255/Documents/GitHub/Trolley_0.05/Content/' took 0.05s
+[2018.05.03-06.04.09:955][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.03-06.04.09:955][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.03-06.04.09:985][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.03-06.04.15:695][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.05.03-06.04.15:751][  0]Cmd: MAP LOAD FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.03-06.04.15:857][  0]LightingResults: New page: 라이팅 빌드
+[2018.05.03-06.04.16:288][  0]MapCheck: New page: 맵 체크
+[2018.05.03-06.04.16:288][  0]LightingResults: New page: 라이팅 빌드
+[2018.05.03-06.04.20:231][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.03-06.04.30:030][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.03-06.04.31:143][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.03-06.04.31:414][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.03-06.04.31:553][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 138.974ms.
+[2018.05.03-06.04.31:553][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 15.833
+[2018.05.03-06.04.33:344][  0]LogCollectionManager: Loaded 0 collections in 0.003355 seconds
+[2018.05.03-06.04.33:609][  0]LogFileCache: Scanning file cache for directory 'C:/Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Collections/' took 0.01s
+[2018.05.03-06.04.33:609][  0]LogFileCache: Scanning file cache for directory 'C:/Users/201411255/Documents/GitHub/Trolley_0.05/Content/Developers/201411255/Collections/' took 0.01s
+[2018.05.03-06.04.33:609][  0]LogFileCache: Scanning file cache for directory 'C:/Users/201411255/Documents/GitHub/Trolley_0.05/Content/Collections/' took 0.01s
+[2018.05.03-06.04.33:609][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.03-06.04.33:678][  0]LogContentBrowser: Native class hierarchy populated in 0.0664 seconds. Added 2363 classes and 519 folders.
+[2018.05.03-06.04.34:224][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.03-06.04.36:598][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.05.03-06.04.36:738][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.05.03-06.04.38:361][  0]LogSlate: Took 0.021729 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.03-06.04.38:417][  0]LogSlate: Took 0.055644 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.05.03-06.04.38:429][  0]LogSlate: Took 0.011251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.03-06.04.38:500][  0]LogSlate: Took 0.031790 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.03-06.04.39:562][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2018.05.03-06.04.41:021][  0]LogSlate: Took 0.032217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.03-06.04.41:557][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.05.03-06.04.41:557][  0]LogLoad: (Engine Initialization) Total time: 372.98 seconds
+[2018.05.03-06.04.41:557][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.03-06.04.41:557][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.05.03-06.04.41:557][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.05.03-06.04.42:025][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.03-06.04.43:078][  3]LogSlate: Took 0.000415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.03-06.04.43:398][  4]LogAssetRegistry: Asset discovery search completed in 99.8570 seconds
+[2018.05.03-06.04.43:400][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.03-06.04.43:400][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000078 seconds (updated 0 objects)
+[2018.05.03-06.05.13:836][884]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.05.15:348][991]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.05.03-06.05.15:525][991]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.05.15:534][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.03-06.05.15:574][991]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 4. 오전 12:05:15)
+[2018.05.03-06.05.15:591][991]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.03-06.05.15:725][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.133717s)
+[2018.05.03-06.05.15:726][991]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.03-06.05.15:726][991]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2018.05.03-06.05.15:727][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.135338s)
+[2018.05.03-06.05.15:804][991]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.03-06.05.15:996][991]LogInit: FAudioDevice initialized.
+[2018.05.03-06.05.16:089][991]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.03-06.05.16:129][991]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.03-15.05.16
+[2018.05.03-06.05.16:169][991]LogWorld: Bringing up level for play took: 0.056199
+[2018.05.03-06.05.16:417][991]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.05.03-06.05.16:640][991]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.162
+[2018.05.03-06.05.16:641][991]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.05.28:548][ 93]LogShaderCompilers: Warning: C:\Users\201411255\Documents\GitHub\Trolley_0.05\Content\TopDownBP\Material\M_Highlight.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.03-06.05.28:548][ 93]LogShaderCompilers: 	/Engine/Generated/Material.ush(1276,13-17):  err0r X3004: undeclared identifier 'Value'
+[2018.05.03-06.06.03:227][890]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.06.03:577][890]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.06.07:461][149]LogSlate: Took 0.018321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.03-06.06.07:650][149]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0010 seconds. Added 1 classes and 0 folders.
+[2018.05.03-06.06.07:705][149]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.06.08:419][149]LogSlate: Took 0.181800 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.03-06.06.12:175][149]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.06.12:270][149]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.06.12:340][149]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_2, compiling. 
+[2018.05.03-06.06.12:358][149]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.05.03-06.06.12:452][149]LogSlate: Took 0.020251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.03-06.06.14:109][150]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: 경로는 4 자 미만이어야 합니다.
+[2018.05.03-06.06.14:110][150]LogShaderCompilers: Warning:  (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.03-06.06.14:110][150]LogShaderCompilers: 	/Engine/Generated/Material.ush(1276,13-17):  err0r X3004: undeclared identifier 'Value'
+[2018.05.03-06.06.14:110][150]LogShaderCompilers: Warning: /Engine/Transient.M_Highlight (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.03-06.06.14:110][150]LogShaderCompilers: 	/Engine/Generated/Material.ush(1276,13-17):  err0r X3004: undeclared identifier 'Value'
+[2018.05.03-06.06.14:187][150]LogSlate: Took 0.023293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.03-06.06.14:381][151]MaterialEditorStats: Error: [SM5] /Engine/Generated/Material.ush(1276,13-17):  error X3004: undeclared identifier 'Value'
+[2018.05.03-06.07.00:228][597]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.07.02:133][707]LogMaterialEditor: Saving and Compiling material M_Highlight
+[2018.05.03-06.07.04:861][707]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.07.04:946][707]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.07.04:971][707]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.07.05:040][707]TextureStreamingBuild: Display: Compiling optional shaders took 0.020 seconds.
+[2018.05.03-06.07.05:777][707]LogShaderCompilers: Warning: C:\Users\201411255\Documents\GitHub\Trolley_0.05\Content\TopDownBP\Material\M_Highlight.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.03-06.07.05:777][707]LogShaderCompilers: 	/Engine/Generated/Material.ush(1276,13-17):  err0r X3004: undeclared identifier 'Value'
+[2018.05.03-06.07.05:813][707]LogShaderCompilers: Warning: /Engine/Transient.M_Highlight (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.03-06.07.05:813][707]LogShaderCompilers: 	/Engine/Generated/Material.ush(1276,13-17):  err0r X3004: undeclared identifier 'Value'
+[2018.05.03-06.07.05:931][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Material/M_Highlight" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset" SILENT=true
+[2018.05.03-06.07.06:289][707]LogSavePackage: Save=108.97ms
+[2018.05.03-06.07.06:289][707]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/M_HighlightF8030F1B4EE2508F03CC90B551D8902E.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset'
+[2018.05.03-06.07.06:598][707]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset
+[2018.05.03-06.07.06:608][707]MaterialEditorStats: Error: [SM5] /Engine/Generated/Material.ush(1276,13-17):  error X3004: undeclared identifier 'Value'
+[2018.05.03-06.07.08:161][844]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.05.03-06.07.08:190][844]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.07.08:210][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.03-06.07.08:210][844]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 4. 오전 12:07:08)
+[2018.05.03-06.07.08:210][844]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.03-06.07.08:248][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037381s)
+[2018.05.03-06.07.08:249][844]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.03-06.07.08:249][844]LogPlayLevel: PIE: World Init took: (0.001674s)
+[2018.05.03-06.07.08:250][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.039735s)
+[2018.05.03-06.07.08:299][844]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.03-06.07.08:315][844]LogInit: FAudioDevice initialized.
+[2018.05.03-06.07.08:441][844]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.03-06.07.08:448][844]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.03-15.07.08
+[2018.05.03-06.07.08:449][844]LogWorld: Bringing up level for play took: 0.006824
+[2018.05.03-06.07.08:455][844]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.024
+[2018.05.03-06.07.08:455][844]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.07.14:488][424]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.07.14:525][424]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.07.26:189][ 62]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.07.31:261][410]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.07.33:802][579]LogShaderCompilers: Warning: /Engine/Transient.M_Highlight (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.03-06.07.33:803][579]LogShaderCompilers: 	/Engine/Generated/Material.ush(1276,13-17):  err0r X3004: undeclared identifier 'Value'
+[2018.05.03-06.07.42:293][263]LogMaterialEditor: Saving and Compiling material M_Highlight
+[2018.05.03-06.07.47:068][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Material/M_Highlight" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset" SILENT=true
+[2018.05.03-06.07.47:163][263]LogSavePackage: Save=82.38ms
+[2018.05.03-06.07.47:163][263]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/M_HighlightC48AC9314FC534457CB60B9B7EEEEA4F.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset'
+[2018.05.03-06.07.47:169][263]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset
+[2018.05.03-06.07.47:177][263]MaterialEditorStats: Error: [SM5] /Engine/Generated/Material.ush(1276,13-17):  error X3004: undeclared identifier 'Value'
+[2018.05.03-06.08.12:744][224]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.08.15:719][406]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.08.17:059][482]LogMaterialEditor: Saving and Compiling material M_Highlight
+[2018.05.03-06.08.20:104][482]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.08.20:179][482]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.08.20:213][482]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.08.20:254][482]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2018.05.03-06.08.21:105][482]LogShaderCompilers: Warning: C:\Users\201411255\Documents\GitHub\Trolley_0.05\Content\TopDownBP\Material\M_Highlight.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.03-06.08.21:105][482]LogShaderCompilers: 	/Engine/Generated/Material.ush(1276,13-17):  err0r X3004: undeclared identifier 'Value'
+[2018.05.03-06.08.21:110][482]LogShaderCompilers: Warning: /Engine/Transient.M_Highlight (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.03-06.08.21:110][482]LogShaderCompilers: 	/Engine/Generated/Material.ush(1276,13-17):  err0r X3004: undeclared identifier 'Value'
+[2018.05.03-06.08.21:160][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Material/M_Highlight" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset" SILENT=true
+[2018.05.03-06.08.21:246][482]LogSavePackage: Save=75.29ms
+[2018.05.03-06.08.21:246][482]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/M_Highlight3D7C712849D0CD26A6D452BE28E0821E.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset'
+[2018.05.03-06.08.21:254][482]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset
+[2018.05.03-06.08.21:265][482]MaterialEditorStats: Error: [SM5] /Engine/Generated/Material.ush(1276,13-17):  error X3004: undeclared identifier 'Value'
+[2018.05.03-06.08.39:449][651]LogEditorTransaction: Undo Scene Texture Id 편집
+[2018.05.03-06.08.39:510][651]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.08.39:582][651]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.08.39:924][653]LogEditorTransaction: Undo Scene Texture Id 편집
+[2018.05.03-06.08.39:996][653]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.08.40:030][653]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.08.40:823][672]LogEditorTransaction: Undo Scene Texture Id 편집
+[2018.05.03-06.08.40:883][672]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.08.40:893][672]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.08.41:434][689]LogEditorTransaction: Undo Scene Texture Id 편집
+[2018.05.03-06.08.41:448][689]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.08.41:478][689]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.08.41:990][701]LogEditorTransaction: Undo Scene Texture Id 편집
+[2018.05.03-06.08.42:052][701]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.08.42:084][701]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.08.44:633][834]LogShaderCompilers: Warning: /Engine/Transient.M_Highlight (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.03-06.08.44:633][834]LogShaderCompilers: 	/Engine/Generated/Material.ush(1276,13-17):  err0r X3004: undeclared identifier 'Value'
+[2018.05.03-06.08.44:647][835]MaterialEditorStats: Error: [SM5] /Engine/Generated/Material.ush(1276,13-17):  error X3004: undeclared identifier 'Value'
+[2018.05.03-06.09.58:723][292]LogMaterialEditor: Saving and Compiling material M_Highlight
+[2018.05.03-06.10.02:309][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Material/M_Highlight" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset" SILENT=true
+[2018.05.03-06.10.02:343][292]LogSavePackage: Save=21.51ms
+[2018.05.03-06.10.02:343][292]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/M_Highlight6B70B0644A42BA6AA14ECDA9F7F48D58.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset'
+[2018.05.03-06.10.02:344][292]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset
+[2018.05.03-06.10.44:129][163]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.05.03-06.10.44:155][163]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.10.44:155][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.03-06.10.44:155][163]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 4. 오전 12:10:44)
+[2018.05.03-06.10.44:155][163]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.03-06.10.44:253][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.097540s)
+[2018.05.03-06.10.44:255][163]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.03-06.10.44:255][163]LogPlayLevel: PIE: World Init took: (0.001677s)
+[2018.05.03-06.10.44:256][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.099680s)
+[2018.05.03-06.10.44:297][163]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.03-06.10.44:314][163]LogInit: FAudioDevice initialized.
+[2018.05.03-06.10.44:347][163]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.03-06.10.44:364][163]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.03-15.10.44
+[2018.05.03-06.10.44:365][163]LogWorld: Bringing up level for play took: 0.016762
+[2018.05.03-06.10.44:375][163]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.103
+[2018.05.03-06.10.44:376][163]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.10.47:161][476]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.10.47:193][476]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.10.57:886][280]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.10.59:694][375]LogMaterialEditor: Saving and Compiling material M_Highlight
+[2018.05.03-06.11.02:425][375]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.11.02:459][375]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.11.02:518][375]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.11.02:550][375]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2018.05.03-06.11.03:017][375]LogShaderCompilers: Warning: C:\Users\201411255\Documents\GitHub\Trolley_0.05\Content\TopDownBP\Material\M_Highlight.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.03-06.11.03:017][375]LogShaderCompilers: 	/Engine/Generated/Material.ush(1276,13-17):  err0r X3004: undeclared identifier 'Value'
+[2018.05.03-06.11.03:020][375]LogShaderCompilers: Warning: /Engine/Transient.M_Highlight (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.03-06.11.03:020][375]LogShaderCompilers: 	/Engine/Generated/Material.ush(1276,13-17):  err0r X3004: undeclared identifier 'Value'
+[2018.05.03-06.11.03:066][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Material/M_Highlight" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset" SILENT=true
+[2018.05.03-06.11.03:102][375]LogSavePackage: Save=26.36ms
+[2018.05.03-06.11.03:102][375]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/M_HighlightB29E77604B1069E6097BCA8F7B042AEA.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset'
+[2018.05.03-06.11.03:141][375]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset
+[2018.05.03-06.11.03:149][375]MaterialEditorStats: Error: [SM5] /Engine/Generated/Material.ush(1276,13-17):  error X3004: undeclared identifier 'Value'
+[2018.05.03-06.11.05:921][584]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.05.03-06.11.05:948][584]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.11.05:949][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.03-06.11.05:949][584]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 4. 오전 12:11:05)
+[2018.05.03-06.11.05:949][584]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.03-06.11.05:982][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032698s)
+[2018.05.03-06.11.05:982][584]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.03-06.11.05:983][584]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2018.05.03-06.11.05:983][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.034052s)
+[2018.05.03-06.11.06:038][584]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.03-06.11.06:056][584]LogInit: FAudioDevice initialized.
+[2018.05.03-06.11.06:084][584]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.03-06.11.06:092][584]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.03-15.11.06
+[2018.05.03-06.11.06:093][584]LogWorld: Bringing up level for play took: 0.007892
+[2018.05.03-06.11.06:100][584]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: -0.379
+[2018.05.03-06.11.06:100][584]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.11.08:711][877]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.11.08:749][877]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.11.10:403][ 58]LogEditorViewport: Clicking on Actor (LMB): BP_Item1_C (BP_Item1)
+[2018.05.03-06.11.11:198][ 59]LogEditorViewport: Clicking on Actor (LMB): BP_Item1_C (BP_Item1)
+[2018.05.03-06.11.25:506][165]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.05.03-06.12.51:767][ 13]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.12.53:434][ 98]LogShaderCompilers: Warning: /Engine/Transient.M_Highlight (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.03-06.12.53:434][ 98]LogShaderCompilers: 	/Engine/Generated/Material.ush(1276,13-17):  err0r X3004: undeclared identifier 'Value'
+[2018.05.03-06.12.53:447][ 99]MaterialEditorStats: Error: [SM5] /Engine/Generated/Material.ush(1276,13-17):  error X3004: undeclared identifier 'Value'
+[2018.05.03-06.12.54:154][148]LogMaterialEditor: Saving and Compiling material M_Highlight
+[2018.05.03-06.12.55:549][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Material/M_Highlight" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset" SILENT=true
+[2018.05.03-06.12.55:580][148]LogSavePackage: Save=15.09ms
+[2018.05.03-06.12.55:580][148]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/M_Highlight5819D2A748D0E7F6AC2271B48FB212D2.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset'
+[2018.05.03-06.12.55:581][148]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset
+[2018.05.03-06.13.08:374][369]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.13.08:434][369]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.13.08:455][369]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.13.08:560][369]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2018.05.03-06.13.09:660][369]LogShaderCompilers: Warning: /Engine/Transient.M_Highlight (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.03-06.13.09:660][369]LogShaderCompilers: 	/Engine/Generated/Material.ush(1276,13-17):  err0r X3004: undeclared identifier 'Value'
+[2018.05.03-06.13.09:660][369]LogShaderCompilers: Warning: C:\Users\201411255\Documents\GitHub\Trolley_0.05\Content\TopDownBP\Material\M_Highlight.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.03-06.13.09:660][369]LogShaderCompilers: 	/Engine/Generated/Material.ush(1276,13-17):  err0r X3004: undeclared identifier 'Value'
+[2018.05.03-06.13.11:265][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1Floor)
+[2018.05.03-06.13.12:545][647]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.05.03-06.13.12:574][647]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.13.12:574][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.03-06.13.12:575][647]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 4. 오전 12:13:12)
+[2018.05.03-06.13.12:575][647]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.03-06.13.12:602][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027610s)
+[2018.05.03-06.13.12:603][647]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.03-06.13.12:604][647]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2018.05.03-06.13.12:604][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.029206s)
+[2018.05.03-06.13.12:681][647]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.03-06.13.12:697][647]LogInit: FAudioDevice initialized.
+[2018.05.03-06.13.12:731][647]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.03-06.13.12:737][647]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.03-15.13.12
+[2018.05.03-06.13.12:738][647]LogWorld: Bringing up level for play took: 0.005689
+[2018.05.03-06.13.12:743][647]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.265
+[2018.05.03-06.13.12:744][647]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.13.17:717][219]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.13.17:754][219]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.13.58:112][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Material/M_Highlight2" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight2.uasset" SILENT=true
+[2018.05.03-06.13.58:205][837]LogSavePackage: Save=90.80ms
+[2018.05.03-06.13.58:205][837]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/M_Highlight2992E22C947965DCE6007E0A10C782959.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight2.uasset'
+[2018.05.03-06.13.58:209][837]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight2.uasset
+[2018.05.03-06.15.40:537][637]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.15.40:564][637]LogMaterial: Warning: C:\Users\201411255\Documents\GitHub\Trolley_0.05\Content\TopDownBP\Material\M_Highlight.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.03-06.15.40:564][637]LogMaterial: 	(Node SceneTexture) SceneColor lookups are only available when MaterialDomain = Surface. PostProcessMaterials should use the SceneTexture PostProcessInput0.
+[2018.05.03-06.15.40:582][637]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.05.03-06.15.40:583][637]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.03-06.15.40:583][637]LogMaterial: 	(Node SceneTexture) SceneColor lookups are only available when MaterialDomain = Surface. PostProcessMaterials should use the SceneTexture PostProcessInput0.
+[2018.05.03-06.15.40:776][637]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.05.03-06.15.40:778][637]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.03-06.15.40:778][637]LogMaterial: 	(Node SceneTexture) SceneColor lookups are only available when MaterialDomain = Surface. PostProcessMaterials should use the SceneTexture PostProcessInput0.
+[2018.05.03-06.15.40:781][637]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.05.03-06.15.40:782][637]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.03-06.15.40:782][637]LogMaterial: 	(Node SceneTexture) SceneColor lookups are only available when MaterialDomain = Surface. PostProcessMaterials should use the SceneTexture PostProcessInput0.
+[2018.05.03-06.15.40:846][637]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_1, compiling. 
+[2018.05.03-06.15.40:862][637]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2018.05.03-06.15.40:885][637]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.05.03-06.15.40:901][637]MaterialEditorStats: Error: [SM5] (Node SceneTexture) SceneColor lookups are only available when MaterialDomain = Surface. PostProcessMaterials should use the SceneTexture PostProcessInput0.
+[2018.05.03-06.15.51:901][174]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.05.03-06.15.53:660][263]LogMaterialEditor: Saving and Compiling material M_Highlight
+[2018.05.03-06.15.56:336][263]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.05.03-06.15.56:440][263]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.15.56:462][263]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.15.56:512][263]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2018.05.03-06.15.58:206][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Material/M_Highlight" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset" SILENT=true
+[2018.05.03-06.15.58:248][263]LogSavePackage: Save=29.04ms
+[2018.05.03-06.15.58:248][263]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/M_Highlight910D69594CA542CE20EFD783289D9355.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset'
+[2018.05.03-06.15.58:252][263]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset
+[2018.05.03-06.15.58:286][263]MaterialEditorStats: Base pass shader without light map: 91 instructions
+[2018.05.03-06.15.58:286][263]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.03-06.15.58:286][263]MaterialEditorStats: Texture samplers: 2/16
+[2018.05.03-06.15.59:630][264]LogSavePackage: Save=930.84ms
+[2018.05.03-06.15.59:631][264]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/TopDownExampleMap_Auto16C6E7561480EF43CB7C1B2B0800A174D.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2018.05.03-06.15.59:659][264]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap
+[2018.05.03-06.15.59:708][264]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 1.323
+[2018.05.03-06.15.59:708][264]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.323
+[2018.05.03-06.18.01:277][313]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.03-06.18.21:699][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1Floor)
+[2018.05.03-06.18.23:879][388]LogEditorViewport: Clicking on Actor (LMB): BP_Item1_C (BP_Item1)
+[2018.05.03-06.20.54:346][558]BlueprintLog: New page: TopDownExampleMap 컴파일
+[2018.05.03-06.20.58:362][585]LogSavePackage: Save=520.29ms
+[2018.05.03-06.20.58:362][585]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/TopDownExampleMap2FB510474FA13572C568BAACDB744DEB.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.05.03-06.20.58:366][585]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.05.03-06.20.58:566][585]LogFileHelpers: Saving map 'TopDownExampleMap' took 3.377
+[2018.05.03-06.21.01:248][803]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.05.03-06.21.01:332][803]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.21.01:332][803]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.05.03-06.21.01:392][803]LogPlayLevel: [PlayLevel] Compiling 2F계단 before play...
+[2018.05.03-06.21.01:850][803]LogPlayLevel: [PlayLevel] Compiling BP_DoorOpen before play...
+[2018.05.03-06.21.02:210][803]LogPlayLevel: [PlayLevel] Compiling BP_Item1 before play...
+[2018.05.03-06.21.02:584][803]LogPlayLevel: [PlayLevel] Compiling BP_Roof before play...
+[2018.05.03-06.21.03:900][803]LogPlayLevel: [PlayLevel] Compiling BP_반층 before play...
+[2018.05.03-06.21.04:268][803]LogPlayLevel: [PlayLevel] Compiling TopDownController before play...
+[2018.05.03-06.21.04:294][803]LogPlayLevel: [PlayLevel] Compiling BP_Item2 before play...
+[2018.05.03-06.21.04:553][803]LogPlayLevel: [PlayLevel] Compiling ItemUI before play...
+[2018.05.03-06.21.04:708][803]LogPlayLevel: PlayLevel: Blueprint regeneration took 3376 ms (8 blueprints)
+[2018.05.03-06.21.04:708][803]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 4. 오전 12:21:04)
+[2018.05.03-06.21.04:708][803]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.03-06.21.04:945][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.235935s)
+[2018.05.03-06.21.04:946][803]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.03-06.21.04:946][803]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2018.05.03-06.21.04:946][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.237395s)
+[2018.05.03-06.21.05:050][803]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.03-06.21.05:064][803]LogInit: FAudioDevice initialized.
+[2018.05.03-06.21.05:156][803]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.03-06.21.05:164][803]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.03-15.21.05
+[2018.05.03-06.21.05:172][803]LogWorld: Bringing up level for play took: 0.016176
+[2018.05.03-06.21.05:208][803]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 4.729
+[2018.05.03-06.21.05:208][803]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.21.16:609][ 73]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.21.16:681][ 73]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.21.24:740][886]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.05.03-06.21.24:773][886]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.21.24:773][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.03-06.21.24:773][886]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 4. 오전 12:21:24)
+[2018.05.03-06.21.24:773][886]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.03-06.21.24:804][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031186s)
+[2018.05.03-06.21.24:805][886]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.03-06.21.24:805][886]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2018.05.03-06.21.24:806][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.032656s)
+[2018.05.03-06.21.24:892][886]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.03-06.21.24:905][886]LogInit: FAudioDevice initialized.
+[2018.05.03-06.21.24:936][886]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.03-06.21.24:941][886]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.03-15.21.24
+[2018.05.03-06.21.24:942][886]LogWorld: Bringing up level for play took: 0.005520
+[2018.05.03-06.21.24:949][886]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.471
+[2018.05.03-06.21.24:949][886]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.21.36:423][222]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.21.36:465][222]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.21.37:013][278]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.05.03-06.21.37:041][278]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.21.37:041][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.03-06.21.37:041][278]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 4. 오전 12:21:37)
+[2018.05.03-06.21.37:041][278]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.03-06.21.37:080][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038438s)
+[2018.05.03-06.21.37:081][278]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.03-06.21.37:081][278]LogPlayLevel: PIE: World Init took: (0.001382s)
+[2018.05.03-06.21.37:082][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.040285s)
+[2018.05.03-06.21.37:167][278]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.03-06.21.37:183][278]LogInit: FAudioDevice initialized.
+[2018.05.03-06.21.37:213][278]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.03-06.21.37:219][278]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.03-15.21.37
+[2018.05.03-06.21.37:220][278]LogWorld: Bringing up level for play took: 0.007229
+[2018.05.03-06.21.37:226][278]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.748
+[2018.05.03-06.21.37:227][278]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.21.43:192][949]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.21.43:232][949]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.21.48:350][302]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.05.03-06.21.48:378][302]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.21.48:378][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.03-06.21.48:379][302]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 4. 오전 12:21:48)
+[2018.05.03-06.21.48:379][302]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.03-06.21.48:409][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029963s)
+[2018.05.03-06.21.48:410][302]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.03-06.21.48:410][302]LogPlayLevel: PIE: World Init took: (0.001215s)
+[2018.05.03-06.21.48:410][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.031661s)
+[2018.05.03-06.21.48:516][302]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.03-06.21.48:532][302]LogInit: FAudioDevice initialized.
+[2018.05.03-06.21.48:562][302]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.03-06.21.48:569][302]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.03-15.21.48
+[2018.05.03-06.21.48:570][302]LogWorld: Bringing up level for play took: 0.007321
+[2018.05.03-06.21.48:577][302]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.098
+[2018.05.03-06.21.48:577][302]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.21.51:497][631]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.21.51:539][631]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.21.53:141][810]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.05.03-06.21.53:171][810]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.21.53:171][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.03-06.21.53:171][810]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 4. 오전 12:21:53)
+[2018.05.03-06.21.53:171][810]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.03-06.21.53:201][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029245s)
+[2018.05.03-06.21.53:202][810]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.03-06.21.53:203][810]LogPlayLevel: PIE: World Init took: (0.001588s)
+[2018.05.03-06.21.53:204][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.031806s)
+[2018.05.03-06.21.53:260][810]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.03-06.21.53:273][810]LogInit: FAudioDevice initialized.
+[2018.05.03-06.21.53:302][810]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.03-06.21.53:308][810]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.03-15.21.53
+[2018.05.03-06.21.53:309][810]LogWorld: Bringing up level for play took: 0.006175
+[2018.05.03-06.21.53:315][810]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.836
+[2018.05.03-06.21.53:315][810]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.21.59:309][488]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.21.59:347][488]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.23.34:012][897]Cmd: SELECT NONE
+[2018.05.03-06.23.39:918][227]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.23.40:158][227]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.23.40:179][227]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.23.40:244][227]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScalarParameter_1, compiling. 
+[2018.05.03-06.23.40:272][227]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2018.05.03-06.23.40:277][227]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.05.03-06.23.46:753][557]MaterialEditorStats: Base pass shader without light map: 91 instructions
+[2018.05.03-06.23.46:753][557]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.03-06.23.46:753][557]MaterialEditorStats: Texture samplers: 2/16
+[2018.05.03-06.23.52:665][935]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.23.54:287][  9]MaterialEditorStats: Base pass shader without light map: 91 instructions
+[2018.05.03-06.23.54:287][  9]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.03-06.23.54:287][  9]MaterialEditorStats: Texture samplers: 2/16
+[2018.05.03-06.23.56:146][134]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.23.56:209][134]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.05.03-06.23.57:309][186]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.23.57:346][186]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.05.03-06.23.59:512][300]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.23.59:556][300]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.05.03-06.24.00:026][321]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.24.00:055][321]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.05.03-06.24.01:081][375]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.24.01:126][375]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.05.03-06.24.02:795][458]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.24.02:827][458]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.05.03-06.24.11:319][903]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.24.11:332][903]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.05.03-06.24.12:024][936]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.24.12:041][936]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.05.03-06.24.12:774][968]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.24.12:809][968]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.05.03-06.24.13:153][984]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.24.13:188][984]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.05.03-06.24.15:316][ 98]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.24.15:382][ 98]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.05.03-06.24.16:385][150]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.24.16:434][150]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.05.03-06.24.18:387][256]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.24.18:420][256]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.05.03-06.24.19:128][294]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.24.19:165][294]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.05.03-06.24.21:761][438]MaterialEditorStats: Base pass shader without light map: 91 instructions
+[2018.05.03-06.24.21:761][438]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.03-06.24.21:761][438]MaterialEditorStats: Texture samplers: 2/16
+[2018.05.03-06.24.21:958][449]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.24.21:987][449]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.05.03-06.24.25:055][618]MaterialEditorStats: Base pass shader without light map: 91 instructions
+[2018.05.03-06.24.25:055][618]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.03-06.24.25:055][618]MaterialEditorStats: Texture samplers: 2/16
+[2018.05.03-06.24.26:920][731]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.24.26:973][731]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2018.05.03-06.24.29:218][854]LogMaterialEditor: Saving and Compiling material M_Highlight
+[2018.05.03-06.24.32:332][854]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.24.32:404][854]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.24.32:459][854]LogMaterial: Missing cached shader map for material M_Highlight, compiling. 
+[2018.05.03-06.24.32:509][854]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2018.05.03-06.24.34:260][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Material/M_Highlight" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset" SILENT=true
+[2018.05.03-06.24.34:357][854]LogSavePackage: Save=33.86ms
+[2018.05.03-06.24.34:357][854]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/M_Highlight993D22904A3C405FB669578259F61A00.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset'
+[2018.05.03-06.24.34:363][854]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Material/M_Highlight.uasset
+[2018.05.03-06.24.34:372][854]MaterialEditorStats: Base pass shader without light map: 91 instructions
+[2018.05.03-06.24.34:373][854]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.03-06.24.34:373][854]MaterialEditorStats: Texture samplers: 2/16
+[2018.05.03-06.24.36:477][ 31]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.05.03-06.24.36:521][ 31]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.24.36:521][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.03-06.24.36:521][ 31]PIE: New page: PIE 세션: TopDownExampleMap (2018. 5. 4. 오전 12:24:36)
+[2018.05.03-06.24.36:521][ 31]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.05.03-06.24.36:554][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032145s)
+[2018.05.03-06.24.36:554][ 31]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.05.03-06.24.36:555][ 31]LogPlayLevel: PIE: World Init took: (0.001091s)
+[2018.05.03-06.24.36:555][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.033796s)
+[2018.05.03-06.24.36:623][ 31]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.03-06.24.36:649][ 31]LogInit: FAudioDevice initialized.
+[2018.05.03-06.24.36:699][ 31]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.05.03-06.24.36:707][ 31]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.05.03-15.24.36
+[2018.05.03-06.24.36:708][ 31]LogWorld: Bringing up level for play took: 0.008095
+[2018.05.03-06.24.36:717][ 31]PIE: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 에 대한 에디터에서 플레이 시작 시간: 0.238
+[2018.05.03-06.24.36:717][ 31]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.24.44:460][938]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.24.44:498][938]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.05.03-06.24.50:002][375]LogUObjectBase: Warning: Object is not registered
+[2018.05.03-06.24.52:824][375]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.805 s
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: 
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: Stack: 
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x0000000057E52786 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x0000000057BF123A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x0000000057C0B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x0000000055CD33F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x00000000406203AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x000000003FC33EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x000000003FAC74AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x000000003FACABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x000000003FBF8225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x0000000056F27397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x0000000056F2CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x0000000057169913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x0000000056F83484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x0000000056F5B68C UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x0000000056F4D6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x00000000666EE39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x00000000666E1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x00000000666F03EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x00000000666DD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x000000008C40B85D USER32.dll!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x000000008C40B1EF USER32.dll!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x00000000666F1516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x00000000582450C8 UE4Editor.exe!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x0000000058255430 UE4Editor.exe!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x00000000582554AA UE4Editor.exe!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x0000000058262379 UE4Editor.exe!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x0000000058263D57 UE4Editor.exe!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x000000008C5A1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: [Callstack] 0x000000008D7DF061 ntdll.dll!UnknownFunction []
+[2018.05.03-06.24.52:828][375]LogOutputDevice: Error: 
+[2018.05.03-06.24.52:835][375]LogStats:                SubmitErrorReport -  0.005 s
