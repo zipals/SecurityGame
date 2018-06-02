@@ -1,0 +1,1415 @@
+﻿Log file open, 06/02/18 20:54:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Trolley
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-387698198) SRandInit(-387698198).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.115341
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.02-11.54.13:571][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.02-11.54.13:571][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.02-11.54.13:608][  0]LogInit: Computer: DESKTOP-FMM3QSI
+[2018.06.02-11.54.13:609][  0]LogInit: User: 201411255
+[2018.06.02-11.54.13:609][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.06.02-11.54.13:609][  0]LogInit: High frequency timer resolution =3.312638 MHz
+[2018.06.02-11.54.13:609][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.06.02-11.54.13:609][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.02-11.54.13:609][  0]LogMemory: Process Physical Memory: 272.80 MB used, 272.80 MB peak
+[2018.06.02-11.54.13:609][  0]LogMemory: Process Virtual Memory: 269.73 MB used, 269.73 MB peak
+[2018.06.02-11.54.13:609][  0]LogMemory: Physical Memory: 2802.76 MB used,  5274.76 MB free, 8077.52 MB total
+[2018.06.02-11.54.13:609][  0]LogMemory: Virtual Memory: 4769.73 MB used,  5274.76 MB free, 134217728.00 MB total
+[2018.06.02-11.54.13:801][  0]LogInit: Using OS detected language (ko-KR).
+[2018.06.02-11.54.13:801][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.06.02-11.54.13:804][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.06.02-11.54.14:042][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.02-11.54.19:576][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.02-11.54.19:644][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.06.02-11.54.19:644][  0]LogD3D11RHI:       1977/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.06.02-11.54.19:652][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4400' (Feature Level 11_0)
+[2018.06.02-11.54.19:652][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.06.02-11.54.19:655][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.02-11.54.19:655][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.02-11.54.19:655][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.02-11.54.19:662][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.02-11.54.19:662][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.02-11.54.19:662][  0]LogWindows: EnumDisplayDevices:
+[2018.06.02-11.54.19:662][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2018.06.02-11.54.19:662][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:1)
+[2018.06.02-11.54.19:663][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.06.02-11.54.19:663][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.06.02-11.54.19:664][  0]LogWindows:    4. 'Intel(R) HD Graphics 4400' (P:0 D:0)
+[2018.06.02-11.54.19:664][  0]LogWindows:    5. 'Intel(R) HD Graphics 4400' (P:0 D:0)
+[2018.06.02-11.54.19:664][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.02-11.54.19:664][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.06.02-11.54.19:664][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.02-11.54.19:664][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.02-11.54.19:664][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2018.06.02-11.54.19:740][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.02-11.54.19:762][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.06.02-11.54.19:862][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Intermediate/Shaders/WorkingDirectory/10364/).
+[2018.06.02-11.54.19:862][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/201411255/AppData/Local/Temp/UnrealShaderWorkingDir/79C8EAC64FE08E74563DB4B35D54210D/'.
+[2018.06.02-11.54.19:862][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.02-11.54.21:065][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.02-11.54.21:131][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.02-11.54.21:203][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.02-11.54.21:267][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.02-11.54.21:347][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.02-11.54.21:410][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.02-11.54.21:478][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.02-11.54.21:542][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.02-11.54.21:601][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.02-11.54.21:666][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.02-11.54.21:728][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.02-11.54.21:792][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.02-11.54.21:855][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.02-11.54.21:918][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.02-11.54.22:048][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.02-11.54.22:048][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.02-11.54.22:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.02-11.54.22:180][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.02-11.54.22:308][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.02-11.54.22:340][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.02-11.54.22:410][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.02-11.54.22:475][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.02-11.54.22:539][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.02-11.54.22:617][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.02-11.54.22:617][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.02-11.54.23:309][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.02-11.54.23:932][  0]LogDerivedDataCache: Loaded boot cache 0.62s 78MB C:/Users/201411255/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.06.02-11.54.23:932][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/201411255/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.06.02-11.54.23:933][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.02-11.54.23:933][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.02-11.54.23:933][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.02-11.54.23:933][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.02-11.54.23:962][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.02-11.54.23:975][  0]LogDerivedDataCache: Using Local data cache path C:/Users/201411255/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.02-11.54.23:989][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.02-11.54.23:989][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.02-11.54.23:990][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.02-11.54.23:990][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.02-11.54.24:392][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.02-11.54.24:800][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.02-11.54.24:852][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.02-11.54.24:852][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.02-11.54.24:852][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.02-11.54.24:852][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.02-11.54.24:852][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.02-11.54.24:891][  0]LogNetVersion: Trolley , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2282078908)
+[2018.06.02-11.54.25:120][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2018.06.02-11.54.25:786][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.083297 seconds
+[2018.06.02-11.54.25:793][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.06.02-11.54.25:793][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.06.02-11.54.25:793][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.02-11.54.25:860][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.06.02-11.54.37:991][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.02-11.54.38:044][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.02-11.54.39:485][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.06.02-11.54.40:223][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.06.02-11.54.40:223][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.06.02-11.54.40:296][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.06.02-11.54.40:370][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.06.02-11.54.41:585][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.02-11.54.41:942][  0]LogOcInput: OculusInput pre-init called
+[2018.06.02-11.54.42:343][  0]LogEngine: Initializing Engine...
+[2018.06.02-11.54.42:346][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.02-11.54.42:721][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.02-11.54.42:721][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.02-11.54.42:913][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.02-11.54.42:943][  0]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.02-11.54.42:985][  0]LogInit: FAudioDevice initialized.
+[2018.06.02-11.54.43:391][  0]LogDerivedDataCache: Saved boot cache 0.41s 78MB C:/Users/201411255/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.06.02-11.54.43:422][  0]LogInit: Texture streaming: Enabled
+[2018.06.02-11.54.43:566][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.02-11.54.43:566][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={FFDB9293-458F-2EAC-2618-2786A57E6944}
+[2018.06.02-11.54.43:749][  0]LogInit: Transaction tracking system initialized
+[2018.06.02-11.54.44:174][  0]BlueprintLog: New page: 에디터 로드
+[2018.06.02-11.54.45:355][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.06.02-11.54.46:453][  0]LogConsoleResponse: Display: 
+[2018.06.02-11.54.47:299][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.02-11.54.47:299][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.02-11.54.47:299][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.02-11.54.48:257][  0]LogFileCache: Scanning file cache for directory 'C:/Users/201411255/Documents/GitHub/Trolley_0.05/Content/' took 0.02s
+[2018.06.02-11.54.49:093][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.06.02-11.54.49:183][  0]LogSlate: Took 0.000323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.02-11.54.49:186][  0]LogSlate: Took 0.002862 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.06.02-11.54.53:526][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.06.02-11.54.53:548][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.06.02-11.54.55:224][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.06.02-11.54.55:590][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.06.02-11.54.55:592][  0]Cmd: MAP LOAD FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/Day1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.02-11.54.55:593][  0]LightingResults: New page: 라이팅 빌드
+[2018.06.02-11.54.55:685][  0]MapCheck: New page: 맵 체크
+[2018.06.02-11.54.55:685][  0]LightingResults: New page: 라이팅 빌드
+[2018.06.02-11.54.55:850][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/Logo' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.55:851][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/InventorySlot.uasset 로드중 '/Game/TopDownBP/Mesh/Logo' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.55:851][  0]LoadErrors: Error: /Game/TopDownBP/Blueprints/UI/InventorySlot : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/Logo
+[2018.06.02-11.54.55:851][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/Logo' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.55:852][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/InventorySlot.uasset 로드중 '/Game/TopDownBP/Mesh/Logo' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.55:852][  0]LoadErrors: Error: /Game/TopDownBP/Blueprints/UI/InventorySlot : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/Logo
+[2018.06.02-11.54.55:852][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/Logo' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.55:852][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/Logo.Logo 레퍼런싱한 것: Default__InventorySlot_C
+[2018.06.02-11.54.55:852][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/InventorySlot.uasset 로드중 '/Game/TopDownBP/Mesh/Logo' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.55:852][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/Logo.Logo 레퍼런싱한 것: Default__InventorySlot_C
+[2018.06.02-11.54.55:852][  0]LoadErrors: Error: /Game/TopDownBP/Blueprints/UI/InventorySlot : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/Logo
+[2018.06.02-11.54.55:870][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/Logo' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.55:870][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/InventorySlot.uasset 로드중 '/Game/TopDownBP/Mesh/Logo' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.55:870][  0]LoadErrors: Error: /Game/TopDownBP/Blueprints/UI/InventorySlot : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/Logo
+[2018.06.02-11.54.55:870][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/Logo' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.55:870][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/InventorySlot.uasset 로드중 '/Game/TopDownBP/Mesh/Logo' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.55:870][  0]LoadErrors: Error: /Game/TopDownBP/Blueprints/UI/InventorySlot : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/Logo
+[2018.06.02-11.54.56:569][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_Dishwasher02___Default' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:569][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/dishwasher.uasset 로드중 '/Game/TopDownBP/Mesh/_Dishwasher02___Default' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:570][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/dishwasher : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/_Dishwasher02___Default
+[2018.06.02-11.54.56:570][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_Dishwasher03___Default' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:570][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/dishwasher.uasset 로드중 '/Game/TopDownBP/Mesh/_Dishwasher03___Default' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:570][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/dishwasher : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/_Dishwasher03___Default
+[2018.06.02-11.54.56:570][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_Dishwasher_crayfishdiffuse' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:570][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/dishwasher.uasset 로드중 '/Game/TopDownBP/Mesh/_Dishwasher_crayfishdiffuse' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:570][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/dishwasher : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/_Dishwasher_crayfishdiffuse
+[2018.06.02-11.54.56:570][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_Dishwasher02___Default' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:570][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/dishwasher.uasset 로드중 '/Game/TopDownBP/Mesh/_Dishwasher02___Default' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:570][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/dishwasher : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/_Dishwasher02___Default
+[2018.06.02-11.54.56:570][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_Dishwasher03___Default' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:571][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/dishwasher.uasset 로드중 '/Game/TopDownBP/Mesh/_Dishwasher03___Default' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:571][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/dishwasher : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/_Dishwasher03___Default
+[2018.06.02-11.54.56:571][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_Dishwasher_crayfishdiffuse' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:571][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/dishwasher.uasset 로드중 '/Game/TopDownBP/Mesh/_Dishwasher_crayfishdiffuse' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:571][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/dishwasher : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/_Dishwasher_crayfishdiffuse
+[2018.06.02-11.54.56:592][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_modelmat11' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:592][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/meter_and_book.uasset 로드중 '/Game/TopDownBP/Mesh/_modelmat11' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:592][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/meter_and_book : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/_modelmat11
+[2018.06.02-11.54.56:598][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_modelmat11' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:598][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/meter_and_book.uasset 로드중 '/Game/TopDownBP/Mesh/_modelmat11' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:598][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/meter_and_book : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/_modelmat11
+[2018.06.02-11.54.56:601][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/material_0___30262' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:601][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/mic.uasset 로드중 '/Game/TopDownBP/Mesh/material_0___30262' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:601][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/mic : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/material_0___30262
+[2018.06.02-11.54.56:601][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/material_23___30262' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:601][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/mic.uasset 로드중 '/Game/TopDownBP/Mesh/material_23___30262' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:602][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/mic : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/material_23___30262
+[2018.06.02-11.54.56:602][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/material_23___30262_ncl1_1' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:602][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/mic.uasset 로드중 '/Game/TopDownBP/Mesh/material_23___30262_ncl1_1' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:602][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/mic : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/material_23___30262_ncl1_1
+[2018.06.02-11.54.56:602][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/material_25___30262' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:602][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/mic.uasset 로드중 '/Game/TopDownBP/Mesh/material_25___30262' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:602][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/mic : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/material_25___30262
+[2018.06.02-11.54.56:602][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/material_25___30262_ncl1_1' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:602][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/mic.uasset 로드중 '/Game/TopDownBP/Mesh/material_25___30262_ncl1_1' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:602][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/mic : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/material_25___30262_ncl1_1
+[2018.06.02-11.54.56:602][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/material_0___30262' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:603][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/mic.uasset 로드중 '/Game/TopDownBP/Mesh/material_0___30262' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:603][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/mic : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/material_0___30262
+[2018.06.02-11.54.56:603][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/material_23___30262' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:603][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/mic.uasset 로드중 '/Game/TopDownBP/Mesh/material_23___30262' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:603][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/mic : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/material_23___30262
+[2018.06.02-11.54.56:603][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/material_23___30262_ncl1_1' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:603][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/mic.uasset 로드중 '/Game/TopDownBP/Mesh/material_23___30262_ncl1_1' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:603][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/mic : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/material_23___30262_ncl1_1
+[2018.06.02-11.54.56:603][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/material_25___30262' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:603][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/mic.uasset 로드중 '/Game/TopDownBP/Mesh/material_25___30262' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:603][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/mic : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/material_25___30262
+[2018.06.02-11.54.56:603][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/material_25___30262_ncl1_1' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:604][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/mic.uasset 로드중 '/Game/TopDownBP/Mesh/material_25___30262_ncl1_1' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:604][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/mic : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/material_25___30262_ncl1_1
+[2018.06.02-11.54.56:629][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_c087645281a144b59bc31a9e8787556ewire_115115115' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:630][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/plastic_chair.uasset 로드중 '/Game/TopDownBP/Mesh/_c087645281a144b59bc31a9e8787556ewire_115115115' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:630][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/plastic_chair : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/_c087645281a144b59bc31a9e8787556ewire_115115115
+[2018.06.02-11.54.56:630][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_c087645281a144b59bc31a9e8787556ewire_115115115' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:630][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/plastic_chair.uasset 로드중 '/Game/TopDownBP/Mesh/_c087645281a144b59bc31a9e8787556ewire_115115115' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:630][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/plastic_chair : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/_c087645281a144b59bc31a9e8787556ewire_115115115
+[2018.06.02-11.54.56:697][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_TV_01_1___2_blinn3SG' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:697][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/tv.uasset 로드중 '/Game/TopDownBP/Mesh/_TV_01_1___2_blinn3SG' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:697][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/tv : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/_TV_01_1___2_blinn3SG
+[2018.06.02-11.54.56:697][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_TV_01_1___2_blinn5SG' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:697][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/tv.uasset 로드중 '/Game/TopDownBP/Mesh/_TV_01_1___2_blinn5SG' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:697][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/tv : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/_TV_01_1___2_blinn5SG
+[2018.06.02-11.54.56:697][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_TV_01_1___2_blinn3SG' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:697][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/tv.uasset 로드중 '/Game/TopDownBP/Mesh/_TV_01_1___2_blinn3SG' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:697][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/tv : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/_TV_01_1___2_blinn3SG
+[2018.06.02-11.54.56:698][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_TV_01_1___2_blinn5SG' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:698][  0]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/tv.uasset 로드중 '/Game/TopDownBP/Mesh/_TV_01_1___2_blinn5SG' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:698][  0]LoadErrors: Error: /Game/TopDownBP/Mesh/tv : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/_TV_01_1___2_blinn5SG
+[2018.06.02-11.54.56:837][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.06.02-11.54.56:882][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_Dishwasher03___Default' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:882][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_Dishwasher03___Default._Dishwasher03___Default 레퍼런싱한 것: dishwasher
+[2018.06.02-11.54.56:882][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/_Dishwasher03___Default' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:882][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_Dishwasher03___Default._Dishwasher03___Default 레퍼런싱한 것: dishwasher
+[2018.06.02-11.54.56:883][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_Dishwasher_crayfishdiffuse' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:883][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_Dishwasher_crayfishdiffuse._Dishwasher_crayfishdiffuse 레퍼런싱한 것: dishwasher
+[2018.06.02-11.54.56:883][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/_Dishwasher_crayfishdiffuse' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:883][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_Dishwasher_crayfishdiffuse._Dishwasher_crayfishdiffuse 레퍼런싱한 것: dishwasher
+[2018.06.02-11.54.56:883][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_Dishwasher02___Default' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:883][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_Dishwasher02___Default._Dishwasher02___Default 레퍼런싱한 것: dishwasher
+[2018.06.02-11.54.56:883][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/_Dishwasher02___Default' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:883][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_Dishwasher02___Default._Dishwasher02___Default 레퍼런싱한 것: dishwasher
+[2018.06.02-11.54.56:883][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_Dishwasher03___Default' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:883][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_Dishwasher03___Default._Dishwasher03___Default 레퍼런싱한 것: dishwasher
+[2018.06.02-11.54.56:883][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/_Dishwasher03___Default' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:883][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_Dishwasher03___Default._Dishwasher03___Default 레퍼런싱한 것: dishwasher
+[2018.06.02-11.54.56:884][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_Dishwasher_crayfishdiffuse' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:884][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_Dishwasher_crayfishdiffuse._Dishwasher_crayfishdiffuse 레퍼런싱한 것: dishwasher
+[2018.06.02-11.54.56:884][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/_Dishwasher_crayfishdiffuse' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:884][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_Dishwasher_crayfishdiffuse._Dishwasher_crayfishdiffuse 레퍼런싱한 것: dishwasher
+[2018.06.02-11.54.56:884][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_Dishwasher02___Default' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:884][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_Dishwasher02___Default._Dishwasher02___Default 레퍼런싱한 것: dishwasher
+[2018.06.02-11.54.56:884][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/_Dishwasher02___Default' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:884][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_Dishwasher02___Default._Dishwasher02___Default 레퍼런싱한 것: dishwasher
+[2018.06.02-11.54.56:902][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_c087645281a144b59bc31a9e8787556ewire_115115115' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:902][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_c087645281a144b59bc31a9e8787556ewire_115115115._c087645281a144b59bc31a9e8787556ewire_115115115 레퍼런싱한 것: plastic_chair
+[2018.06.02-11.54.56:902][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/_c087645281a144b59bc31a9e8787556ewire_115115115' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:902][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_c087645281a144b59bc31a9e8787556ewire_115115115._c087645281a144b59bc31a9e8787556ewire_115115115 레퍼런싱한 것: plastic_chair
+[2018.06.02-11.54.56:902][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_c087645281a144b59bc31a9e8787556ewire_115115115' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:902][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_c087645281a144b59bc31a9e8787556ewire_115115115._c087645281a144b59bc31a9e8787556ewire_115115115 레퍼런싱한 것: plastic_chair
+[2018.06.02-11.54.56:902][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/_c087645281a144b59bc31a9e8787556ewire_115115115' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:902][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_c087645281a144b59bc31a9e8787556ewire_115115115._c087645281a144b59bc31a9e8787556ewire_115115115 레퍼런싱한 것: plastic_chair
+[2018.06.02-11.54.56:903][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_TV_01_1___2_blinn5SG' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:903][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_TV_01_1___2_blinn5SG._TV_01_1___2_blinn5SG 레퍼런싱한 것: tv
+[2018.06.02-11.54.56:903][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/_TV_01_1___2_blinn5SG' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:903][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_TV_01_1___2_blinn5SG._TV_01_1___2_blinn5SG 레퍼런싱한 것: tv
+[2018.06.02-11.54.56:903][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_TV_01_1___2_blinn3SG' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:903][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_TV_01_1___2_blinn3SG._TV_01_1___2_blinn3SG 레퍼런싱한 것: tv
+[2018.06.02-11.54.56:903][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/_TV_01_1___2_blinn3SG' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:903][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_TV_01_1___2_blinn3SG._TV_01_1___2_blinn3SG 레퍼런싱한 것: tv
+[2018.06.02-11.54.56:903][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_TV_01_1___2_blinn5SG' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:903][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_TV_01_1___2_blinn5SG._TV_01_1___2_blinn5SG 레퍼런싱한 것: tv
+[2018.06.02-11.54.56:904][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/_TV_01_1___2_blinn5SG' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:904][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_TV_01_1___2_blinn5SG._TV_01_1___2_blinn5SG 레퍼런싱한 것: tv
+[2018.06.02-11.54.56:904][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_TV_01_1___2_blinn3SG' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:904][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_TV_01_1___2_blinn3SG._TV_01_1___2_blinn3SG 레퍼런싱한 것: tv
+[2018.06.02-11.54.56:904][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/_TV_01_1___2_blinn3SG' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:904][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_TV_01_1___2_blinn3SG._TV_01_1___2_blinn3SG 레퍼런싱한 것: tv
+[2018.06.02-11.54.56:906][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/material_23___30262' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:906][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/material_23___30262.material_23___30262 레퍼런싱한 것: mic
+[2018.06.02-11.54.56:906][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/material_23___30262' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:906][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/material_23___30262.material_23___30262 레퍼런싱한 것: mic
+[2018.06.02-11.54.56:906][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/material_0___30262' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:906][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/material_0___30262.material_0___30262 레퍼런싱한 것: mic
+[2018.06.02-11.54.56:906][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/material_0___30262' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:906][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/material_0___30262.material_0___30262 레퍼런싱한 것: mic
+[2018.06.02-11.54.56:907][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/material_23___30262_ncl1_1' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:907][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/material_23___30262_ncl1_1.material_23___30262_ncl1_1 레퍼런싱한 것: mic
+[2018.06.02-11.54.56:907][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/material_23___30262_ncl1_1' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:907][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/material_23___30262_ncl1_1.material_23___30262_ncl1_1 레퍼런싱한 것: mic
+[2018.06.02-11.54.56:907][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/material_25___30262' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:907][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/material_25___30262.material_25___30262 레퍼런싱한 것: mic
+[2018.06.02-11.54.56:907][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/material_25___30262' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:907][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/material_25___30262.material_25___30262 레퍼런싱한 것: mic
+[2018.06.02-11.54.56:907][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/material_25___30262_ncl1_1' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:907][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/material_25___30262_ncl1_1.material_25___30262_ncl1_1 레퍼런싱한 것: mic
+[2018.06.02-11.54.56:907][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/material_25___30262_ncl1_1' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:907][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/material_25___30262_ncl1_1.material_25___30262_ncl1_1 레퍼런싱한 것: mic
+[2018.06.02-11.54.56:908][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/material_23___30262' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:908][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/material_23___30262.material_23___30262 레퍼런싱한 것: mic
+[2018.06.02-11.54.56:908][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/material_23___30262' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:908][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/material_23___30262.material_23___30262 레퍼런싱한 것: mic
+[2018.06.02-11.54.56:908][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/material_0___30262' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:908][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/material_0___30262.material_0___30262 레퍼런싱한 것: mic
+[2018.06.02-11.54.56:908][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/material_0___30262' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:908][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/material_0___30262.material_0___30262 레퍼런싱한 것: mic
+[2018.06.02-11.54.56:908][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/material_23___30262_ncl1_1' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:908][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/material_23___30262_ncl1_1.material_23___30262_ncl1_1 레퍼런싱한 것: mic
+[2018.06.02-11.54.56:908][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/material_23___30262_ncl1_1' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:908][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/material_23___30262_ncl1_1.material_23___30262_ncl1_1 레퍼런싱한 것: mic
+[2018.06.02-11.54.56:909][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/material_25___30262' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:909][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/material_25___30262.material_25___30262 레퍼런싱한 것: mic
+[2018.06.02-11.54.56:909][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/material_25___30262' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:909][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/material_25___30262.material_25___30262 레퍼런싱한 것: mic
+[2018.06.02-11.54.56:909][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/material_25___30262_ncl1_1' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:909][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/material_25___30262_ncl1_1.material_25___30262_ncl1_1 레퍼런싱한 것: mic
+[2018.06.02-11.54.56:909][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/material_25___30262_ncl1_1' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:909][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/material_25___30262_ncl1_1.material_25___30262_ncl1_1 레퍼런싱한 것: mic
+[2018.06.02-11.54.56:910][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_modelmat11' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:910][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_modelmat11._modelmat11 레퍼런싱한 것: meter_and_book
+[2018.06.02-11.54.56:910][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/_modelmat11' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:910][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_modelmat11._modelmat11 레퍼런싱한 것: meter_and_book
+[2018.06.02-11.54.56:910][  0]LogLinker: Warning: '/Game/TopDownBP/Mesh/_modelmat11' 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:910][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_modelmat11._modelmat11 레퍼런싱한 것: meter_and_book
+[2018.06.02-11.54.56:910][  0]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/_modelmat11' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-11.54.56:910][  0]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/_modelmat11._modelmat11 레퍼런싱한 것: meter_and_book
+[2018.06.02-11.55.03:720][  0]LogAIModule: Creating AISystem for world Day1
+[2018.06.02-11.55.03:785][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.02-11.55.03:813][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.02-11.55.03:951][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 137.405ms.
+[2018.06.02-11.55.03:951][  0]LogFileHelpers: Loading map 'Day1' took 8.359
+[2018.06.02-11.55.04:089][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_2008_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_26b8_0///####STATCAT_Advanced####
+[2018.06.02-11.55.04:089][  0]LogCollectionManager: Loaded 0 collections in 0.001795 seconds
+[2018.06.02-11.55.04:185][  0]LogFileCache: Scanning file cache for directory 'C:/Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Collections/' took 0.01s
+[2018.06.02-11.55.04:185][  0]LogFileCache: Scanning file cache for directory 'C:/Users/201411255/Documents/GitHub/Trolley_0.05/Content/Developers/201411255/Collections/' took 0.01s
+[2018.06.02-11.55.04:185][  0]LogFileCache: Scanning file cache for directory 'C:/Users/201411255/Documents/GitHub/Trolley_0.05/Content/Collections/' took 0.01s
+[2018.06.02-11.55.04:185][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.02-11.55.04:197][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2363 classes and 519 folders.
+[2018.06.02-11.55.04:277][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.02-11.55.05:226][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.06.02-11.55.05:316][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.06.02-11.55.05:395][  0]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.02-11.55.05:420][  0]LogSlate: Took 0.019292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.02-11.55.05:584][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.06.02-11.55.05:638][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2018.06.02-11.55.05:685][  0]LogSlate: Took 0.000337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.02-11.55.05:809][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.06.02-11.55.05:809][  0]LogLoad: (Engine Initialization) Total time: 55.09 seconds
+[2018.06.02-11.55.05:809][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.02-11.55.05:809][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.06.02-11.55.05:809][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.06.02-11.55.05:841][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.02-11.55.05:982][  1]LogAssetRegistry: Asset discovery search completed in 40.8842 seconds
+[2018.06.02-11.55.05:984][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.02-11.55.05:984][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2018.06.02-11.55.06:865][ 81]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.02-11.55.27:276][381]LogEditorViewport: Clicking on Actor (LMB): BP_Roof_C (2F_회의실천장)
+[2018.06.02-11.55.27:763][398]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Roof_C (2F_회의실창고천장)
+[2018.06.02-11.55.28:073][409]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Roof_C (2F_선임연구실천장)
+[2018.06.02-11.55.29:117][478]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Roof_C (2F_선임연구실창고천장)
+[2018.06.02-11.55.29:813][520]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Roof_C (2F_메인연구실천장)
+[2018.06.02-11.55.30:370][556]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Roof_C (2F_메인CCTV방천장)
+[2018.06.02-11.55.30:767][581]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Roof_C (2F_직원연구실천장)
+[2018.06.02-11.55.31:543][631]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Roof_C (2F_서류보관실천장)
+[2018.06.02-11.55.31:809][647]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Roof_C (2F_사무실천장)
+[2018.06.02-11.55.32:529][694]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Roof_C (2F_임원실천장)
+[2018.06.02-11.55.38:646][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tv)
+[2018.06.02-11.55.50:991][948]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.02-11.55.52:060][948]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2018.06.02-11.57.13:868][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/tv" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/tv.uasset" SILENT=true
+[2018.06.02-11.57.13:894][817]LogSavePackage: Save=15.37ms
+[2018.06.02-11.57.13:894][817]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/tv14C04A684E0CAD02E23D89BE8C0E40F6.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/tv.uasset'
+[2018.06.02-11.57.13:897][817]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/tv.uasset
+[2018.06.02-11.59.12:330][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/dishwasher" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/dishwasher.uasset" SILENT=true
+[2018.06.02-11.59.12:379][841]LogSavePackage: Save=15.60ms
+[2018.06.02-11.59.12:379][841]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/dishwasherC85C7A354ED6DC563B7A7EABEB1C0490.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/dishwasher.uasset'
+[2018.06.02-11.59.12:382][841]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/dishwasher.uasset
+[2018.06.02-11.59.38:392][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/plastic_chair" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/plastic_chair.uasset" SILENT=true
+[2018.06.02-11.59.38:442][484]LogSavePackage: Save=39.20ms
+[2018.06.02-11.59.38:442][484]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/plastic_chair2FD2738F4C31A274E1274EB23607BB3B.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/plastic_chair.uasset'
+[2018.06.02-11.59.38:445][484]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/plastic_chair.uasset
+[2018.06.02-12.01.28:243][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mic5)
+[2018.06.02-12.01.28:732][ 79]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mic4)
+[2018.06.02-12.01.29:403][126]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mic3)
+[2018.06.02-12.01.30:183][181]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mic2)
+[2018.06.02-12.01.30:893][231]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (mic)
+[2018.06.02-12.01.31:680][288]Cmd: DELETE
+[2018.06.02-12.01.31:680][288]Cmd: ACTOR DELETE
+[2018.06.02-12.01.31:693][288]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.02-12.01.31:693][288]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.02-12.01.31:694][288]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.02-12.01.31:694][288]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.02-12.01.31:694][288]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.02-12.01.31:711][288]LogEditorActor: Deleted 5 Actors (0.031 secs)
+[2018.06.02-12.01.58:596][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_415)
+[2018.06.02-12.02.34:780][576]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\201411255\Desktop\3D\3D\mic.FBX)
+[2018.06.02-12.02.34:791][576]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.06.02-12.02.34:791][576]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.06.02-12.02.34:791][576]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.06.02-12.02.34:791][576]LogFbx: ItemName: Model, ItemCount : 7
+[2018.06.02-12.02.34:791][576]LogFbx: ItemName: NodeAttribute, ItemCount : 6
+[2018.06.02-12.02.34:791][576]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.06.02-12.02.34:791][576]LogFbx: ItemName: Material, ItemCount : 5
+[2018.06.02-12.02.34:791][576]LogFbx: ItemName: AnimationCurve, ItemCount : 21
+[2018.06.02-12.02.34:791][576]LogFbx: ItemName: AnimationCurveNode, ItemCount : 7
+[2018.06.02-12.02.34:798][576]LogFbx: Loading FBX Scene from C:\Users\201411255\Desktop\3D\3D\mic.FBX
+[2018.06.02-12.02.34:810][576]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.02-12.02.34:814][576]FBXImport: Warning: FBX 씬 로딩: 머티리얼 이름 충돌 발견, 이름 충돌은 리임포트시 비정상적으로 재할당될 수 있어, 'material_23___30262' 머티리얼 이름이 'material_23___30262_ncl1_1' 으로 변경되었습니다. 
+[2018.06.02-12.02.34:814][576]FBXImport: Warning: FBX 씬 로딩: 머티리얼 이름 충돌 발견, 이름 충돌은 리임포트시 비정상적으로 재할당될 수 있어, 'material_25___30262' 머티리얼 이름이 'material_25___30262_ncl1_1' 으로 변경되었습니다. 
+[2018.06.02-12.02.36:012][576]LogFbx: Loading FBX Scene from C:\Users\201411255\Desktop\3D\3D\mic.FBX
+[2018.06.02-12.02.36:022][576]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.02-12.02.36:037][576]LogFbx: =================================================
+[2018.06.02-12.02.36:037][576]LogFbx: Dumping Node START [mesh_2061332312] 
+[2018.06.02-12.02.36:037][576]LogFbx: 	Total Deformer Count 218880000.
+[2018.06.02-12.02.36:037][576]LogFbx: 	Attribute () Type (4).
+[2018.06.02-12.02.36:037][576]LogFbx: 		[Node Attribute Child 1] mesh_2061332312 (Type Mesh).
+[2018.06.02-12.02.36:037][576]LogFbx: Dumping Node END [mesh_2061332312]
+[2018.06.02-12.02.36:037][576]LogFbx: =================================================
+[2018.06.02-12.02.36:037][576]LogFbx: Dumping Node START [mesh_2061332312] 
+[2018.06.02-12.02.36:037][576]LogFbx: 	Total Deformer Count 218880000.
+[2018.06.02-12.02.36:037][576]LogFbx: 	Attribute () Type (4).
+[2018.06.02-12.02.36:037][576]LogFbx: 		[Node Attribute Child 1] mesh_2061332312 (Type Mesh).
+[2018.06.02-12.02.36:037][576]LogFbx: Dumping Node END [mesh_2061332312]
+[2018.06.02-12.02.36:037][576]LogFbx: =================================================
+[2018.06.02-12.02.36:037][576]LogFbx: Dumping Node START [mesh_2061332312] 
+[2018.06.02-12.02.36:037][576]LogFbx: 	Total Deformer Count 218880320.
+[2018.06.02-12.02.36:037][576]LogFbx: 	Attribute () Type (4).
+[2018.06.02-12.02.36:037][576]LogFbx: 		[Node Attribute Child 1] mesh_2061332312 (Type Mesh).
+[2018.06.02-12.02.36:037][576]LogFbx: Dumping Node END [mesh_2061332312]
+[2018.06.02-12.02.36:063][576]LogLinker: '/Game/TopDownBP/Mesh/material_23___30262' 파일을 찾을 수 없습니다.
+[2018.06.02-12.02.36:064][576]LogLinker: '/Game/TopDownBP/Mesh/material_23___30262' 파일을 찾을 수 없습니다.
+[2018.06.02-12.02.36:064][576]LogMaterial: Warning: Material /Game/TopDownBP/Mesh/material_23___30262.material_23___30262 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.06.02-12.02.36:066][576]LogMaterial: Missing cached shader map for material material_23___30262, compiling. 
+[2018.06.02-12.02.36:185][576]LogMaterial: Missing cached shader map for material material_23___30262, compiling. 
+[2018.06.02-12.02.36:273][576]LogLinker: '/Game/TopDownBP/Mesh/material_0___30262' 파일을 찾을 수 없습니다.
+[2018.06.02-12.02.36:273][576]LogLinker: '/Game/TopDownBP/Mesh/material_0___30262' 파일을 찾을 수 없습니다.
+[2018.06.02-12.02.36:273][576]LogMaterial: Warning: Material /Game/TopDownBP/Mesh/material_0___30262.material_0___30262 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.06.02-12.02.36:276][576]LogMaterial: Missing cached shader map for material material_0___30262, compiling. 
+[2018.06.02-12.02.36:355][576]LogMaterial: Missing cached shader map for material material_0___30262, compiling. 
+[2018.06.02-12.02.36:438][576]LogLinker: '/Game/TopDownBP/Mesh/material_23___30262_ncl1_1' 파일을 찾을 수 없습니다.
+[2018.06.02-12.02.36:438][576]LogLinker: '/Game/TopDownBP/Mesh/material_23___30262_ncl1_1' 파일을 찾을 수 없습니다.
+[2018.06.02-12.02.36:438][576]LogMaterial: Warning: Material /Game/TopDownBP/Mesh/material_23___30262_ncl1_1.material_23___30262_ncl1_1 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.06.02-12.02.36:457][576]LogMaterial: Missing cached shader map for material material_23___30262_ncl1_1, compiling. 
+[2018.06.02-12.02.36:544][576]LogMaterial: Missing cached shader map for material material_23___30262_ncl1_1, compiling. 
+[2018.06.02-12.02.36:641][576]LogLinker: '/Game/TopDownBP/Mesh/material_25___30262' 파일을 찾을 수 없습니다.
+[2018.06.02-12.02.36:642][576]LogLinker: '/Game/TopDownBP/Mesh/material_25___30262' 파일을 찾을 수 없습니다.
+[2018.06.02-12.02.36:642][576]LogMaterial: Warning: Material /Game/TopDownBP/Mesh/material_25___30262.material_25___30262 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.06.02-12.02.36:645][576]LogMaterial: Missing cached shader map for material material_25___30262, compiling. 
+[2018.06.02-12.02.36:731][576]LogMaterial: Missing cached shader map for material material_25___30262, compiling. 
+[2018.06.02-12.02.36:823][576]LogLinker: '/Game/TopDownBP/Mesh/material_25___30262_ncl1_1' 파일을 찾을 수 없습니다.
+[2018.06.02-12.02.36:823][576]LogLinker: '/Game/TopDownBP/Mesh/material_25___30262_ncl1_1' 파일을 찾을 수 없습니다.
+[2018.06.02-12.02.36:823][576]LogMaterial: Warning: Material /Game/TopDownBP/Mesh/material_25___30262_ncl1_1.material_25___30262_ncl1_1 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.06.02-12.02.36:838][576]LogMaterial: Missing cached shader map for material material_25___30262_ncl1_1, compiling. 
+[2018.06.02-12.02.36:930][576]LogMaterial: Missing cached shader map for material material_25___30262_ncl1_1, compiling. 
+[2018.06.02-12.02.37:043][576]LogFbx: Triangulating skeletal mesh mesh_2061332312
+[2018.06.02-12.02.37:066][576]LogFbx: Warning: Bones digested - 2  Depth of hierarchy - 2
+[2018.06.02-12.02.37:121][576]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.02-12.02.37:198][576]LogSkeletalMesh: Section 0: 20 vertices, 1 active bones
+[2018.06.02-12.02.37:198][576]LogSkeletalMesh: Section 1: 20 vertices, 1 active bones
+[2018.06.02-12.02.37:198][576]LogSkeletalMesh: Section 2: 20 vertices, 1 active bones
+[2018.06.02-12.02.37:198][576]LogSkeletalMesh: Section 3: 20 vertices, 1 active bones
+[2018.06.02-12.02.37:198][576]LogSkeletalMesh: Section 4: 20 vertices, 1 active bones
+[2018.06.02-12.02.37:199][576]LogSkeletalMesh: Section 0: Material=0, 36 triangles
+[2018.06.02-12.02.37:199][576]LogSkeletalMesh: Section 1: Material=1, 44 triangles
+[2018.06.02-12.02.37:199][576]LogSkeletalMesh: Section 2: Material=2, 36 triangles
+[2018.06.02-12.02.37:199][576]LogSkeletalMesh: Section 3: Material=3, 36 triangles
+[2018.06.02-12.02.37:199][576]LogSkeletalMesh: Section 4: Material=4, 36 triangles
+[2018.06.02-12.02.37:200][576]LogLinker: '/Game/TopDownBP/Mesh/mic_Skeleton' 파일을 찾을 수 없습니다.
+[2018.06.02-12.02.37:201][576]LogLinker: '/Game/TopDownBP/Mesh/mic_Skeleton' 파일을 찾을 수 없습니다.
+[2018.06.02-12.02.37:214][576]LogLinker: '/Game/TopDownBP/Mesh/mic_PhysicsAsset' 파일을 찾을 수 없습니다.
+[2018.06.02-12.02.37:215][576]LogLinker: '/Game/TopDownBP/Mesh/mic_PhysicsAsset' 파일을 찾을 수 없습니다.
+[2018.06.02-12.02.37:260][576]FBXImport: Warning: FBX 씬 로딩: 머티리얼 이름 충돌 발견, 이름 충돌은 리임포트시 비정상적으로 재할당될 수 있어, 'material_23___30262' 머티리얼 이름이 'material_23___30262_ncl1_1' 으로 변경되었습니다. 
+[2018.06.02-12.02.37:261][576]FBXImport: Warning: FBX 씬 로딩: 머티리얼 이름 충돌 발견, 이름 충돌은 리임포트시 비정상적으로 재할당될 수 있어, 'material_25___30262' 머티리얼 이름이 'material_25___30262_ncl1_1' 으로 변경되었습니다. 
+[2018.06.02-12.02.37:261][576]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2018.06.02-12.02.37:261][576]FBXImport: Warning: 바인드 포즈를 찾을 수 없습니다. 시간 0 을 바인드 포즈로 사용합니다. 
+[2018.06.02-12.02.37:261][576]FBXImport: Warning: 'mesh_2061332312' 메시에 UV 세트가 없습니다. 기본 세트를 만듭니다. 
+[2018.06.02-12.04.36:352][254]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.06.02-12.04.36:457][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.02-12.04.36:765][254]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.06.02-12.04.37:433][254]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.02-12.04.37:512][254]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.06.02-12.05.05:918][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2Floor2)
+[2018.06.02-12.05.09:476][212]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.06.02-12.05.09:538][212]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2018.06.02-12.05.36:123][309]LogSavePackage: Save=683.85ms
+[2018.06.02-12.05.36:123][309]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Day1_Auto197AEBB30479CBCD111C3F085355DEB9E.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Autosaves/Game/TopDownBP/Maps/Day1_Auto1.umap'
+[2018.06.02-12.05.36:125][309]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Autosaves/Game/TopDownBP/Maps/Day1_Auto1.umap
+[2018.06.02-12.05.36:130][309]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/Day1' took 0.745
+[2018.06.02-12.05.36:130][309]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.745
+[2018.06.02-12.05.36:133][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Mesh/mic] ([1] browsable assets)...
+[2018.06.02-12.05.36:163][309]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/TopDownBP/Mesh/mic.mic]
+[2018.06.02-12.05.36:163][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Mesh/mic]
+[2018.06.02-12.05.36:179][309]LogSavePackage: Save=13.79ms
+[2018.06.02-12.05.36:179][309]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/mic_Auto1D8E56FCE4D88B7A8E49614970316CF4D.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Autosaves/Game/TopDownBP/Mesh/mic_Auto1.uasset'
+[2018.06.02-12.05.36:180][309]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Autosaves/Game/TopDownBP/Mesh/mic_Auto1.uasset
+[2018.06.02-12.05.36:181][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Mesh/material_23___30262] ([1] browsable assets)...
+[2018.06.02-12.05.36:212][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TopDownBP/Mesh/material_23___30262.material_23___30262]
+[2018.06.02-12.05.36:212][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Mesh/material_23___30262]
+[2018.06.02-12.05.36:229][309]LogSavePackage: Save=14.86ms
+[2018.06.02-12.05.36:230][309]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/material_23___30262_Auto1A7D47BDD49944FF9391CF9A9C15AE09A.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Autosaves/Game/TopDownBP/Mesh/material_23___30262_Auto1.uasset'
+[2018.06.02-12.05.36:231][309]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Autosaves/Game/TopDownBP/Mesh/material_23___30262_Auto1.uasset
+[2018.06.02-12.05.36:231][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Mesh/material_0___30262] ([1] browsable assets)...
+[2018.06.02-12.05.36:263][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TopDownBP/Mesh/material_0___30262.material_0___30262]
+[2018.06.02-12.05.36:263][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Mesh/material_0___30262]
+[2018.06.02-12.05.36:279][309]LogSavePackage: Save=14.20ms
+[2018.06.02-12.05.36:279][309]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/material_0___30262_Auto19C8539654C047B168649CAA4298384C8.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Autosaves/Game/TopDownBP/Mesh/material_0___30262_Auto1.uasset'
+[2018.06.02-12.05.36:280][309]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Autosaves/Game/TopDownBP/Mesh/material_0___30262_Auto1.uasset
+[2018.06.02-12.05.36:281][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Mesh/material_23___30262_ncl1_1] ([1] browsable assets)...
+[2018.06.02-12.05.36:312][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TopDownBP/Mesh/material_23___30262_ncl1_1.material_23___30262_ncl1_1]
+[2018.06.02-12.05.36:312][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Mesh/material_23___30262_ncl1_1]
+[2018.06.02-12.05.36:330][309]LogSavePackage: Save=15.19ms
+[2018.06.02-12.05.36:330][309]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/material_23___30262_ncl1_1_Auto1D61C2B184D8BD5012611DBB38871A829.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Autosaves/Game/TopDownBP/Mesh/material_23___30262_ncl1_1_Auto1.uasset'
+[2018.06.02-12.05.36:332][309]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Autosaves/Game/TopDownBP/Mesh/material_23___30262_ncl1_1_Auto1.uasset
+[2018.06.02-12.05.36:333][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Mesh/material_25___30262] ([1] browsable assets)...
+[2018.06.02-12.05.36:364][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TopDownBP/Mesh/material_25___30262.material_25___30262]
+[2018.06.02-12.05.36:364][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Mesh/material_25___30262]
+[2018.06.02-12.05.36:394][309]LogSavePackage: Save=14.37ms
+[2018.06.02-12.05.36:394][309]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/material_25___30262_Auto1557B6E8145BD436C94CCDA92300CE1A8.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Autosaves/Game/TopDownBP/Mesh/material_25___30262_Auto1.uasset'
+[2018.06.02-12.05.36:395][309]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Autosaves/Game/TopDownBP/Mesh/material_25___30262_Auto1.uasset
+[2018.06.02-12.05.36:395][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Mesh/material_25___30262_ncl1_1] ([1] browsable assets)...
+[2018.06.02-12.05.36:427][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TopDownBP/Mesh/material_25___30262_ncl1_1.material_25___30262_ncl1_1]
+[2018.06.02-12.05.36:427][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Mesh/material_25___30262_ncl1_1]
+[2018.06.02-12.05.36:443][309]LogSavePackage: Save=14.33ms
+[2018.06.02-12.05.36:443][309]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/material_25___30262_ncl1_1_Auto11ACED7894251560321757E8CD75557C6.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Autosaves/Game/TopDownBP/Mesh/material_25___30262_ncl1_1_Auto1.uasset'
+[2018.06.02-12.05.36:444][309]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Autosaves/Game/TopDownBP/Mesh/material_25___30262_ncl1_1_Auto1.uasset
+[2018.06.02-12.05.36:445][309]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Mesh/mic_Skeleton] ([1] browsable assets)...
+[2018.06.02-12.05.36:445][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Mesh/mic_Skeleton]
+[2018.06.02-12.05.36:452][309]LogSavePackage: Save=4.91ms
+[2018.06.02-12.05.36:452][309]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/mic_Skeleton_Auto1ACF2217347E457A349C15690406CAAA2.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Autosaves/Game/TopDownBP/Mesh/mic_Skeleton_Auto1.uasset'
+[2018.06.02-12.05.36:453][309]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Autosaves/Game/TopDownBP/Mesh/mic_Skeleton_Auto1.uasset
+[2018.06.02-12.05.36:454][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Mesh/mic_PhysicsAsset] ([1] browsable assets)...
+[2018.06.02-12.05.36:484][309]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/TopDownBP/Mesh/mic_PhysicsAsset.mic_PhysicsAsset]
+[2018.06.02-12.05.36:484][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Mesh/mic_PhysicsAsset]
+[2018.06.02-12.05.36:501][309]LogSavePackage: Save=14.19ms
+[2018.06.02-12.05.36:501][309]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/mic_PhysicsAsset_Auto1EF7424E14C35D9A6AFFFD3B9950969ED.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Autosaves/Game/TopDownBP/Mesh/mic_PhysicsAsset_Auto1.uasset'
+[2018.06.02-12.05.36:502][309]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Autosaves/Game/TopDownBP/Mesh/mic_PhysicsAsset_Auto1.uasset
+[2018.06.02-12.05.36:502][309]LogFileHelpers: Auto-saving content packages took 0.370
+[2018.06.02-12.09.14:306][767]LogMaterial: Warning: Material /Game/TopDownBP/Mesh/Metarial/_TV_01_1___2_blinn5SG._TV_01_1___2_blinn5SG needed to have new flag set bUsedWithSkeletalMesh !
+[2018.06.02-12.09.14:310][767]LogMaterial: Missing cached shader map for material _TV_01_1___2_blinn5SG, compiling. 
+[2018.06.02-12.09.26:596][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/mic" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/mic.uasset" SILENT=true
+[2018.06.02-12.09.26:638][298]LogSavePackage: Save=22.05ms
+[2018.06.02-12.09.26:638][298]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/micABCD09414541447D57837A9AC462F5F9.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/mic.uasset'
+[2018.06.02-12.09.26:651][298]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/mic.uasset
+[2018.06.02-12.09.33:127][615]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (mic)
+[2018.06.02-12.09.33:617][636]Cmd: DELETE
+[2018.06.02-12.09.33:617][636]Cmd: ACTOR DELETE
+[2018.06.02-12.09.33:632][636]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.06.02-12.09.33:655][636]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2018.06.02-12.09.53:812][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (shelf)
+[2018.06.02-12.09.54:187][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (shelf)
+[2018.06.02-12.09.55:811][946]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (mic)
+[2018.06.02-12.09.56:111][961]Cmd: EDIT COPY
+[2018.06.02-12.09.56:298][974]Cmd: EDIT PASTE
+[2018.06.02-12.09.59:301][183]Cmd: EDIT COPY
+[2018.06.02-12.09.59:463][194]Cmd: EDIT PASTE
+[2018.06.02-12.10.12:316][ 91]Cmd: EDIT COPY
+[2018.06.02-12.10.12:487][102]Cmd: EDIT PASTE
+[2018.06.02-12.10.17:443][459]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (mic2)
+[2018.06.02-12.10.32:494][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (shelf)
+[2018.06.02-12.10.33:407][878]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (mic3)
+[2018.06.02-12.10.37:229][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (shelf)
+[2018.06.02-12.11.25:886][518]LogSavePackage: Save=15.51ms
+[2018.06.02-12.11.25:886][518]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/material_0___30262815A90C543B2AD4BECC540927F6874C5.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/Metarial/material_0___30262.uasset'
+[2018.06.02-12.11.25:889][518]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/Metarial/material_0___30262.uasset
+[2018.06.02-12.11.32:754][974]LogSavePackage: Save=15.61ms
+[2018.06.02-12.11.32:754][974]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/material_23___30262CA1B8BFF49E846B864B29B8B58630E40.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/Metarial/material_23___30262.uasset'
+[2018.06.02-12.11.32:757][974]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/Metarial/material_23___30262.uasset
+[2018.06.02-12.11.32:793][974]LogSavePackage: Save=14.85ms
+[2018.06.02-12.11.32:793][974]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/material_23___30262_ncl1_160B7E0D44AA5FDFDB7EAD98D7F549F16.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/Metarial/material_23___30262_ncl1_1.uasset'
+[2018.06.02-12.11.32:796][974]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/Metarial/material_23___30262_ncl1_1.uasset
+[2018.06.02-12.11.32:831][974]LogSavePackage: Save=14.19ms
+[2018.06.02-12.11.32:831][974]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/material_25___30262E338D5C445DE245ACF1D15B415F87AF7.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/Metarial/material_25___30262.uasset'
+[2018.06.02-12.11.32:834][974]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/Metarial/material_25___30262.uasset
+[2018.06.02-12.11.32:867][974]LogSavePackage: Save=14.60ms
+[2018.06.02-12.11.32:867][974]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/material_25___30262_ncl1_117DB8D2D4553968013508BA1872C65DA.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/Metarial/material_25___30262_ncl1_1.uasset'
+[2018.06.02-12.11.32:869][974]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/Metarial/material_25___30262_ncl1_1.uasset
+[2018.06.02-12.11.33:152][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/mic" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/mic.uasset" SILENT=true
+[2018.06.02-12.11.33:169][974]LogSavePackage: Save=6.88ms
+[2018.06.02-12.11.33:169][974]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/mic5F12E22844B36F4EDBE1DCBC8C6DB36E.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/mic.uasset'
+[2018.06.02-12.11.33:170][974]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/mic.uasset
+[2018.06.02-12.11.35:415][ 72]LogSavePackage: Save=671.01ms
+[2018.06.02-12.11.35:416][ 72]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Day17FE50B97418303B5AB3706B3038F4184.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.02-12.11.35:422][ 72]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/Day1.umap
+[2018.06.02-12.11.35:477][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.02-12.11.38:972][ 72]LogSavePackage: Save=3452.10ms
+[2018.06.02-12.11.38:972][ 72]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Day1_BuiltDataCA8694E04E20FE13EA9A89B09148F84F.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.02-12.11.38:976][ 72]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.02-12.12.01:140][920]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.06.02-12.12.01:929][920]LogSlate: Took 0.014539 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.02-12.12.04:600][ 71]LogLinker: Warning: '/Game/TopDownBP/Mesh/WorkPaper' 파일을 찾을 수 없습니다.
+[2018.06.02-12.12.04:600][ 71]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset 로드중 '/Game/TopDownBP/Mesh/WorkPaper' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-12.12.04:600][ 71]LoadErrors: Error: /Game/TopDownBP/Blueprints/UI/WorkPaper : 애셋에 대한 파일을 찾을 수 없습니다. /Game/TopDownBP/Mesh/WorkPaper
+[2018.06.02-12.12.04:601][ 71]LogLinker: Warning: '/Game/TopDownBP/Mesh/WorkPaper' 파일을 찾을 수 없습니다.
+[2018.06.02-12.12.04:601][ 71]LogLinker: Warning: ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset 로드중 '/Game/TopDownBP/Mesh/WorkPaper' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-12.12.04:601][ 71]LogLinker: Warning: '/Game/TopDownBP/Mesh/WorkPaper' 파일을 찾을 수 없습니다.
+[2018.06.02-12.12.04:601][ 71]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/WorkPaper' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-12.12.04:601][ 71]LogLinker: Warning: '/Game/TopDownBP/Mesh/WorkPaper' 파일을 찾을 수 없습니다.
+[2018.06.02-12.12.04:602][ 71]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/WorkPaper' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-12.12.04:602][ 71]LogLinker: Warning: '/Game/TopDownBP/Mesh/WorkPaper' 파일을 찾을 수 없습니다.
+[2018.06.02-12.12.04:602][ 71]LoadErrors: 로드에 실패했습니다. /Game/TopDownBP/Mesh/WorkPaper.WorkPaper 레퍼런싱한 것: Image_0
+[2018.06.02-12.12.04:602][ 71]LogLinker: Warning: NULL 로드중 '/Game/TopDownBP/Mesh/WorkPaper' 애셋에 대한 파일을 찾을 수 없습니다.
+[2018.06.02-12.12.50:260][102]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\201411255\Desktop\WorkPaper.png)
+[2018.06.02-12.12.50:655][102]LogTexture: Display: 텍스처 빌드: WorkPaper (AutoDXT, 2480X3508)
+[2018.06.02-12.12.54:881][102]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\201411255\Desktop\Logo.png)
+[2018.06.02-12.12.54:897][102]LogTexture: Display: 텍스처 빌드: Logo (BGRA8, 378X378)
+[2018.06.02-12.13.04:558][377]BlueprintLog: New page: WorkPaper 컴파일
+[2018.06.02-12.13.05:008][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/WorkPaper" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset" SILENT=true
+[2018.06.02-12.13.05:034][394]LogSavePackage: Save=12.65ms
+[2018.06.02-12.13.05:035][394]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/WorkPaper5896237F40C0CE2F175E93A1F6BC348E.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset'
+[2018.06.02-12.13.05:037][394]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset
+[2018.06.02-12.13.16:999][882]LogSavePackage: Save=703.97ms
+[2018.06.02-12.13.16:999][882]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Day109DB1F2045716A308227EBA5FB6168C5.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.02-12.13.17:003][882]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/Day1.umap
+[2018.06.02-12.13.17:058][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.02-12.13.20:472][882]LogSavePackage: Save=3409.51ms
+[2018.06.02-12.13.20:472][882]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Day1_BuiltData77DD05C844046DB7C5BD6E9D004EEDB6.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.02-12.13.20:491][882]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.02-12.14.13:542][ 33]BlueprintLog: New page: WorkPaper 컴파일
+[2018.06.02-12.14.14:292][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/WorkPaper" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset" SILENT=true
+[2018.06.02-12.14.14:337][ 48]LogSavePackage: Save=41.03ms
+[2018.06.02-12.14.14:337][ 48]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/WorkPaper002C2509433752446E98B4B45C4FD14D.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset'
+[2018.06.02-12.14.14:340][ 48]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset
+[2018.06.02-12.14.17:058][227]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.02-12.14.17:362][227]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.14.17:362][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.02-12.14.17:362][227]PIE: New page: PIE 세션: Day1 (2018. 6. 3. 오전 6:14:17)
+[2018.06.02-12.14.17:362][227]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.02-12.14.17:403][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041521s)
+[2018.06.02-12.14.17:407][227]LogAIModule: Creating AISystem for world Day1
+[2018.06.02-12.14.17:408][227]LogPlayLevel: PIE: World Init took: (0.004714s)
+[2018.06.02-12.14.17:408][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.046889s)
+[2018.06.02-12.14.17:488][227]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.02-12.14.17:503][227]LogInit: FAudioDevice initialized.
+[2018.06.02-12.14.17:583][227]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.02-12.14.17:597][227]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.02-21.14.17
+[2018.06.02-12.14.17:599][227]LogWorld: Bringing up level for play took: 0.015288
+[2018.06.02-12.14.17:660][227]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.06.02-12.14.17:676][227]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 1.031
+[2018.06.02-12.14.17:677][227]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.14.25:299][634]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.14.25:371][634]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.14.57:479][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (file)
+[2018.06.02-12.14.58:123][688]Cmd: DELETE
+[2018.06.02-12.14.58:123][688]Cmd: ACTOR DELETE
+[2018.06.02-12.14.58:133][688]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.02-12.14.58:163][688]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2018.06.02-12.15.13:529][681]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.02-12.15.13:566][681]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.15.13:566][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.02-12.15.13:566][681]PIE: New page: PIE 세션: Day1 (2018. 6. 3. 오전 6:15:13)
+[2018.06.02-12.15.13:566][681]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.02-12.15.13:604][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037386s)
+[2018.06.02-12.15.13:604][681]LogAIModule: Creating AISystem for world Day1
+[2018.06.02-12.15.13:605][681]LogPlayLevel: PIE: World Init took: (0.001154s)
+[2018.06.02-12.15.13:605][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.039185s)
+[2018.06.02-12.15.13:692][681]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.02-12.15.13:706][681]LogInit: FAudioDevice initialized.
+[2018.06.02-12.15.13:767][681]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.02-12.15.13:783][681]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.02-21.15.13
+[2018.06.02-12.15.13:784][681]LogWorld: Bringing up level for play took: 0.016505
+[2018.06.02-12.15.13:799][681]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 1.154
+[2018.06.02-12.15.13:799][681]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.15.22:211][119]LogRenderer: Reallocating scene render targets to support 1920x1016 Format 10 NumSamples 1 (Frame:440).
+[2018.06.02-12.15.31:189][538]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.15.31:250][538]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.15.45:811][472]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.06.02-12.15.48:456][482]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Trolley
+[2018.06.02-12.15.48:456][482]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.06.02-12.15.48:456][482]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.06.02-12.15.48:456][482]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.06.02-12.15.48:476][483]LogTemp: BranchPath = DESKTOP-FMM3QSI/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-FMM3QSI/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.06.02-12.15.48:497][484]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\201411255\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.06.02-12.17.01:356][517]BlueprintLog: New page: WorkPaper 컴파일
+[2018.06.02-12.17.01:694][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/WorkPaper" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset" SILENT=true
+[2018.06.02-12.17.01:719][537]LogSavePackage: Save=17.91ms
+[2018.06.02-12.17.01:719][537]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/WorkPaperB53F591D410D337A316AF9BAE47B254B.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset'
+[2018.06.02-12.17.01:721][537]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset
+[2018.06.02-12.18.14:913][435]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.02-12.18.48:321][753]BlueprintLog: New page: WorkPaper 컴파일
+[2018.06.02-12.18.50:275][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/WorkPaper" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset" SILENT=true
+[2018.06.02-12.18.50:338][844]LogSavePackage: Save=50.16ms
+[2018.06.02-12.18.50:338][844]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/WorkPaperF1E88F724D614C72F76722998A035A99.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset'
+[2018.06.02-12.18.50:341][844]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset
+[2018.06.02-12.19.10:994][ 93]BlueprintLog: New page: WorkPaper 컴파일
+[2018.06.02-12.19.11:441][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/WorkPaper" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset" SILENT=true
+[2018.06.02-12.19.11:464][121]LogSavePackage: Save=15.76ms
+[2018.06.02-12.19.11:464][121]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/WorkPaperF06EDD63420C23566DC3ADA162D4F2E2.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset'
+[2018.06.02-12.19.11:468][121]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset
+[2018.06.02-12.19.38:338][990]BlueprintLog: New page: WorkPaper 컴파일
+[2018.06.02-12.19.39:127][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/WorkPaper" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset" SILENT=true
+[2018.06.02-12.19.39:185][  3]LogSavePackage: Save=53.47ms
+[2018.06.02-12.19.39:186][  3]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/WorkPaper294245754B34E2A57F8F3C869E67B742.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset'
+[2018.06.02-12.19.39:188][  3]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset
+[2018.06.02-12.19.40:113][ 65]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.02-12.19.40:171][ 65]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.19.40:171][ 65]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.02-12.19.40:171][ 65]PIE: New page: PIE 세션: Day1 (2018. 6. 3. 오전 6:19:40)
+[2018.06.02-12.19.40:171][ 65]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.02-12.19.40:213][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042379s)
+[2018.06.02-12.19.40:215][ 65]LogAIModule: Creating AISystem for world Day1
+[2018.06.02-12.19.40:215][ 65]LogPlayLevel: PIE: World Init took: (0.001468s)
+[2018.06.02-12.19.40:215][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.044411s)
+[2018.06.02-12.19.40:275][ 65]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.02-12.19.40:289][ 65]LogInit: FAudioDevice initialized.
+[2018.06.02-12.19.40:348][ 65]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.02-12.19.40:362][ 65]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.02-21.19.40
+[2018.06.02-12.19.40:363][ 65]LogWorld: Bringing up level for play took: 0.014959
+[2018.06.02-12.19.40:376][ 65]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: -0.268
+[2018.06.02-12.19.40:377][ 65]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.19.53:263][714]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.19.53:357][714]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.20.21:921][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/WorkPaper" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset" SILENT=true
+[2018.06.02-12.20.21:975][673]LogSavePackage: Save=47.41ms
+[2018.06.02-12.20.21:975][673]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/WorkPaperFE82D5BA47BF4B052EF91DABCF301977.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset'
+[2018.06.02-12.20.21:977][673]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset
+[2018.06.02-12.20.30:069][196]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.02-12.20.30:106][196]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.20.30:106][196]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.02-12.20.30:106][196]PIE: New page: PIE 세션: Day1 (2018. 6. 3. 오전 6:20:30)
+[2018.06.02-12.20.30:106][196]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.02-12.20.30:143][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036801s)
+[2018.06.02-12.20.30:144][196]LogAIModule: Creating AISystem for world Day1
+[2018.06.02-12.20.30:144][196]LogPlayLevel: PIE: World Init took: (0.001021s)
+[2018.06.02-12.20.30:145][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.038393s)
+[2018.06.02-12.20.30:198][196]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.02-12.20.30:212][196]LogInit: FAudioDevice initialized.
+[2018.06.02-12.20.30:272][196]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.02-12.20.30:284][196]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.02-21.20.30
+[2018.06.02-12.20.30:285][196]LogWorld: Bringing up level for play took: 0.013083
+[2018.06.02-12.20.30:300][196]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: -0.344
+[2018.06.02-12.20.30:301][196]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.20.46:660][987]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.20.46:740][987]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.20.57:521][722]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.02-12.20.57:555][722]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.20.57:555][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.02-12.20.57:556][722]PIE: New page: PIE 세션: Day1 (2018. 6. 3. 오전 6:20:57)
+[2018.06.02-12.20.57:556][722]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.02-12.20.57:592][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036077s)
+[2018.06.02-12.20.57:592][722]LogAIModule: Creating AISystem for world Day1
+[2018.06.02-12.20.57:593][722]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2018.06.02-12.20.57:593][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.037373s)
+[2018.06.02-12.20.57:644][722]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.02-12.20.57:658][722]LogInit: FAudioDevice initialized.
+[2018.06.02-12.20.57:715][722]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.02-12.20.57:727][722]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.02-21.20.57
+[2018.06.02-12.20.57:730][722]LogWorld: Bringing up level for play took: 0.014146
+[2018.06.02-12.20.57:750][722]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 1.105
+[2018.06.02-12.20.57:750][722]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.21.08:145][204]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.21.08:222][204]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.22.02:103][578]BlueprintLog: New page: WorkPaper 컴파일
+[2018.06.02-12.22.02:554][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/WorkPaper" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset" SILENT=true
+[2018.06.02-12.22.02:578][605]LogSavePackage: Save=16.68ms
+[2018.06.02-12.22.02:578][605]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/WorkPaperCD61B9A54964D33CAA71D4A5D9FC8D3A.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset'
+[2018.06.02-12.22.02:581][605]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset
+[2018.06.02-12.22.13:357][341]BlueprintLog: New page: WorkPaper 컴파일
+[2018.06.02-12.22.13:885][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/WorkPaper" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset" SILENT=true
+[2018.06.02-12.22.13:943][341]LogSavePackage: Save=52.75ms
+[2018.06.02-12.22.13:943][341]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/WorkPaper74D98B22468BD9B4EEE650816ECC86A4.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset'
+[2018.06.02-12.22.13:946][341]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset
+[2018.06.02-12.22.14:282][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/WorkPaper" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset" SILENT=true
+[2018.06.02-12.22.14:333][357]LogSavePackage: Save=46.22ms
+[2018.06.02-12.22.14:333][357]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/WorkPaperDAF4514343D2028C665A35933B154747.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset'
+[2018.06.02-12.22.14:335][357]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset
+[2018.06.02-12.22.46:997][146]BlueprintLog: New page: WorkPaper 컴파일
+[2018.06.02-12.22.47:542][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/WorkPaper" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset" SILENT=true
+[2018.06.02-12.22.47:567][167]LogSavePackage: Save=18.07ms
+[2018.06.02-12.22.47:567][167]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/WorkPaperF1F1A94843A3DC4D2F1E9691C92B133E.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset'
+[2018.06.02-12.22.47:569][167]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset
+[2018.06.02-12.22.49:229][208]LogSavePackage: Save=712.16ms
+[2018.06.02-12.22.49:229][208]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Day10102C35B415DE2B889B4A29B0E21275A.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.02-12.22.49:233][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/Day1.umap
+[2018.06.02-12.22.49:288][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.02-12.22.53:428][208]LogSavePackage: Save=3446.49ms
+[2018.06.02-12.22.53:428][208]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Day1_BuiltData4EE92CF8477C01F7C21080A499766EB1.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.02-12.22.53:433][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.02-12.23.50:914][ 14]BlueprintLog: New page: WorkPaper 컴파일
+[2018.06.02-12.23.50:925][ 14]LogBlueprint: Warning: [Compiler WorkPaper] Reply  Return Value  이벤트는 비어있으면 안됩니다. Handled 또는 Unhandled 같은 리플라이를 반환하세요.
+[2018.06.02-12.23.50:984][ 14]LogBlueprint: Warning: [Compiler WorkPaper] [1780.27] WorkPaper 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 69 ms] (/Game/TopDownBP/Blueprints/UI/WorkPaper.WorkPaper)
+[2018.06.02-12.23.51:333][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/WorkPaper" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset" SILENT=true
+[2018.06.02-12.23.51:368][ 39]LogSavePackage: Save=21.02ms
+[2018.06.02-12.23.51:368][ 39]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/WorkPaper1DDBC4D14AD09425D417EAA0036C103B.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset'
+[2018.06.02-12.23.51:371][ 39]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset
+[2018.06.02-12.23.58:894][570]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.02-12.23.58:943][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.23.58:943][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.02-12.23.58:943][570]PIE: New page: PIE 세션: Day1 (2018. 6. 3. 오전 6:23:58)
+[2018.06.02-12.23.58:943][570]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.02-12.23.58:981][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038113s)
+[2018.06.02-12.23.58:983][570]LogAIModule: Creating AISystem for world Day1
+[2018.06.02-12.23.58:983][570]LogPlayLevel: PIE: World Init took: (0.001618s)
+[2018.06.02-12.23.58:984][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.040441s)
+[2018.06.02-12.23.59:035][570]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.02-12.23.59:048][570]LogInit: FAudioDevice initialized.
+[2018.06.02-12.23.59:102][570]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.02-12.23.59:116][570]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.02-21.23.59
+[2018.06.02-12.23.59:118][570]LogWorld: Bringing up level for play took: 0.015614
+[2018.06.02-12.23.59:131][570]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 0.487
+[2018.06.02-12.23.59:132][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.24.06:309][924]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.24.06:401][924]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.24.19:043][667]BlueprintLog: New page: WorkPaper 컴파일
+[2018.06.02-12.24.19:560][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/WorkPaper" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset" SILENT=true
+[2018.06.02-12.24.19:610][667]LogSavePackage: Save=46.26ms
+[2018.06.02-12.24.19:610][667]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/WorkPaperAF3F64514310DBCA12F0B894843382B6.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset'
+[2018.06.02-12.24.19:613][667]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset
+[2018.06.02-12.24.19:925][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/WorkPaper" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset" SILENT=true
+[2018.06.02-12.24.19:971][682]LogSavePackage: Save=40.06ms
+[2018.06.02-12.24.19:971][682]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/WorkPaper6560DC5642D4222F1AF6C4BCD54D81A1.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset'
+[2018.06.02-12.24.19:972][682]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/WorkPaper.uasset
+[2018.06.02-12.24.26:139][ 99]BlueprintLog: New page: WorkPaper 컴파일
+[2018.06.02-12.24.26:160][ 99]LogBlueprint: Warning: [Compiler WorkPaper] Reply  Return Value  이벤트는 비어있으면 안됩니다. Handled 또는 Unhandled 같은 리플라이를 반환하세요.
+[2018.06.02-12.24.26:504][ 99]LogBlueprint: Warning: [Compiler WorkPaper] [1815.79] WorkPaper 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 364 ms] (/Game/TopDownBP/Blueprints/UI/WorkPaper.WorkPaper)
+[2018.06.02-12.24.26:522][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/WorkPaper" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset" SILENT=true
+[2018.06.02-12.24.26:549][ 99]LogSavePackage: Save=20.06ms
+[2018.06.02-12.24.26:549][ 99]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/WorkPaper1FA560C642742E4A8499C2941B663F44.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset'
+[2018.06.02-12.24.26:552][ 99]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset
+[2018.06.02-12.24.27:570][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/WorkPaper" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset" SILENT=true
+[2018.06.02-12.24.27:594][162]LogSavePackage: Save=18.01ms
+[2018.06.02-12.24.27:594][162]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/WorkPaper3475671B43DCF8C10443168A5D030CEB.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset'
+[2018.06.02-12.24.27:595][162]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset
+[2018.06.02-12.24.52:280][549]PIE: '/Engine/Transient.Image_1' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:282][549]PIE: '/Engine/Transient.Image_3' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:283][549]PIE: '/Engine/Transient.Image_5' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:286][549]PIE: '/Engine/Transient.Image_7' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:311][550]PIE: '/Engine/Transient.Image_9' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:315][550]PIE: '/Engine/Transient.Image_11' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:336][551]PIE: '/Engine/Transient.Image_13' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:340][551]PIE: '/Engine/Transient.Image_15' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:359][552]PIE: '/Engine/Transient.Image_17' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:362][552]PIE: '/Engine/Transient.Image_19' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:388][553]PIE: '/Engine/Transient.Image_21' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:391][553]PIE: '/Engine/Transient.Image_23' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:410][554]PIE: '/Engine/Transient.Image_25' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:412][554]PIE: '/Engine/Transient.Image_27' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:414][554]PIE: '/Engine/Transient.Image_29' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:433][555]PIE: '/Engine/Transient.Image_31' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:436][555]PIE: '/Engine/Transient.Image_33' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:457][556]PIE: '/Engine/Transient.Image_35' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:460][556]PIE: '/Engine/Transient.Image_37' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:479][557]PIE: '/Engine/Transient.Image_39' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:483][557]PIE: '/Engine/Transient.Image_41' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:502][558]PIE: '/Engine/Transient.Image_43' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:524][559]PIE: '/Engine/Transient.Image_45' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:545][560]PIE: '/Engine/Transient.Image_47' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:567][561]PIE: '/Engine/Transient.Image_49' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:589][562]PIE: '/Engine/Transient.Image_51' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:611][563]PIE: '/Engine/Transient.Image_53' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.24.52:634][564]PIE: '/Engine/Transient.Image_55' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.06.02-12.25.19:310][870]BlueprintLog: New page: WorkPaper 컴파일
+[2018.06.02-12.25.19:323][870]LogBlueprint: Warning: [Compiler WorkPaper] Reply  Return Value  이벤트는 비어있으면 안됩니다. Handled 또는 Unhandled 같은 리플라이를 반환하세요.
+[2018.06.02-12.25.19:361][870]LogBlueprint: Warning: [Compiler WorkPaper] [1868.65] WorkPaper 컴파일에 성공했습니다만, 경고가 1 회 있습니다. [소요시간 50 ms] (/Game/TopDownBP/Blueprints/UI/WorkPaper.WorkPaper)
+[2018.06.02-12.25.19:650][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/WorkPaper" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset" SILENT=true
+[2018.06.02-12.25.19:676][890]LogSavePackage: Save=19.04ms
+[2018.06.02-12.25.19:676][890]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/WorkPaper54DD855342CA492843CC9F899A71D910.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset'
+[2018.06.02-12.25.19:679][890]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Blueprints/UI/WorkPaper.uasset
+[2018.06.02-12.25.20:520][950]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.02-12.25.20:567][950]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.25.20:568][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.02-12.25.20:568][950]PIE: New page: PIE 세션: Day1 (2018. 6. 3. 오전 6:25:20)
+[2018.06.02-12.25.20:568][950]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.02-12.25.20:605][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036748s)
+[2018.06.02-12.25.20:605][950]LogAIModule: Creating AISystem for world Day1
+[2018.06.02-12.25.20:606][950]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2018.06.02-12.25.20:606][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.038288s)
+[2018.06.02-12.25.20:665][950]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.02-12.25.20:679][950]LogInit: FAudioDevice initialized.
+[2018.06.02-12.25.20:738][950]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.02-12.25.20:752][950]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.02-21.25.20
+[2018.06.02-12.25.20:753][950]LogWorld: Bringing up level for play took: 0.014767
+[2018.06.02-12.25.20:767][950]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 0.123
+[2018.06.02-12.25.20:768][950]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.25.33:634][553]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.25.33:728][553]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.25.34:645][615]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.02-12.25.34:683][615]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.25.34:683][615]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.02-12.25.34:684][615]PIE: New page: PIE 세션: Day1 (2018. 6. 3. 오전 6:25:34)
+[2018.06.02-12.25.34:684][615]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.02-12.25.34:725][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041114s)
+[2018.06.02-12.25.34:726][615]LogAIModule: Creating AISystem for world Day1
+[2018.06.02-12.25.34:726][615]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2018.06.02-12.25.34:726][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.042659s)
+[2018.06.02-12.25.34:783][615]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.02-12.25.34:797][615]LogInit: FAudioDevice initialized.
+[2018.06.02-12.25.34:855][615]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.02-12.25.34:869][615]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.02-21.25.34
+[2018.06.02-12.25.34:871][615]LogWorld: Bringing up level for play took: 0.016381
+[2018.06.02-12.25.34:890][615]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 0.245
+[2018.06.02-12.25.34:890][615]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.25.49:094][371]LogSavePackage: Save=722.63ms
+[2018.06.02-12.25.49:094][371]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Day1ABEE52034DCBF6748D356295D94614BB.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.02-12.25.49:099][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/Day1.umap
+[2018.06.02-12.25.49:152][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.02-12.25.52:617][371]LogSavePackage: Save=3460.69ms
+[2018.06.02-12.25.52:617][371]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Day1_BuiltDataC432B960490707BDC3ABF2A0BBB8ACDB.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.02-12.25.52:621][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.02-12.25.53:366][404]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.02-12.25.53:522][404]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.02-12.25.53:617][404]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.02-12.26.00:591][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/Logo" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/Logo.uasset" SILENT=true
+[2018.06.02-12.26.00:609][631]LogSavePackage: Save=15.77ms
+[2018.06.02-12.26.00:609][631]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/LogoCCDEFDB0484A28B3BFD2E2BDCDE0091D.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/Logo.uasset'
+[2018.06.02-12.26.00:611][631]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/Logo.uasset
+[2018.06.02-12.26.00:690][631]LogSavePackage: Save=15.36ms
+[2018.06.02-12.26.00:690][631]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/_TV_01_1___2_blinn5SG36A41B3C4E1ADB375A95BD870C1F84F0.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/Metarial/_TV_01_1___2_blinn5SG.uasset'
+[2018.06.02-12.26.00:693][631]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/Metarial/_TV_01_1___2_blinn5SG.uasset
+[2018.06.02-12.26.00:735][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/mic_PhysicsAsset" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/mic_PhysicsAsset.uasset" SILENT=true
+[2018.06.02-12.26.00:750][631]LogSavePackage: Save=13.37ms
+[2018.06.02-12.26.00:750][631]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/mic_PhysicsAsset0E3290594099372E19064E9EDADE56C6.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/mic_PhysicsAsset.uasset'
+[2018.06.02-12.26.00:755][631]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/mic_PhysicsAsset.uasset
+[2018.06.02-12.26.00:756][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/mic_Skeleton" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/mic_Skeleton.uasset" SILENT=true
+[2018.06.02-12.26.00:762][631]LogSavePackage: Save=4.89ms
+[2018.06.02-12.26.00:762][631]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/mic_Skeleton3B949FF64DC141842BFCB6BCCA88E196.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/mic_Skeleton.uasset'
+[2018.06.02-12.26.00:765][631]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/mic_Skeleton.uasset
+[2018.06.02-12.26.00:773][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/WorkPaper" FILE="../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/WorkPaper.uasset" SILENT=true
+[2018.06.02-12.26.01:121][631]LogSavePackage: Save=345.25ms
+[2018.06.02-12.26.01:121][631]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Saved/WorkPaper2784489F4A515ED96CE5AF92AD9CD745.tmp' to '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/WorkPaper.uasset'
+[2018.06.02-12.26.01:124][631]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/TopDownBP/Mesh/WorkPaper.uasset
+[2018.06.02-12.26.01:658][631]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.26.01:733][631]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.02-12.26.01:770][632]Cmd: QUIT_EDITOR
+[2018.06.02-12.26.02:261][632]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.06.02-12.26.02:355][632]LogExit: Preparing to exit.
+[2018.06.02-12.26.03:277][632]LogDirectoryWatcher: A directory notification for 'C:/Users/201411255/Documents/GitHub/Trolley_0.05/Content/' was aborted.
+[2018.06.02-12.26.03:506][632]LogExit: Editor shut down
+[2018.06.02-12.26.03:515][632]LogExit: Transaction tracking system shut down
+[2018.06.02-12.26.04:048][632]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.06.02-12.26.04:048][632]LogDirectoryWatcher: A directory notification for '../../../../../../Users/201411255/Documents/GitHub/Trolley_0.05/Content/' was aborted.
+[2018.06.02-12.26.04:048][632]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.06.02-12.26.04:048][632]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.06.02-12.26.04:048][632]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.06.02-12.26.04:048][632]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.06.02-12.26.04:048][632]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.06.02-12.26.05:046][632]LogExit: Object subsystem successfully closed.
+[2018.06.02-12.26.05:111][632]LogD3D11RHI: Shutdown
+[2018.06.02-12.26.05:122][632]LogD3D11RHI: CleanupD3DDevice
+[2018.06.02-12.26.05:158][632]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.06.02-12.26.05:756][632]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (564)
+[2018.06.02-12.26.05:756][632]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (562)
+[2018.06.02-12.26.05:756][632]LogModuleManager: Shutting down and abandoning module SequencerWidgets (560)
+[2018.06.02-12.26.05:756][632]LogModuleManager: Shutting down and abandoning module BlueprintGraph (558)
+[2018.06.02-12.26.05:756][632]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (556)
+[2018.06.02-12.26.05:757][632]LogModuleManager: Shutting down and abandoning module SkeletonEditor (554)
+[2018.06.02-12.26.05:757][632]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (552)
+[2018.06.02-12.26.05:762][632]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (550)
+[2018.06.02-12.26.05:762][632]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.06.02-12.26.05:762][632]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.06.02-12.26.05:762][632]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.06.02-12.26.05:771][632]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.06.02-12.26.05:780][632]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.06.02-12.26.05:780][632]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.06.02-12.26.05:780][632]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.06.02-12.26.05:788][632]LogDirectoryWatcher: A directory notification for 'C:/Users/201411255/Documents/GitHub/Trolley_0.05/Content/Collections/' was aborted.
+[2018.06.02-12.26.05:788][632]LogDirectoryWatcher: A directory notification for 'C:/Users/201411255/Documents/GitHub/Trolley_0.05/Content/Developers/201411255/Collections/' was aborted.
+[2018.06.02-12.26.05:788][632]LogDirectoryWatcher: A directory notification for 'C:/Users/201411255/Documents/GitHub/Trolley_0.05/Saved/Collections/' was aborted.
+[2018.06.02-12.26.05:789][632]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.06.02-12.26.05:800][632]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.06.02-12.26.05:805][632]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.06.02-12.26.05:822][632]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.06.02-12.26.05:839][632]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.06.02-12.26.05:839][632]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.06.02-12.26.05:839][632]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.06.02-12.26.05:839][632]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.06.02-12.26.05:839][632]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.06.02-12.26.05:839][632]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.06.02-12.26.05:839][632]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.06.02-12.26.05:839][632]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.06.02-12.26.05:848][632]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.06.02-12.26.05:859][632]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.06.02-12.26.05:866][632]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.06.02-12.26.05:880][632]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.06.02-12.26.05:880][632]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.06.02-12.26.05:880][632]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.06.02-12.26.05:880][632]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.06.02-12.26.05:880][632]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.06.02-12.26.05:880][632]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.06.02-12.26.05:881][632]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.06.02-12.26.05:881][632]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.06.02-12.26.05:881][632]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.06.02-12.26.05:881][632]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.06.02-12.26.05:881][632]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.06.02-12.26.05:881][632]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.06.02-12.26.05:889][632]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.06.02-12.26.05:889][632]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.06.02-12.26.05:890][632]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.06.02-12.26.05:890][632]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.06.02-12.26.05:890][632]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.06.02-12.26.05:890][632]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.06.02-12.26.05:915][632]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.06.02-12.26.05:915][632]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.06.02-12.26.05:931][632]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.06.02-12.26.05:972][632]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.06.02-12.26.05:982][632]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.06.02-12.26.05:982][632]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.06.02-12.26.05:982][632]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.06.02-12.26.05:983][632]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.06.02-12.26.06:924][632]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.06.02-12.26.06:924][632]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.06.02-12.26.06:924][632]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.06.02-12.26.06:924][632]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.06.02-12.26.06:937][632]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.06.02-12.26.06:999][632]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.06.02-12.26.07:000][632]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.06.02-12.26.07:016][632]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.06.02-12.26.07:016][632]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.06.02-12.26.07:112][632]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.06.02-12.26.07:128][632]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.06.02-12.26.07:128][632]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.06.02-12.26.07:128][632]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.06.02-12.26.07:128][632]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.06.02-12.26.07:174][632]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.06.02-12.26.07:174][632]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.06.02-12.26.07:174][632]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.06.02-12.26.07:175][632]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.06.02-12.26.07:175][632]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.06.02-12.26.07:175][632]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.06.02-12.26.07:191][632]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.06.02-12.26.07:205][632]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.06.02-12.26.07:214][632]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.06.02-12.26.07:223][632]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.06.02-12.26.07:278][632]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.06.02-12.26.07:284][632]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.06.02-12.26.07:307][632]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.06.02-12.26.07:324][632]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.06.02-12.26.07:325][632]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.06.02-12.26.07:325][632]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.06.02-12.26.07:325][632]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.06.02-12.26.07:339][632]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.06.02-12.26.07:339][632]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.06.02-12.26.07:339][632]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.06.02-12.26.07:362][632]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.06.02-12.26.07:363][632]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.06.02-12.26.07:363][632]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.06.02-12.26.07:369][632]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.06.02-12.26.07:376][632]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.06.02-12.26.07:391][632]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.06.02-12.26.07:396][632]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.06.02-12.26.07:396][632]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.06.02-12.26.07:396][632]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.06.02-12.26.07:396][632]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.06.02-12.26.07:396][632]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.06.02-12.26.07:396][632]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.06.02-12.26.07:396][632]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.06.02-12.26.07:396][632]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.06.02-12.26.07:396][632]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.06.02-12.26.07:396][632]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.06.02-12.26.07:400][632]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.06.02-12.26.07:400][632]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.06.02-12.26.07:407][632]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.06.02-12.26.07:407][632]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.06.02-12.26.07:611][632]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.06.02-12.26.07:624][632]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.06.02-12.26.07:624][632]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.06.02-12.26.07:624][632]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.06.02-12.26.07:635][632]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.06.02-12.26.07:646][632]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.06.02-12.26.07:646][632]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.06.02-12.26.07:646][632]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.06.02-12.26.07:650][632]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.06.02-12.26.07:650][632]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.06.02-12.26.07:650][632]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.06.02-12.26.07:650][632]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.06.02-12.26.07:664][632]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.06.02-12.26.07:664][632]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.06.02-12.26.07:664][632]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.06.02-12.26.07:664][632]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.06.02-12.26.07:674][632]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.06.02-12.26.07:674][632]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.06.02-12.26.07:691][632]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.06.02-12.26.07:691][632]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.06.02-12.26.07:691][632]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.06.02-12.26.07:719][632]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.06.02-12.26.07:732][632]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.06.02-12.26.07:732][632]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.06.02-12.26.07:732][632]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.06.02-12.26.07:732][632]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.06.02-12.26.07:739][632]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.06.02-12.26.07:755][632]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.06.02-12.26.07:820][632]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.06.02-12.26.07:823][632]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.06.02-12.26.07:823][632]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.06.02-12.26.07:823][632]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.06.02-12.26.07:823][632]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.06.02-12.26.07:840][632]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.06.02-12.26.07:846][632]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.06.02-12.26.07:853][632]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.06.02-12.26.07:859][632]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.06.02-12.26.07:860][632]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.06.02-12.26.07:874][632]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.06.02-12.26.07:874][632]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.06.02-12.26.07:875][632]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.06.02-12.26.07:875][632]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.06.02-12.26.07:875][632]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.06.02-12.26.07:875][632]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.06.02-12.26.07:875][632]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.06.02-12.26.07:883][632]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.06.02-12.26.08:000][632]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.06.02-12.26.08:138][632]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.06.02-12.26.08:138][632]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.06.02-12.26.08:138][632]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.06.02-12.26.08:138][632]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.06.02-12.26.08:191][632]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.06.02-12.26.08:191][632]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.06.02-12.26.08:193][632]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.06.02-12.26.08:193][632]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.06.02-12.26.08:193][632]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.06.02-12.26.08:219][632]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.06.02-12.26.08:281][632]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.06.02-12.26.08:281][632]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.06.02-12.26.08:281][632]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.06.02-12.26.08:281][632]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.06.02-12.26.08:297][632]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.06.02-12.26.08:297][632]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.06.02-12.26.08:304][632]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.06.02-12.26.08:304][632]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.06.02-12.26.08:304][632]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.06.02-12.26.08:474][632]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.06.02-12.26.08:490][632]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.06.02-12.26.08:490][632]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.06.02-12.26.08:571][632]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.06.02-12.26.08:579][632]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.06.02-12.26.08:589][632]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.06.02-12.26.08:590][632]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.06.02-12.26.08:603][632]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.06.02-12.26.08:603][632]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.06.02-12.26.08:604][632]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.06.02-12.26.08:604][632]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.06.02-12.26.08:653][632]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.06.02-12.26.08:653][632]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.06.02-12.26.08:657][632]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.06.02-12.26.08:657][632]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.06.02-12.26.08:657][632]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.06.02-12.26.08:658][632]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.06.02-12.26.08:658][632]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.06.02-12.26.08:658][632]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.06.02-12.26.08:658][632]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.06.02-12.26.08:667][632]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.06.02-12.26.08:675][632]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.06.02-12.26.08:675][632]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.06.02-12.26.08:675][632]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.06.02-12.26.08:727][632]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.06.02-12.26.08:727][632]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.06.02-12.26.08:744][632]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.06.02-12.26.08:744][632]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.06.02-12.26.08:756][632]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.06.02-12.26.08:769][632]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.06.02-12.26.08:857][632]LogDerivedDataCache: Shutdown
+[2018.06.02-12.26.08:857][632]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.06.02-12.26.08:857][632]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.06.02-12.26.08:882][632]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.06.02-12.26.08:911][632]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.06.02-12.26.08:936][632]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.06.02-12.26.08:960][632]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.06.02-12.26.09:011][632]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.06.02-12.26.09:011][632]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.06.02-12.26.09:011][632]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.06.02-12.26.09:011][632]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.06.02-12.26.09:044][632]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.06.02-12.26.09:044][632]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.06.02-12.26.09:044][632]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.06.02-12.26.09:045][632]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.06.02-12.26.09:066][632]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.06.02-12.26.09:066][632]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.06.02-12.26.09:067][632]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.06.02-12.26.09:067][632]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.06.02-12.26.09:067][632]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.06.02-12.26.09:085][632]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.06.02-12.26.09:090][632]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.06.02-12.26.09:090][632]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.06.02-12.26.09:096][632]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B55B081EB-45BC-7056-01BF-CEB764CADB9A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=85f5624e41710235cc2d1c94528e1679%7Cfd159e6a22e842339ef246a1fe6d8531%7C6a8768f6-ef21-4795-bfa6-daf8d470321e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.06.02-12.26.09:098][632]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.06.02-12.26.09:111][632]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.06.02-12.26.09:141][632]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.06.02-12.26.09:142][632]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.06.02-12.26.09:152][632]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.06.02-12.26.09:152][632]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.06.02-12.26.09:152][632]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.06.02-12.26.09:152][632]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.06.02-12.26.09:190][632]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.06.02-12.26.09:244][632]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.06.02-12.26.09:244][632]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.06.02-12.26.09:261][632]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.06.02-12.26.09:261][632]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.06.02-12.26.09:261][632]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.06.02-12.26.09:261][632]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.06.02-12.26.09:270][632]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.06.02-12.26.09:270][632]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.06.02-12.26.09:282][632]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.06.02-12.26.09:287][632]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.06.02-12.26.09:313][632]LogExit: Exiting.
+[2018.06.02-12.26.09:359][632]Log file closed, 06/02/18 21:26:09
