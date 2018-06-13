@@ -1235,3 +1235,1041 @@ LogInit: Object subsystem initialized
 [2018.06.13-15.24.32:248][518]LogSavePackage: Save=968.98ms
 [2018.06.13-15.24.32:248][518]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1_BuiltData4215F6454BD85D6C9D4236A5BBF10A2F.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
 [2018.06.13-15.24.32:253][518]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.13-15.25.40:153][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.13-15.25.41:192][769]LogSavePackage: Save=1006.44ms
+[2018.06.13-15.25.41:192][769]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1280074D142273D3F154D28A7E8E320E3.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.13-15.25.41:195][769]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap
+[2018.06.13-15.25.41:228][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.13-15.25.42:186][769]LogSavePackage: Save=955.75ms
+[2018.06.13-15.25.42:186][769]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1_BuiltDataBCC77C5E4E42D2F5E23ED6A93C4B1B5F.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.13-15.25.42:192][769]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.13-15.25.43:269][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/유리문짝" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Mesh/유리문짝.uasset" SILENT=true
+[2018.06.13-15.25.43:282][826]LogSavePackage: Save=11.95ms
+[2018.06.13-15.25.43:283][826]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/유리문짝62738E4E47BE1A6BBB74329921788E5E.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Mesh/유리문짝.uasset'
+[2018.06.13-15.25.43:285][826]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Mesh/유리문짝.uasset
+[2018.06.13-15.27.48:505][866]LogStaticMesh: box 스태틱 메시 빌드중...
+[2018.06.13-15.27.48:523][866]LogStaticMesh: Built static mesh [0.02s] /Game/TopDownBP/Mesh/box.box
+[2018.06.13-15.27.48:528][866]LogMaterial: Missing cached shader map for material _Empty_boxwire_225143087, compiling. 
+[2018.06.13-15.27.48:592][868]LogActorFactory: Actor Factory created box
+[2018.06.13-15.27.48:827][886]LogActorFactory: Actor Factory created box
+[2018.06.13-15.27.49:885][932]LogActorFactory: Actor Factory created Closebox
+[2018.06.13-15.27.51:374][ 36]LogActorFactory: Actor Factory created Closebox
+[2018.06.13-15.27.58:347][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (box)
+[2018.06.13-15.27.58:887][420]Cmd: DELETE
+[2018.06.13-15.27.58:887][420]Cmd: ACTOR DELETE
+[2018.06.13-15.27.58:898][420]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.13-15.27.58:923][420]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.06.13-15.27.59:106][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Closebox4)
+[2018.06.13-15.27.59:182][431]Cmd: DELETE
+[2018.06.13-15.27.59:182][431]Cmd: ACTOR DELETE
+[2018.06.13-15.27.59:192][431]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.13-15.27.59:216][431]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.06.13-15.31.53:068][ 51]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.13-15.31.53:875][ 95]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.13-15.31.54:441][125]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.13-15.31.54:944][148]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.13-15.31.56:153][217]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.13-15.31.57:693][305]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.13-15.32.29:091][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.13-15.32.30:097][886]LogSavePackage: Save=966.04ms
+[2018.06.13-15.32.30:097][886]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day10AF0DBA6418FA6741CE94E91969AE70E.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.13-15.32.30:100][886]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap
+[2018.06.13-15.32.30:130][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.13-15.32.31:099][886]LogSavePackage: Save=931.34ms
+[2018.06.13-15.32.31:100][886]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1_BuiltDataBB7D603E4FC4EC587821379481A38FC8.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.13-15.32.31:104][886]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.13-15.32.54:681][236]LogMetaData: Removing '/Game/TopDownBP/Blueprints/버려지는템.버려지는템_C' ref from Metadata '/Game/TopDownBP/Blueprints/캔.PackageMetaData'
+[2018.06.13-15.32.54:681][236]LogMetaData: Removing '/Game/TopDownBP/Blueprints/버려지는템.SKEL_버려지는템_C' ref from Metadata '/Game/TopDownBP/Blueprints/캔.PackageMetaData'
+[2018.06.13-15.32.54:770][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/버려지는템" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/버려지는템.uasset" SILENT=true
+[2018.06.13-15.32.54:862][236]LogSavePackage: Save=88.22ms
+[2018.06.13-15.32.54:862][236]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/버려지는템C9C83F4645E17525EF2616970A09AB88.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/버려지는템.uasset'
+[2018.06.13-15.32.54:864][236]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/버려지는템.uasset
+[2018.06.13-15.32.54:868][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/캔" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/캔.uasset" SILENT=true
+[2018.06.13-15.32.54:878][236]LogSavePackage: Save=3.61ms
+[2018.06.13-15.32.54:878][236]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/캔887ABF974E9FAE03FFFCDAB0D7529A91.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/캔.uasset'
+[2018.06.13-15.32.54:880][236]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/캔.uasset
+[2018.06.13-15.33.18:054][649]BlueprintLog: New page: 버려지는템 컴파일
+[2018.06.13-15.33.18:641][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/버려지는템" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/버려지는템.uasset" SILENT=true
+[2018.06.13-15.33.18:717][649]LogSavePackage: Save=66.80ms
+[2018.06.13-15.33.18:717][649]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/버려지는템16E8B1B2417318B2A8A542866BAE7FCF.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/버려지는템.uasset'
+[2018.06.13-15.33.18:720][649]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/버려지는템.uasset
+[2018.06.13-15.33.19:893][714]BlueprintLog: New page: Item 컴파일
+[2018.06.13-15.33.20:370][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Item" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/Item.uasset" SILENT=true
+[2018.06.13-15.33.20:459][717]LogSavePackage: Save=82.73ms
+[2018.06.13-15.33.20:459][717]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Item8A57F4534D798FC0E5F054B4F49A488F.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/Item.uasset'
+[2018.06.13-15.33.20:461][717]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/Item.uasset
+[2018.06.13-15.33.21:897][799]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.13-15.33.23:838][914]BlueprintLog: New page: InventorySlot 컴파일
+[2018.06.13-15.33.24:273][938]LogSavePackage: Save=31.64ms
+[2018.06.13-15.33.24:273][938]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/InventorySlot6CB82C094FA2F8DFCD72419CBEC660B6.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/InventorySlot.uasset'
+[2018.06.13-15.33.24:276][938]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/InventorySlot.uasset
+[2018.06.13-15.33.53:400][655]LogActorFactory: Actor Factory created Plane
+[2018.06.13-15.33.54:295][744]LogActorFactory: Actor Factory created Plane
+[2018.06.13-15.34.37:586][164]LogEditorViewport: Clicking Background
+[2018.06.13-15.34.37:766][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.13-15.34.38:773][171]LogSavePackage: Save=980.69ms
+[2018.06.13-15.34.38:773][171]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day11D2A30AA40990862DE914D809E5C8D15.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.13-15.34.38:776][171]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap
+[2018.06.13-15.34.38:806][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.13-15.34.39:739][171]LogSavePackage: Save=930.32ms
+[2018.06.13-15.34.39:739][171]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1_BuiltData0756DAB341A23413A00EA8829F7FA608.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.13-15.34.39:744][171]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.13-15.34.44:148][403]LogEditorViewport: Clicking on Actor (LMB): TrashCan_C (TrashCan2)
+[2018.06.13-15.35.13:090][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.06.13-15.35.22:329][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1Floor)
+[2018.06.13-15.35.22:753][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1Floor)
+[2018.06.13-15.35.23:227][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.06.13-15.35.23:624][615]Cmd: DELETE
+[2018.06.13-15.35.23:624][615]Cmd: ACTOR DELETE
+[2018.06.13-15.35.23:637][615]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.13-15.35.23:658][615]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.06.13-15.35.48:867][711]LogBlueprint: Warning: [박스놓는곳] 'MouseClick' variable not found. Base class was probably changed. /Game/TopDownBP/Blueprints/박스놓는곳.박스놓는곳
+[2018.06.13-15.35.48:867][711]LogBlueprint: Warning: [박스놓는곳] 'MouseClick' variable not found. Base class was probably changed. /Game/TopDownBP/Blueprints/박스놓는곳.박스놓는곳
+[2018.06.13-15.35.48:867][711]LogBlueprint: Warning: [박스놓는곳] 'MouseClick' variable not found. Base class was probably changed. /Game/TopDownBP/Blueprints/박스놓는곳.박스놓는곳
+[2018.06.13-15.35.48:867][711]LogBlueprint: Warning: [박스놓는곳] 'MouseClick' variable not found. Base class was probably changed. /Game/TopDownBP/Blueprints/박스놓는곳.박스놓는곳
+[2018.06.13-15.35.48:867][711]LogBlueprint: Warning: [박스놓는곳] 'MouseClick' variable not found. Base class was probably changed. /Game/TopDownBP/Blueprints/박스놓는곳.박스놓는곳
+[2018.06.13-15.35.48:868][711]LogBlueprint: Warning: [박스놓는곳] '캔버리기완료' variable not found. Base class was probably changed. /Game/TopDownBP/Blueprints/박스놓는곳.박스놓는곳
+[2018.06.13-15.35.48:868][711]LogBlueprint: Warning: [박스놓는곳] '캔버리기완료' variable not found. Base class was probably changed. /Game/TopDownBP/Blueprints/박스놓는곳.박스놓는곳
+[2018.06.13-15.35.48:868][711]LogBlueprint: Warning: [박스놓는곳] '캔버리기완료' variable not found. Base class was probably changed. /Game/TopDownBP/Blueprints/박스놓는곳.박스놓는곳
+[2018.06.13-15.35.48:868][711]LogBlueprint: Warning: [박스놓는곳] '캔버리기완료' variable not found. Base class was probably changed. /Game/TopDownBP/Blueprints/박스놓는곳.박스놓는곳
+[2018.06.13-15.36.50:049][287]LogEditorTransaction: Undo 컴포넌트 변경
+[2018.06.13-15.37.39:955][133]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-15.37.39:976][133]LogBlueprint: Warning: [Compiler 박스놓는곳] '박스놓는곳_C' 에서 "캔버리기완료" 라는 이름의 변수를 찾을 수 없습니다.
+ 캔버리기완료 설정  에 대해 '박스놓는곳_C' 컴파일이 되었는지 확인하세요.
+[2018.06.13-15.37.39:976][133]LogBlueprint: Warning: [Compiler 박스놓는곳] '박스놓는곳_C' 에서 "캔버리기완료" 라는 이름의 변수를 찾을 수 없습니다.
+ 캔버리기완료 설정  에 대해 '박스놓는곳_C' 컴파일이 되었는지 확인하세요.
+[2018.06.13-15.37.39:978][133]LogBlueprint: Error: [Compiler 박스놓는곳] 캔버리기완료  와 연관된 프로퍼티를 찾지 못했습니다.
+[2018.06.13-15.37.39:978][133]LogBlueprint: Error: [Compiler 박스놓는곳] 캔버리기완료  와 연관된 프로퍼티를 찾지 못했습니다.
+[2018.06.13-15.37.40:090][133]LogBlueprint: Warning: [Compiler 박스놓는곳] [6813.74] 박스놓는곳 컴파일에 실패했습니다. 치명적 오류 2 회, 경고 2 회, [소요시간 135 ms] (/Game/TopDownBP/Blueprints/박스놓는곳.박스놓는곳)
+[2018.06.13-15.37.46:949][616]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-15.38.09:081][122]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-15.38.09:588][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-15.38.09:652][137]LogSavePackage: Save=61.78ms
+[2018.06.13-15.38.09:652][137]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳0AEB86E142F5FEE9EB46FBA3EA03FFCF.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-15.38.09:654][137]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-15.39.43:272][398]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-15.39.43:741][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-15.39.43:807][410]LogSavePackage: Save=57.41ms
+[2018.06.13-15.39.43:807][410]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳5A76A1BF4BF9EC697161A3AC0B4F599E.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-15.39.43:810][410]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-15.39.58:598][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-15.39.58:653][288]LogSavePackage: Save=52.40ms
+[2018.06.13-15.39.58:653][288]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳32F3890C4349DA0E177825B5A3A6E568.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-15.39.58:654][288]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-15.39.59:332][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-15.39.59:386][321]LogSavePackage: Save=51.01ms
+[2018.06.13-15.39.59:386][321]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳B1BB057549127946746D768E578B92BC.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-15.39.59:387][321]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-15.40.01:186][426]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.13-15.40.01:214][426]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.40.01:214][426]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.06.13-15.40.01:224][426]LogPlayLevel: [PlayLevel] Compiling TrashCan before play...
+[2018.06.13-15.40.01:680][426]LogPlayLevel: PlayLevel: Blueprint regeneration took 465 ms (1 blueprints)
+[2018.06.13-15.40.01:680][426]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오전 9:40:01)
+[2018.06.13-15.40.01:680][426]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.13-15.40.01:717][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038131s)
+[2018.06.13-15.40.01:718][426]LogAIModule: Creating AISystem for world Day1
+[2018.06.13-15.40.01:718][426]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2018.06.13-15.40.01:718][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.039072s)
+[2018.06.13-15.40.01:744][426]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-15.40.01:756][426]LogInit: FAudioDevice initialized.
+[2018.06.13-15.40.01:833][426]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.13-15.40.01:846][426]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-00.40.01
+[2018.06.13-15.40.01:848][426]LogWorld: Bringing up level for play took: 0.014683
+[2018.06.13-15.40.02:391][426]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 0.454
+[2018.06.13-15.40.02:392][426]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.40.19:780][680]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.40.19:838][680]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.41.09:752][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-15.41.09:806][702]LogSavePackage: Save=52.18ms
+[2018.06.13-15.41.09:806][702]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳4C2B9C7C496F511C3AFA8E93050DDB6C.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-15.41.09:809][702]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-15.41.11:432][798]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-15.41.48:435][990]LogBlueprint: Warning: [Compiler ] 붙여넣은  CustomEvent  노드가  DropItem  노드와 충돌되어 커스텀 이벤트로 대체했습니다!
+[2018.06.13-15.41.55:258][394]BlueprintLog: New page: InventorySlot 컴파일
+[2018.06.13-15.41.55:780][419]LogSavePackage: Save=41.27ms
+[2018.06.13-15.41.55:780][419]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/InventorySlot0F54CF854F7984EC9D27ED9BC4F68EF1.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/InventorySlot.uasset'
+[2018.06.13-15.41.55:782][419]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/InventorySlot.uasset
+[2018.06.13-15.41.59:614][648]BlueprintLog: New page: InventorySlot 컴파일
+[2018.06.13-15.42.00:092][673]LogSavePackage: Save=41.55ms
+[2018.06.13-15.42.00:092][673]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/InventorySlot47379A404496AC996AA545A45118E626.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/InventorySlot.uasset'
+[2018.06.13-15.42.00:094][673]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/InventorySlot.uasset
+[2018.06.13-15.42.16:676][779]LogSavePackage: Save=39.71ms
+[2018.06.13-15.42.16:676][779]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/InventorySlotB80DE9D045FA2ACA65E12998049F6E01.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/InventorySlot.uasset'
+[2018.06.13-15.42.16:678][779]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/InventorySlot.uasset
+[2018.06.13-15.42.17:443][824]BlueprintLog: New page: InventorySlot 컴파일
+[2018.06.13-15.42.17:985][852]LogSavePackage: Save=39.10ms
+[2018.06.13-15.42.17:985][852]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/InventorySlotA3D6527B4D49BB4568BD13A3FAEDF636.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/InventorySlot.uasset'
+[2018.06.13-15.42.17:986][852]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/InventorySlot.uasset
+[2018.06.13-15.43.16:116][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.13-15.43.17:125][211]LogSavePackage: Save=975.89ms
+[2018.06.13-15.43.17:125][211]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1276B3BD3401EEEB66FCF18BCA0ACF944.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.13-15.43.17:128][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap
+[2018.06.13-15.43.17:158][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.13-15.43.18:128][211]LogSavePackage: Save=931.75ms
+[2018.06.13-15.43.18:128][211]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1_BuiltData2A734A454400FC8C791A8EAAC622886C.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.13-15.43.18:133][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.13-15.43.18:609][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-15.43.18:662][237]LogSavePackage: Save=51.42ms
+[2018.06.13-15.43.18:662][237]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳D5992AC5400D454502E5B5860081F344.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-15.43.18:663][237]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-15.43.33:162][165]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-15.43.33:664][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-15.43.33:719][167]LogSavePackage: Save=51.84ms
+[2018.06.13-15.43.33:719][167]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳71DE90FB4772CD8D4E06FB9D2410B549.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-15.43.33:721][167]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-15.43.34:713][219]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.13-15.43.34:738][219]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.43.34:738][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-15.43.34:738][219]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오전 9:43:34)
+[2018.06.13-15.43.34:738][219]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.13-15.43.34:776][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037677s)
+[2018.06.13-15.43.34:777][219]LogAIModule: Creating AISystem for world Day1
+[2018.06.13-15.43.34:777][219]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2018.06.13-15.43.34:777][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.038590s)
+[2018.06.13-15.43.34:803][219]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-15.43.34:814][219]LogInit: FAudioDevice initialized.
+[2018.06.13-15.43.34:899][219]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.13-15.43.34:912][219]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-00.43.34
+[2018.06.13-15.43.34:914][219]LogWorld: Bringing up level for play took: 0.014453
+[2018.06.13-15.43.35:452][219]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 1.515
+[2018.06.13-15.43.35:453][219]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.43.57:791][822]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.43.57:856][822]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.44.49:035][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-15.44.49:087][943]LogSavePackage: Save=44.87ms
+[2018.06.13-15.44.49:087][943]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳FFC7BCB94DB7F321A0FF06A57A214CC8.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-15.44.49:089][943]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-15.44.51:411][ 73]LogEditorViewport: Clicking on Actor (LMB): 버려지는템_C (버려지는템)
+[2018.06.13-15.45.10:841][125]BlueprintLog: New page: 버려지는템 컴파일
+[2018.06.13-15.45.12:184][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/버려지는템" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/버려지는템.uasset" SILENT=true
+[2018.06.13-15.45.12:257][156]LogSavePackage: Save=66.91ms
+[2018.06.13-15.45.12:257][156]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/버려지는템3736C2864B2162E310D07AA4245FE793.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/버려지는템.uasset'
+[2018.06.13-15.45.12:259][156]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/버려지는템.uasset
+[2018.06.13-15.45.22:162][634]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.13-15.45.22:183][634]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.45.22:184][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-15.45.22:184][634]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오전 9:45:22)
+[2018.06.13-15.45.22:184][634]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.13-15.45.22:222][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038539s)
+[2018.06.13-15.45.22:223][634]LogAIModule: Creating AISystem for world Day1
+[2018.06.13-15.45.22:223][634]LogPlayLevel: PIE: World Init took: (0.000589s)
+[2018.06.13-15.45.22:223][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.039472s)
+[2018.06.13-15.45.22:249][634]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-15.45.22:261][634]LogInit: FAudioDevice initialized.
+[2018.06.13-15.45.22:323][634]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.13-15.45.22:336][634]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-00.45.22
+[2018.06.13-15.45.22:338][634]LogWorld: Bringing up level for play took: 0.014213
+[2018.06.13-15.45.22:874][634]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 0.936
+[2018.06.13-15.45.22:874][634]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.45.26:055][845]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.45.26:117][845]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.45.31:251][139]BlueprintLog: New page: 버려지는템 컴파일
+[2018.06.13-15.45.32:342][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/버려지는템" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/버려지는템.uasset" SILENT=true
+[2018.06.13-15.45.32:411][163]LogSavePackage: Save=66.70ms
+[2018.06.13-15.45.32:411][163]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/버려지는템1B5FFD07443A3033DAD070BE17887253.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/버려지는템.uasset'
+[2018.06.13-15.45.32:414][163]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/버려지는템.uasset
+[2018.06.13-15.45.33:514][225]LogEditorViewport: Clicking on Actor (LMB): 버려지는템_C (버려지는템)
+[2018.06.13-15.45.56:279][691]LogEditorViewport: Clicking on Actor (LMB): 박스놓는곳_C (박스놓는곳)
+[2018.06.13-15.45.58:349][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.13-15.45.59:349][802]LogSavePackage: Save=975.27ms
+[2018.06.13-15.45.59:349][802]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1F9AE99FE4CBD0F049C894A8C329A0108.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.13-15.45.59:352][802]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap
+[2018.06.13-15.45.59:380][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.13-15.46.00:316][802]LogSavePackage: Save=932.35ms
+[2018.06.13-15.46.00:316][802]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1_BuiltDataD0A6BB7D4874ED0F05709EB15C40D0DA.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.13-15.46.00:321][802]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.13-15.46.00:961][831]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.13-15.46.00:984][831]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.46.00:984][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-15.46.00:984][831]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오전 9:46:00)
+[2018.06.13-15.46.00:984][831]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.13-15.46.01:022][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037416s)
+[2018.06.13-15.46.01:022][831]LogAIModule: Creating AISystem for world Day1
+[2018.06.13-15.46.01:022][831]LogPlayLevel: PIE: World Init took: (0.000536s)
+[2018.06.13-15.46.01:023][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.038318s)
+[2018.06.13-15.46.01:049][831]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-15.46.01:060][831]LogInit: FAudioDevice initialized.
+[2018.06.13-15.46.01:125][831]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.13-15.46.01:138][831]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-00.46.01
+[2018.06.13-15.46.01:140][831]LogWorld: Bringing up level for play took: 0.015095
+[2018.06.13-15.46.01:684][831]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: -0.254
+[2018.06.13-15.46.01:684][831]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.46.14:216][710]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.46.14:275][710]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.46.25:890][653]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-15.46.25:905][653]LogBlueprint: Error: [Compiler 박스놓는곳] 이 블루프린트(self)는 InventorySlot_C 가 아니라, ' 타겟 ' 에는 연결이 있어야 합니다.
+[2018.06.13-15.46.26:015][653]LogBlueprint: Warning: [Compiler 박스놓는곳] [7339.66] 박스놓는곳 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 0 회, [소요시간 125 ms] (/Game/TopDownBP/Blueprints/박스놓는곳.박스놓는곳)
+[2018.06.13-15.46.30:205][940]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-15.46.30:655][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-15.46.30:708][961]LogSavePackage: Save=50.73ms
+[2018.06.13-15.46.30:708][961]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳561E4D32440A1E8B7D09E98393CE911B.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-15.46.30:711][961]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-15.46.32:044][ 39]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.13-15.46.32:075][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.46.32:076][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-15.46.32:076][ 39]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오전 9:46:32)
+[2018.06.13-15.46.32:076][ 39]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.13-15.46.32:114][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037748s)
+[2018.06.13-15.46.32:114][ 39]LogAIModule: Creating AISystem for world Day1
+[2018.06.13-15.46.32:114][ 39]LogPlayLevel: PIE: World Init took: (0.000526s)
+[2018.06.13-15.46.32:115][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.038622s)
+[2018.06.13-15.46.32:140][ 39]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-15.46.32:152][ 39]LogInit: FAudioDevice initialized.
+[2018.06.13-15.46.32:217][ 39]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.13-15.46.32:230][ 39]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-00.46.32
+[2018.06.13-15.46.32:232][ 39]LogWorld: Bringing up level for play took: 0.014392
+[2018.06.13-15.46.32:771][ 39]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 0.834
+[2018.06.13-15.46.32:771][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.46.46:547][ 36]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.46.46:614][ 36]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.46.47:900][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-15.46.47:949][105]LogSavePackage: Save=45.45ms
+[2018.06.13-15.46.47:949][105]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳070177D44EF0E3E2F25962B522B17B06.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-15.46.47:950][105]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-15.47.17:843][ 18]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2018.06.13-15.47.42:200][738]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-15.47.42:774][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-15.47.42:829][749]LogSavePackage: Save=52.19ms
+[2018.06.13-15.47.42:829][749]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳A069E95D448B8C25FB1CE681DE6B85E3.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-15.47.42:831][749]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-15.47.44:103][824]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.13-15.47.44:132][824]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.47.44:133][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-15.47.44:133][824]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오전 9:47:44)
+[2018.06.13-15.47.44:133][824]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.13-15.47.44:171][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038454s)
+[2018.06.13-15.47.44:172][824]LogAIModule: Creating AISystem for world Day1
+[2018.06.13-15.47.44:172][824]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2018.06.13-15.47.44:172][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.039451s)
+[2018.06.13-15.47.44:197][824]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-15.47.44:209][824]LogInit: FAudioDevice initialized.
+[2018.06.13-15.47.44:271][824]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.13-15.47.44:285][824]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-00.47.44
+[2018.06.13-15.47.44:285][824]LogWorld: Bringing up level for play took: 0.014653
+[2018.06.13-15.47.44:826][824]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 0.889
+[2018.06.13-15.47.44:827][824]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.47.59:479][791]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.47.59:548][791]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.48.00:122][818]LogEditorViewport: Clicking on Actor (LMB): 박스놓는곳_C (박스놓는곳)
+[2018.06.13-15.48.06:094][129]LogEditorViewport: Clicking on Actor (LMB): 버려지는템_C (버려지는템)
+[2018.06.13-15.48.23:518][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-15.48.23:567][ 57]LogSavePackage: Save=45.97ms
+[2018.06.13-15.48.23:567][ 57]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳F4EC461745ECC2CACDE3F89FF2C29A7A.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-15.48.23:568][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-15.48.25:900][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TrashCan" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/TrashCan.uasset" SILENT=true
+[2018.06.13-15.48.25:976][184]LogSavePackage: Save=70.16ms
+[2018.06.13-15.48.25:977][184]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/TrashCanE6FBD22C48199F0685D783AA27D4610E.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/TrashCan.uasset'
+[2018.06.13-15.48.25:979][184]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/TrashCan.uasset
+[2018.06.13-15.50.07:857][ 67]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-15.50.08:331][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-15.50.08:392][ 68]LogSavePackage: Save=53.55ms
+[2018.06.13-15.50.08:392][ 68]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳687190C440BEBB8DE97C9884C029675D.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-15.50.08:394][ 68]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-15.51.02:189][126]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-15.51.02:679][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-15.51.02:743][127]LogSavePackage: Save=56.90ms
+[2018.06.13-15.51.02:743][127]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳723B202445617F49EBD84A9D01510BA9.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-15.51.02:745][127]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-15.51.03:880][196]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.13-15.51.03:909][196]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.51.03:909][196]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-15.51.03:909][196]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오전 9:51:03)
+[2018.06.13-15.51.03:909][196]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.13-15.51.03:948][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038348s)
+[2018.06.13-15.51.03:948][196]LogAIModule: Creating AISystem for world Day1
+[2018.06.13-15.51.03:948][196]LogPlayLevel: PIE: World Init took: (0.000516s)
+[2018.06.13-15.51.03:949][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.039241s)
+[2018.06.13-15.51.03:973][196]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-15.51.03:983][196]LogInit: FAudioDevice initialized.
+[2018.06.13-15.51.04:083][196]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.13-15.51.04:097][196]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-00.51.04
+[2018.06.13-15.51.04:098][196]LogWorld: Bringing up level for play took: 0.014985
+[2018.06.13-15.51.04:637][196]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 0.701
+[2018.06.13-15.51.04:638][196]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.51.12:907][787]LogBlueprintUserMessages: [박스놓는곳_417] Hello
+[2018.06.13-15.51.14:793][925]LogBlueprintUserMessages: [박스놓는곳_417] Hello
+[2018.06.13-15.51.15:975][ 10]LogBlueprintUserMessages: [박스놓는곳_417] Hello
+[2018.06.13-15.51.16:799][ 70]LogBlueprintUserMessages: [박스놓는곳_417] Hello
+[2018.06.13-15.51.18:861][218]LogBlueprintUserMessages: [박스놓는곳_417] Hello
+[2018.06.13-15.51.20:883][359]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.51.20:960][359]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.51.31:763][ 95]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-15.51.32:176][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-15.51.32:234][ 95]LogSavePackage: Save=54.73ms
+[2018.06.13-15.51.32:234][ 95]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳8C379F1549F7D0A520E496A0B3896F8A.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-15.51.32:237][ 95]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-15.51.51:499][250]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.13-15.51.51:526][250]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.51.51:526][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-15.51.51:526][250]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오전 9:51:51)
+[2018.06.13-15.51.51:526][250]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.13-15.51.51:564][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039238s)
+[2018.06.13-15.51.51:565][250]LogAIModule: Creating AISystem for world Day1
+[2018.06.13-15.51.51:565][250]LogPlayLevel: PIE: World Init took: (0.000516s)
+[2018.06.13-15.51.51:565][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.040096s)
+[2018.06.13-15.51.51:589][250]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-15.51.51:600][250]LogInit: FAudioDevice initialized.
+[2018.06.13-15.51.51:657][250]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.13-15.51.51:671][250]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-00.51.51
+[2018.06.13-15.51.51:672][250]LogWorld: Bringing up level for play took: 0.014220
+[2018.06.13-15.51.52:217][250]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 0.281
+[2018.06.13-15.51.52:218][250]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.52.07:303][317]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.52.07:370][317]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.52.08:157][355]LogEditorViewport: Clicking on Actor (LMB): 박스놓는곳_C (박스놓는곳)
+[2018.06.13-15.52.46:861][545]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.13-15.52.46:878][545]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.52.46:879][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-15.52.46:879][545]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오전 9:52:46)
+[2018.06.13-15.52.46:879][545]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.13-15.52.46:916][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036897s)
+[2018.06.13-15.52.46:916][545]LogAIModule: Creating AISystem for world Day1
+[2018.06.13-15.52.46:917][545]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2018.06.13-15.52.46:917][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.037885s)
+[2018.06.13-15.52.46:941][545]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-15.52.46:952][545]LogInit: FAudioDevice initialized.
+[2018.06.13-15.52.47:014][545]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.13-15.52.47:027][545]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-00.52.47
+[2018.06.13-15.52.47:029][545]LogWorld: Bringing up level for play took: 0.014294
+[2018.06.13-15.52.47:570][545]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 1.633
+[2018.06.13-15.52.47:570][545]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.52.48:072][570]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.52.48:141][570]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.53.52:397][617]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-15.53.52:856][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-15.53.52:913][620]LogSavePackage: Save=54.46ms
+[2018.06.13-15.53.52:913][620]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳B233121843F3F1B7CD9A2496C2D92C65.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-15.53.52:916][620]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-15.53.53:647][666]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.13-15.53.53:672][666]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.53.53:673][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-15.53.53:673][666]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오전 9:53:53)
+[2018.06.13-15.53.53:673][666]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.13-15.53.53:711][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038142s)
+[2018.06.13-15.53.53:711][666]LogAIModule: Creating AISystem for world Day1
+[2018.06.13-15.53.53:712][666]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2018.06.13-15.53.53:712][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.039028s)
+[2018.06.13-15.53.53:735][666]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-15.53.53:747][666]LogInit: FAudioDevice initialized.
+[2018.06.13-15.53.53:807][666]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.13-15.53.53:822][666]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-00.53.53
+[2018.06.13-15.53.53:824][666]LogWorld: Bringing up level for play took: 0.016513
+[2018.06.13-15.53.54:362][666]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 0.425
+[2018.06.13-15.53.54:362][666]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.54.07:922][654]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.54.08:003][654]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.54.12:287][935]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-15.54.12:763][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-15.54.12:820][941]LogSavePackage: Save=53.36ms
+[2018.06.13-15.54.12:820][941]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳43D6A7DC40B1A8CC10206D829105879D.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-15.54.12:822][941]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-15.55.45:806][992]LogSavePackage: Save=39.18ms
+[2018.06.13-15.55.45:806][992]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/InventorySlot7D81C4E341DBE67ED33E5CA7602B263D.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/InventorySlot.uasset'
+[2018.06.13-15.55.45:808][992]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/InventorySlot.uasset
+[2018.06.13-15.56.36:939][980]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-15.56.37:486][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-15.56.37:547][988]LogSavePackage: Save=53.45ms
+[2018.06.13-15.56.37:547][988]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳EC06E15743EA6883AFD98FA7292B4D14.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-15.56.37:550][988]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-15.56.38:746][ 54]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.13-15.56.38:773][ 54]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.56.38:773][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-15.56.38:773][ 54]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오전 9:56:38)
+[2018.06.13-15.56.38:773][ 54]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.13-15.56.38:811][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038092s)
+[2018.06.13-15.56.38:812][ 54]LogAIModule: Creating AISystem for world Day1
+[2018.06.13-15.56.38:812][ 54]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2018.06.13-15.56.38:812][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.038986s)
+[2018.06.13-15.56.38:837][ 54]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-15.56.38:849][ 54]LogInit: FAudioDevice initialized.
+[2018.06.13-15.56.38:908][ 54]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.13-15.56.38:921][ 54]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-00.56.38
+[2018.06.13-15.56.38:923][ 54]LogWorld: Bringing up level for play took: 0.014301
+[2018.06.13-15.56.39:460][ 54]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 1.523
+[2018.06.13-15.56.39:460][ 54]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.56.47:503][617]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.56.47:579][617]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.59.27:141][404]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.13-15.59.27:162][404]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.59.27:162][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-15.59.27:162][404]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오전 9:59:27)
+[2018.06.13-15.59.27:162][404]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.13-15.59.27:201][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038193s)
+[2018.06.13-15.59.27:201][404]LogAIModule: Creating AISystem for world Day1
+[2018.06.13-15.59.27:201][404]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2018.06.13-15.59.27:202][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.039214s)
+[2018.06.13-15.59.27:227][404]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-15.59.27:239][404]LogInit: FAudioDevice initialized.
+[2018.06.13-15.59.27:306][404]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.13-15.59.27:319][404]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-00.59.27
+[2018.06.13-15.59.27:321][404]LogWorld: Bringing up level for play took: 0.014624
+[2018.06.13-15.59.27:861][404]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: -0.076
+[2018.06.13-15.59.27:862][404]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.59.51:889][158]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.59.51:967][158]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.59.53:404][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.13-15.59.54:411][236]LogSavePackage: Save=975.74ms
+[2018.06.13-15.59.54:411][236]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1FC95186846F0579D20F48D909CA96057.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.13-15.59.54:414][236]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap
+[2018.06.13-15.59.54:445][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.13-15.59.55:416][236]LogSavePackage: Save=932.74ms
+[2018.06.13-15.59.55:416][236]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1_BuiltData5E5AB93041C862BBBF7B8AABE64313E7.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.13-15.59.55:421][236]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.13-15.59.55:679][250]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.13-15.59.55:698][250]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-15.59.55:698][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-15.59.55:698][250]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오전 9:59:55)
+[2018.06.13-15.59.55:698][250]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.13-15.59.55:734][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036067s)
+[2018.06.13-15.59.55:735][250]LogAIModule: Creating AISystem for world Day1
+[2018.06.13-15.59.55:735][250]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2018.06.13-15.59.55:735][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.036952s)
+[2018.06.13-15.59.55:761][250]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-15.59.55:772][250]LogInit: FAudioDevice initialized.
+[2018.06.13-15.59.55:837][250]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.13-15.59.55:851][250]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-00.59.55
+[2018.06.13-15.59.55:853][250]LogWorld: Bringing up level for play took: 0.014522
+[2018.06.13-15.59.56:391][250]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 0.454
+[2018.06.13-15.59.56:392][250]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.00.07:795][ 57]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.00.07:862][ 57]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.00.08:457][ 88]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.13-16.00.08:476][ 88]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.00.08:476][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-16.00.08:477][ 88]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오전 10:00:08)
+[2018.06.13-16.00.08:477][ 88]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.13-16.00.08:513][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036058s)
+[2018.06.13-16.00.08:513][ 88]LogAIModule: Creating AISystem for world Day1
+[2018.06.13-16.00.08:513][ 88]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2018.06.13-16.00.08:514][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.036928s)
+[2018.06.13-16.00.08:538][ 88]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-16.00.08:549][ 88]LogInit: FAudioDevice initialized.
+[2018.06.13-16.00.08:634][ 88]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.13-16.00.08:649][ 88]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-01.00.08
+[2018.06.13-16.00.08:650][ 88]LogWorld: Bringing up level for play took: 0.015714
+[2018.06.13-16.00.09:192][ 88]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 1.255
+[2018.06.13-16.00.09:193][ 88]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.00.14:128][431]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.00.14:196][431]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.00.14:834][465]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.13-16.00.14:854][465]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.00.14:854][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-16.00.14:854][465]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오전 10:00:14)
+[2018.06.13-16.00.14:854][465]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.13-16.00.14:890][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035787s)
+[2018.06.13-16.00.14:890][465]LogAIModule: Creating AISystem for world Day1
+[2018.06.13-16.00.14:890][465]LogPlayLevel: PIE: World Init took: (0.000517s)
+[2018.06.13-16.00.14:891][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.036662s)
+[2018.06.13-16.00.14:915][465]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-16.00.14:926][465]LogInit: FAudioDevice initialized.
+[2018.06.13-16.00.14:989][465]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.13-16.00.15:003][465]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-01.00.15
+[2018.06.13-16.00.15:005][465]LogWorld: Bringing up level for play took: 0.015159
+[2018.06.13-16.00.15:546][465]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 1.609
+[2018.06.13-16.00.15:546][465]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.00.34:075][791]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.00.34:147][791]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.00.35:609][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-16.00.35:659][871]LogSavePackage: Save=47.90ms
+[2018.06.13-16.00.35:660][871]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳4D2B28C4497AFC8BEA397E9E8D8CC1C8.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-16.00.35:660][871]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-16.00.36:759][934]LogEditorViewport: Clicking on Actor (LMB): 박스놓는곳_C (박스놓는곳)
+[2018.06.13-16.01.21:956][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-16.01.22:014][644]LogSavePackage: Save=55.27ms
+[2018.06.13-16.01.22:015][644]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳4AA88FA84DEC38AEC54EBA953F810EA0.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-16.01.22:017][644]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-16.01.23:925][753]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-16.01.51:907][388]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-16.01.52:502][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-16.01.52:564][392]LogSavePackage: Save=54.26ms
+[2018.06.13-16.01.52:564][392]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳4ED2E3AA4F6EC068F4D2FEBF0D3A7C7E.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-16.01.52:566][392]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-16.02.01:918][863]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-16.02.02:579][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-16.02.02:632][869]LogSavePackage: Save=48.85ms
+[2018.06.13-16.02.02:632][869]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳8137E3E046E87775697E08BB3F583D4E.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-16.02.02:634][869]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-16.02.10:912][310]LogActorFactory: Actor Factory created Closebox
+[2018.06.13-16.03.14:996][415]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-16.03.15:576][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-16.03.15:641][419]LogSavePackage: Save=60.70ms
+[2018.06.13-16.03.15:641][419]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳64B2DCCD49D980CABA76CC9D12FF1140.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-16.03.15:643][419]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-16.03.16:659][517]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.13-16.03.16:685][517]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.03.16:685][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-16.03.16:685][517]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오전 10:03:16)
+[2018.06.13-16.03.16:685][517]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.13-16.03.16:722][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037930s)
+[2018.06.13-16.03.16:723][517]LogAIModule: Creating AISystem for world Day1
+[2018.06.13-16.03.16:723][517]LogPlayLevel: PIE: World Init took: (0.000528s)
+[2018.06.13-16.03.16:723][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.038811s)
+[2018.06.13-16.03.16:749][517]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-16.03.16:760][517]LogInit: FAudioDevice initialized.
+[2018.06.13-16.03.16:821][517]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.13-16.03.16:835][517]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-01.03.16
+[2018.06.13-16.03.16:836][517]LogWorld: Bringing up level for play took: 0.014926
+[2018.06.13-16.03.17:375][517]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 1.438
+[2018.06.13-16.03.17:375][517]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.03.30:347][286]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.03.30:425][286]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.03.33:464][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-16.03.33:521][491]LogSavePackage: Save=54.24ms
+[2018.06.13-16.03.33:521][491]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳293471254C88FADC6F9406A676DE4F2C.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-16.03.33:523][491]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-16.03.44:675][224]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-16.03.45:299][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-16.03.45:361][228]LogSavePackage: Save=58.68ms
+[2018.06.13-16.03.45:361][228]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳321D31AF405FC2A371B3E98F8814930E.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-16.03.45:363][228]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-16.03.53:813][836]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-16.03.54:389][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-16.03.54:451][840]LogSavePackage: Save=59.43ms
+[2018.06.13-16.03.54:451][840]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳1BBBC91345346C9084ECD180809799F7.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-16.03.54:454][840]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-16.03.56:440][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-16.03.56:497][953]LogSavePackage: Save=53.27ms
+[2018.06.13-16.03.56:497][953]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳FFBF943D4A53073489B8A9BA27375CDB.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-16.03.56:498][953]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-16.03.57:847][ 32]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.13-16.03.57:875][ 32]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.03.57:875][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-16.03.57:875][ 32]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오전 10:03:57)
+[2018.06.13-16.03.57:875][ 32]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.13-16.03.57:912][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036751s)
+[2018.06.13-16.03.57:913][ 32]LogAIModule: Creating AISystem for world Day1
+[2018.06.13-16.03.57:913][ 32]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2018.06.13-16.03.57:913][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.037694s)
+[2018.06.13-16.03.57:936][ 32]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-16.03.57:948][ 32]LogInit: FAudioDevice initialized.
+[2018.06.13-16.03.58:010][ 32]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.13-16.03.58:023][ 32]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-01.03.58
+[2018.06.13-16.03.58:025][ 32]LogWorld: Bringing up level for play took: 0.014643
+[2018.06.13-16.03.58:564][ 32]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 0.627
+[2018.06.13-16.03.58:564][ 32]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.04.11:545][902]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.04.11:619][902]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.04.34:083][173]LogSavePackage: Save=39.35ms
+[2018.06.13-16.04.34:083][173]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/InventorySlotFFA571444FFDA08666BFBA9287220259.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/InventorySlot.uasset'
+[2018.06.13-16.04.34:084][173]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/InventorySlot.uasset
+[2018.06.13-16.04.35:739][270]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.13-16.05.47:137][351]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-16.05.47:700][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-16.05.47:767][354]LogSavePackage: Save=63.13ms
+[2018.06.13-16.05.47:767][354]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳76A719494B163CE4FB5FCBB8876EE749.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-16.05.47:769][354]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-16.05.51:759][573]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.13-16.05.51:788][573]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.05.51:788][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.13-16.05.51:788][573]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오전 10:05:51)
+[2018.06.13-16.05.51:788][573]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.13-16.05.51:825][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036611s)
+[2018.06.13-16.05.51:825][573]LogAIModule: Creating AISystem for world Day1
+[2018.06.13-16.05.51:825][573]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2018.06.13-16.05.51:826][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.037496s)
+[2018.06.13-16.05.51:848][573]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-16.05.51:860][573]LogInit: FAudioDevice initialized.
+[2018.06.13-16.05.51:924][573]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.13-16.05.51:938][573]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-01.05.51
+[2018.06.13-16.05.51:940][573]LogWorld: Bringing up level for play took: 0.015080
+[2018.06.13-16.05.52:479][573]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 0.542
+[2018.06.13-16.05.52:480][573]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.06.06:539][555]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.06.06:603][555]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.06.14:044][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-16.06.14:099][ 17]LogSavePackage: Save=53.66ms
+[2018.06.13-16.06.14:099][ 17]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳5587452C4297363A6C69BCA069B2FF5A.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-16.06.14:100][ 17]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-16.07.16:084][641]LogMetaData: Removing '/Game/TopDownBP/Blueprints/박스.SKEL_박스_C' ref from Metadata '/Game/TopDownBP/Blueprints/버려지는템_2.PackageMetaData'
+[2018.06.13-16.07.16:084][641]LogMetaData: Removing '/Game/TopDownBP/Blueprints/박스.박스_C' ref from Metadata '/Game/TopDownBP/Blueprints/버려지는템_2.PackageMetaData'
+[2018.06.13-16.07.16:171][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스.uasset" SILENT=true
+[2018.06.13-16.07.16:254][641]LogSavePackage: Save=79.66ms
+[2018.06.13-16.07.16:254][641]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스915E90754643DD021D4DFDB76C7C4569.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스.uasset'
+[2018.06.13-16.07.16:256][641]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스.uasset
+[2018.06.13-16.07.34:878][797]LogMetaData: Removing '/Game/TopDownBP/Blueprints/쓰레기.쓰레기_C' ref from Metadata '/Game/TopDownBP/Blueprints/버려지는템.PackageMetaData'
+[2018.06.13-16.07.34:878][797]LogMetaData: Removing '/Game/TopDownBP/Blueprints/쓰레기.SKEL_쓰레기_C' ref from Metadata '/Game/TopDownBP/Blueprints/버려지는템.PackageMetaData'
+[2018.06.13-16.07.34:959][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/쓰레기" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/쓰레기.uasset" SILENT=true
+[2018.06.13-16.07.35:032][797]LogSavePackage: Save=71.18ms
+[2018.06.13-16.07.35:032][797]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/쓰레기6324AFCC47FEEAA96AD6F7B3966CBB7D.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/쓰레기.uasset'
+[2018.06.13-16.07.35:034][797]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/쓰레기.uasset
+[2018.06.13-16.07.35:038][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/버려지는템" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/버려지는템.uasset" SILENT=true
+[2018.06.13-16.07.35:048][797]LogSavePackage: Save=3.43ms
+[2018.06.13-16.07.35:048][797]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/버려지는템5A3DBE3F4D2E9EA7C4021F84BE3ED3BD.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/버려지는템.uasset'
+[2018.06.13-16.07.35:050][797]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/버려지는템.uasset
+[2018.06.13-16.07.43:972][273]BlueprintLog: New page: 박스 컴파일
+[2018.06.13-16.07.44:455][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스.uasset" SILENT=true
+[2018.06.13-16.07.44:530][276]LogSavePackage: Save=67.62ms
+[2018.06.13-16.07.44:530][276]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스006204F142C323623984248E8682A735.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스.uasset'
+[2018.06.13-16.07.44:532][276]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스.uasset
+[2018.06.13-16.08.00:740][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스.uasset" SILENT=true
+[2018.06.13-16.08.00:811][260]LogSavePackage: Save=66.56ms
+[2018.06.13-16.08.00:811][260]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스6E215BC64A5DC95B635E2BB148F262DD.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스.uasset'
+[2018.06.13-16.08.00:813][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스.uasset
+[2018.06.13-16.08.04:659][464]LogEditorViewport: Clicking on Actor (LMB): 쓰레기_C (버려지는템)
+[2018.06.13-16.08.05:878][528]Cmd: DELETE
+[2018.06.13-16.08.05:878][528]Cmd: ACTOR DELETE
+[2018.06.13-16.08.05:890][528]LogEditorActor: Deleted Actor: 쓰레기_C
+[2018.06.13-16.08.05:912][528]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.06.13-16.08.09:873][746]BlueprintLog: New page: 박스 컴파일
+[2018.06.13-16.08.10:497][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스.uasset" SILENT=true
+[2018.06.13-16.08.10:566][747]LogSavePackage: Save=66.26ms
+[2018.06.13-16.08.10:566][747]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스3693E0834944A6EE104FCA9993913C30.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스.uasset'
+[2018.06.13-16.08.10:567][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스.uasset
+[2018.06.13-16.08.50:717][415]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.13-16.09.16:968][498]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-16.09.16:987][498]LogBlueprint: Error: [Compiler 박스놓는곳] Target Array  핀과  Out Actors  핀을 연결할 수 없습니다: 쓰레기 오브젝트 레퍼런스 배열 유형은 박스 오브젝트 레퍼런스 배열 유형과 호환되지 않습니다.
+[2018.06.13-16.09.16:987][498]LogBlueprint: Error: [Compiler 박스놓는곳] Out Actors  핀과  Target Array  핀을 연결할 수 없습니다: 박스 오브젝트 레퍼런스 배열 유형은 쓰레기 오브젝트 레퍼런스 배열 유형과 호환되지 않습니다.
+[2018.06.13-16.09.16:987][498]LogBlueprint: Error: [Compiler 박스놓는곳] ' Out Actors ' 에서 ' Target Array ' 로 잘못된 핀 연결입니다. 연결된 이후 유형을 변경했기 때문일 수 있습니다.
+[2018.06.13-16.09.17:101][498]LogBlueprint: Warning: [Compiler 박스놓는곳] [8710.75] 박스놓는곳 컴파일에 실패했습니다. 치명적 오류 3 회, 경고 0 회, [소요시간 133 ms] (/Game/TopDownBP/Blueprints/박스놓는곳.박스놓는곳)
+[2018.06.13-16.09.17:408][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-16.09.17:477][517]LogSavePackage: Save=61.16ms
+[2018.06.13-16.09.17:477][517]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳2F9E45714356C65F0AC571988884D848.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-16.09.17:481][517]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-16.09.43:051][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-16.09.43:116][109]LogSavePackage: Save=61.31ms
+[2018.06.13-16.09.43:116][109]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳8ABBC8D34086712CACFEEAACC498ADD4.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-16.09.43:118][109]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-16.09.48:546][421]BlueprintLog: New page: 박스놓는곳 컴파일
+[2018.06.13-16.09.50:158][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/박스놓는곳" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset" SILENT=true
+[2018.06.13-16.09.50:225][504]LogSavePackage: Save=63.90ms
+[2018.06.13-16.09.50:225][504]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/박스놓는곳6C20DD9D4256BCF6303254B52D9FFE65.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset'
+[2018.06.13-16.09.50:226][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/박스놓는곳.uasset
+[2018.06.13-16.09.52:446][630]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.13-16.09.52:481][630]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.09.52:481][630]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.06.13-16.09.52:490][630]LogPlayLevel: [PlayLevel] Compiling TrashCan before play...
+[2018.06.13-16.09.52:961][630]LogPlayLevel: [PlayLevel] Compiling Day1 before play...
+[2018.06.13-16.09.53:093][630]LogPlayLevel: PlayLevel: Blueprint regeneration took 611 ms (2 blueprints)
+[2018.06.13-16.09.53:093][630]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오전 10:09:53)
+[2018.06.13-16.09.53:093][630]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.13-16.09.53:134][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040808s)
+[2018.06.13-16.09.53:135][630]LogAIModule: Creating AISystem for world Day1
+[2018.06.13-16.09.53:135][630]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2018.06.13-16.09.53:135][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.042574s)
+[2018.06.13-16.09.53:162][630]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-16.09.53:174][630]LogInit: FAudioDevice initialized.
+[2018.06.13-16.09.53:253][630]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.13-16.09.53:266][630]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-01.09.53
+[2018.06.13-16.09.53:268][630]LogWorld: Bringing up level for play took: 0.014525
+[2018.06.13-16.09.53:812][630]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 1.875
+[2018.06.13-16.09.53:813][630]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.10.08:378][692]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.10.08:443][692]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.13-16.10.10:040][777]LogEditorViewport: Clicking on Actor (LMB): 박스놓는곳_C (박스놓는곳)
+[2018.06.13-16.10.17:226][154]LogEditorViewport: Clicking on Actor (LMB): 박스놓는곳_C (박스놓는곳)
+[2018.06.13-16.10.24:565][532]LogEditorViewport: Clicking Background
+[2018.06.13-16.10.24:788][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.13-16.10.25:798][541]LogSavePackage: Save=975.90ms
+[2018.06.13-16.10.25:798][541]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1F0E934FC43D2C238FABBC280FD923C93.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.13-16.10.25:800][541]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap
+[2018.06.13-16.10.25:831][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.13-16.10.26:800][541]LogSavePackage: Save=932.30ms
+[2018.06.13-16.10.26:800][541]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1_BuiltDataCB71545E4CAB25A23EF3F8B39BB9A9AD.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.13-16.10.26:805][541]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.13-16.10.27:303][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TrashCan" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/TrashCan.uasset" SILENT=true
+[2018.06.13-16.10.27:379][560]LogSavePackage: Save=68.96ms
+[2018.06.13-16.10.27:379][560]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/TrashCanA5E1121B4500DE94DB2CEE8A96ED7DE6.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/TrashCan.uasset'
+[2018.06.13-16.10.27:382][560]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/TrashCan.uasset
+[2018.06.13-16.10.29:138][661]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.13-16.10.29:609][678]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.13-16.11.29:604][ 65]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.06.13-16.11.29:804][ 66]Cmd: QUIT_EDITOR
+[2018.06.13-16.11.30:726][ 66]LogExit: Preparing to exit.
+[2018.06.13-16.11.31:783][ 66]LogDirectoryWatcher: A directory notification for 'C:/Users/user/Documents/GitHub/SecurityGame/Content/' was aborted.
+[2018.06.13-16.11.31:826][ 66]LogExit: Editor shut down
+[2018.06.13-16.11.31:834][ 66]LogExit: Transaction tracking system shut down
+[2018.06.13-16.11.31:936][ 66]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.06.13-16.11.31:936][ 66]LogDirectoryWatcher: A directory notification for '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/' was aborted.
+[2018.06.13-16.11.31:936][ 66]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.06.13-16.11.31:936][ 66]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.06.13-16.11.31:936][ 66]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.06.13-16.11.31:936][ 66]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.06.13-16.11.31:936][ 66]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.06.13-16.11.32:057][ 66]LogExit: Object subsystem successfully closed.
+[2018.06.13-16.11.32:086][ 66]LogD3D11RHI: Shutdown
+[2018.06.13-16.11.32:086][ 66]LogD3D11RHI: CleanupD3DDevice
+[2018.06.13-16.11.32:106][ 66]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.06.13-16.11.32:127][ 66]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (558)
+[2018.06.13-16.11.32:127][ 66]LogModuleManager: Shutting down and abandoning module SequencerWidgets (556)
+[2018.06.13-16.11.32:127][ 66]LogModuleManager: Shutting down and abandoning module BlueprintGraph (554)
+[2018.06.13-16.11.32:127][ 66]LogModuleManager: Shutting down and abandoning module TextureEditor (552)
+[2018.06.13-16.11.32:127][ 66]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2018.06.13-16.11.32:127][ 66]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.06.13-16.11.32:127][ 66]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.06.13-16.11.32:127][ 66]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.06.13-16.11.32:127][ 66]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.06.13-16.11.32:128][ 66]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.06.13-16.11.32:128][ 66]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.06.13-16.11.32:128][ 66]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.06.13-16.11.32:128][ 66]LogDirectoryWatcher: A directory notification for 'C:/Users/user/Documents/GitHub/SecurityGame/Content/Collections/' was aborted.
+[2018.06.13-16.11.32:128][ 66]LogDirectoryWatcher: A directory notification for 'C:/Users/user/Documents/GitHub/SecurityGame/Content/Developers/user/Collections/' was aborted.
+[2018.06.13-16.11.32:128][ 66]LogDirectoryWatcher: A directory notification for 'C:/Users/user/Documents/GitHub/SecurityGame/Saved/Collections/' was aborted.
+[2018.06.13-16.11.32:128][ 66]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.06.13-16.11.32:128][ 66]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.06.13-16.11.32:128][ 66]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.06.13-16.11.32:128][ 66]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.06.13-16.11.32:128][ 66]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.06.13-16.11.32:128][ 66]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.06.13-16.11.32:128][ 66]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.06.13-16.11.32:128][ 66]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.06.13-16.11.32:128][ 66]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.06.13-16.11.32:128][ 66]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.06.13-16.11.32:128][ 66]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.06.13-16.11.32:129][ 66]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.06.13-16.11.32:129][ 66]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.06.13-16.11.32:129][ 66]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.06.13-16.11.32:129][ 66]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.06.13-16.11.32:129][ 66]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.06.13-16.11.32:129][ 66]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.06.13-16.11.32:129][ 66]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.06.13-16.11.32:129][ 66]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.06.13-16.11.32:129][ 66]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.06.13-16.11.32:129][ 66]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.06.13-16.11.32:129][ 66]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.06.13-16.11.32:129][ 66]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.06.13-16.11.32:129][ 66]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.06.13-16.11.32:129][ 66]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.06.13-16.11.32:129][ 66]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.06.13-16.11.32:129][ 66]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.06.13-16.11.32:129][ 66]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.06.13-16.11.32:129][ 66]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.06.13-16.11.32:129][ 66]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.06.13-16.11.32:129][ 66]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.06.13-16.11.32:129][ 66]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.06.13-16.11.32:129][ 66]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.06.13-16.11.32:129][ 66]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.06.13-16.11.32:130][ 66]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.06.13-16.11.32:130][ 66]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.06.13-16.11.32:130][ 66]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.06.13-16.11.32:131][ 66]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.06.13-16.11.32:131][ 66]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.06.13-16.11.32:131][ 66]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.06.13-16.11.32:131][ 66]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.06.13-16.11.32:769][ 66]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.06.13-16.11.32:769][ 66]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.06.13-16.11.32:769][ 66]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.06.13-16.11.32:769][ 66]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.06.13-16.11.32:769][ 66]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.06.13-16.11.32:772][ 66]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.06.13-16.11.32:772][ 66]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.06.13-16.11.32:772][ 66]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.06.13-16.11.32:772][ 66]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.06.13-16.11.32:773][ 66]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.06.13-16.11.32:773][ 66]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.06.13-16.11.32:773][ 66]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.06.13-16.11.32:773][ 66]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.06.13-16.11.32:773][ 66]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.06.13-16.11.32:773][ 66]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.06.13-16.11.32:773][ 66]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.06.13-16.11.32:773][ 66]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.06.13-16.11.32:773][ 66]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.06.13-16.11.32:773][ 66]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.06.13-16.11.32:773][ 66]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.06.13-16.11.32:773][ 66]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.06.13-16.11.32:773][ 66]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.06.13-16.11.32:774][ 66]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.06.13-16.11.32:774][ 66]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.06.13-16.11.32:829][ 66]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.06.13-16.11.32:830][ 66]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.06.13-16.11.32:835][ 66]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.06.13-16.11.32:843][ 66]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.06.13-16.11.32:843][ 66]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.06.13-16.11.32:843][ 66]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.06.13-16.11.32:843][ 66]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.06.13-16.11.32:850][ 66]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.06.13-16.11.32:850][ 66]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.06.13-16.11.32:850][ 66]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.06.13-16.11.32:857][ 66]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.06.13-16.11.32:858][ 66]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.06.13-16.11.32:858][ 66]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.06.13-16.11.32:860][ 66]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.06.13-16.11.32:862][ 66]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.06.13-16.11.32:862][ 66]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.06.13-16.11.32:864][ 66]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.06.13-16.11.32:864][ 66]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.06.13-16.11.32:864][ 66]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.06.13-16.11.32:864][ 66]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.06.13-16.11.32:864][ 66]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.06.13-16.11.32:864][ 66]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.06.13-16.11.32:864][ 66]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.06.13-16.11.32:864][ 66]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.06.13-16.11.32:864][ 66]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.06.13-16.11.32:864][ 66]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.06.13-16.11.32:866][ 66]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.06.13-16.11.32:866][ 66]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.06.13-16.11.32:866][ 66]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.06.13-16.11.32:866][ 66]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.06.13-16.11.32:979][ 66]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.06.13-16.11.32:979][ 66]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.06.13-16.11.32:979][ 66]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.06.13-16.11.32:979][ 66]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.06.13-16.11.32:979][ 66]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.06.13-16.11.32:979][ 66]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.06.13-16.11.32:979][ 66]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.06.13-16.11.32:979][ 66]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.06.13-16.11.32:979][ 66]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.06.13-16.11.32:979][ 66]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.06.13-16.11.32:979][ 66]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.06.13-16.11.32:979][ 66]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.06.13-16.11.32:980][ 66]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.06.13-16.11.32:980][ 66]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.06.13-16.11.32:980][ 66]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.06.13-16.11.32:980][ 66]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.06.13-16.11.32:980][ 66]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.06.13-16.11.32:980][ 66]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.06.13-16.11.32:980][ 66]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.06.13-16.11.32:980][ 66]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.06.13-16.11.32:980][ 66]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.06.13-16.11.32:980][ 66]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.06.13-16.11.32:981][ 66]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.06.13-16.11.32:981][ 66]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.06.13-16.11.32:981][ 66]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.06.13-16.11.32:981][ 66]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.06.13-16.11.32:981][ 66]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.06.13-16.11.32:981][ 66]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.06.13-16.11.32:981][ 66]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.06.13-16.11.32:981][ 66]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.06.13-16.11.32:981][ 66]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.06.13-16.11.32:981][ 66]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.06.13-16.11.32:981][ 66]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.06.13-16.11.32:981][ 66]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.06.13-16.11.32:981][ 66]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.06.13-16.11.32:982][ 66]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.06.13-16.11.32:982][ 66]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.06.13-16.11.32:982][ 66]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.06.13-16.11.32:982][ 66]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.06.13-16.11.32:982][ 66]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.06.13-16.11.32:982][ 66]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.06.13-16.11.32:983][ 66]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.06.13-16.11.32:983][ 66]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.06.13-16.11.32:983][ 66]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.06.13-16.11.32:983][ 66]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.06.13-16.11.32:983][ 66]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.06.13-16.11.33:084][ 66]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.06.13-16.11.33:185][ 66]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.06.13-16.11.33:185][ 66]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.06.13-16.11.33:185][ 66]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.06.13-16.11.33:185][ 66]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.06.13-16.11.33:185][ 66]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.06.13-16.11.33:185][ 66]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.06.13-16.11.33:185][ 66]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.06.13-16.11.33:186][ 66]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.06.13-16.11.33:186][ 66]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.06.13-16.11.33:186][ 66]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.06.13-16.11.33:189][ 66]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.06.13-16.11.33:189][ 66]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.06.13-16.11.33:189][ 66]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.06.13-16.11.33:189][ 66]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.06.13-16.11.33:189][ 66]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.06.13-16.11.33:189][ 66]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.06.13-16.11.33:195][ 66]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.06.13-16.11.33:195][ 66]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.06.13-16.11.33:195][ 66]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.06.13-16.11.33:195][ 66]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.06.13-16.11.33:196][ 66]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.06.13-16.11.33:196][ 66]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.06.13-16.11.33:196][ 66]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.06.13-16.11.33:196][ 66]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.06.13-16.11.33:196][ 66]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.06.13-16.11.33:196][ 66]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.06.13-16.11.33:196][ 66]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.06.13-16.11.33:196][ 66]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.06.13-16.11.33:196][ 66]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.06.13-16.11.33:196][ 66]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.06.13-16.11.33:197][ 66]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.06.13-16.11.33:197][ 66]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.06.13-16.11.33:199][ 66]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.06.13-16.11.33:199][ 66]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.06.13-16.11.33:199][ 66]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.06.13-16.11.33:199][ 66]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.06.13-16.11.33:199][ 66]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.06.13-16.11.33:199][ 66]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.06.13-16.11.33:199][ 66]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.06.13-16.11.33:199][ 66]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.06.13-16.11.33:201][ 66]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.06.13-16.11.33:201][ 66]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.06.13-16.11.33:201][ 66]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.06.13-16.11.33:201][ 66]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.06.13-16.11.33:201][ 66]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.06.13-16.11.33:201][ 66]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.06.13-16.11.33:201][ 66]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.06.13-16.11.33:201][ 66]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.06.13-16.11.33:201][ 66]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.06.13-16.11.33:217][ 66]LogDerivedDataCache: Shutdown
+[2018.06.13-16.11.33:217][ 66]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.06.13-16.11.33:217][ 66]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.06.13-16.11.33:217][ 66]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.06.13-16.11.33:218][ 66]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.06.13-16.11.33:218][ 66]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.06.13-16.11.33:218][ 66]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.06.13-16.11.33:218][ 66]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.06.13-16.11.33:218][ 66]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.06.13-16.11.33:218][ 66]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.06.13-16.11.33:218][ 66]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.06.13-16.11.33:218][ 66]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.06.13-16.11.33:218][ 66]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.06.13-16.11.33:218][ 66]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.06.13-16.11.33:218][ 66]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.06.13-16.11.33:218][ 66]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.06.13-16.11.33:218][ 66]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.06.13-16.11.33:218][ 66]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.06.13-16.11.33:218][ 66]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.06.13-16.11.33:218][ 66]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.06.13-16.11.33:218][ 66]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.06.13-16.11.33:218][ 66]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.06.13-16.11.33:218][ 66]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.06.13-16.11.33:218][ 66]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.06.13-16.11.33:219][ 66]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.06.13-16.11.33:220][ 66]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.06.13-16.11.33:220][ 66]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.06.13-16.11.33:220][ 66]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2D6F6A67-4F18-DAC3-2421-A7B61F2F1DC5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=b5a2aad048c5dd91a640ef9c48d8cb5d%7C92e601156b18439c8aaf9522ba7a0171%7C35688319-27be-4d42-a38e-675d2b994995&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.06.13-16.11.33:224][ 66]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.06.13-16.11.33:225][ 66]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.06.13-16.11.33:225][ 66]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.06.13-16.11.33:225][ 66]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.06.13-16.11.33:226][ 66]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.06.13-16.11.33:226][ 66]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.06.13-16.11.33:226][ 66]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.06.13-16.11.33:226][ 66]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.06.13-16.11.33:229][ 66]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.06.13-16.11.33:229][ 66]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.06.13-16.11.33:229][ 66]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.06.13-16.11.33:229][ 66]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.06.13-16.11.33:229][ 66]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.06.13-16.11.33:229][ 66]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.06.13-16.11.33:229][ 66]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.06.13-16.11.33:229][ 66]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.06.13-16.11.33:229][ 66]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.06.13-16.11.33:229][ 66]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.06.13-16.11.33:230][ 66]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.06.13-16.11.33:234][ 66]LogExit: Exiting.
+[2018.06.13-16.11.33:249][ 66]Log file closed, 06/14/18 01:11:33
