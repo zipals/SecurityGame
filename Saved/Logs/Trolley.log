@@ -9652,3 +9652,452 @@ LogInit: Object subsystem initialized
 [2018.06.14-04.44.57:474][459]LogSavePackage: Save=1495.27ms
 [2018.06.14-04.44.57:474][459]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1_BuiltData329A5D6048DBFB67B3B0BC9495493EEE.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
 [2018.06.14-04.44.57:480][459]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.14-04.47.15:056][758]LogEditorViewport: Clicking Background
+[2018.06.14-04.49.33:001][791]LogEditorTransaction: Undo 위젯 크기조정
+[2018.06.14-04.50.01:815][408]LogEditorTransaction: Undo 벡터 프로퍼티 설정
+[2018.06.14-04.50.36:827][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/CCTV화면" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset" SILENT=true
+[2018.06.14-04.50.36:880][204]LogSavePackage: Save=46.85ms
+[2018.06.14-04.50.36:880][204]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/CCTV화면99A910D640EB84849C4D16A390F88EFE.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset'
+[2018.06.14-04.50.36:882][204]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset
+[2018.06.14-04.50.37:246][225]BlueprintLog: New page: CCTV화면 컴파일
+[2018.06.14-04.51.21:973][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/CCTV화면" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset" SILENT=true
+[2018.06.14-04.51.22:026][377]LogSavePackage: Save=49.87ms
+[2018.06.14-04.51.22:026][377]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/CCTV화면6CB705274726E89ABCE8F088DD53EDF4.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset'
+[2018.06.14-04.51.22:028][377]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset
+[2018.06.14-04.51.22:422][399]BlueprintLog: New page: CCTV화면 컴파일
+[2018.06.14-04.53.01:694][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/CCTV화면" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset" SILENT=true
+[2018.06.14-04.53.01:748][507]LogSavePackage: Save=50.31ms
+[2018.06.14-04.53.01:748][507]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/CCTV화면5598AF974D8895BDABD9708ADAA5E6C8.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset'
+[2018.06.14-04.53.01:750][507]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset
+[2018.06.14-04.53.02:115][528]BlueprintLog: New page: CCTV화면 컴파일
+[2018.06.14-04.53.02:973][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/CCTV화면" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset" SILENT=true
+[2018.06.14-04.53.03:026][570]LogSavePackage: Save=49.71ms
+[2018.06.14-04.53.03:026][570]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/CCTV화면9269A9C54B0C6E16708ADD98D6AAC4C4.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset'
+[2018.06.14-04.53.03:027][570]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset
+[2018.06.14-04.53.08:618][873]BlueprintLog: New page: CCTV화면 컴파일
+[2018.06.14-04.53.09:124][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/CCTV화면" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset" SILENT=true
+[2018.06.14-04.53.09:177][897]LogSavePackage: Save=49.84ms
+[2018.06.14-04.53.09:177][897]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/CCTV화면6AE57F3249E91965993D3AAA69113428.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset'
+[2018.06.14-04.53.09:179][897]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset
+[2018.06.14-04.53.12:545][ 90]BlueprintLog: New page: CCTV화면 컴파일
+[2018.06.14-04.53.13:247][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/CCTV화면" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset" SILENT=true
+[2018.06.14-04.53.13:300][127]LogSavePackage: Save=49.78ms
+[2018.06.14-04.53.13:300][127]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/CCTV화면F33745C847D9B33FCFC949AA440BD46D.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset'
+[2018.06.14-04.53.13:303][127]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset
+[2018.06.14-04.53.18:905][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/CCTV화면" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset" SILENT=true
+[2018.06.14-04.53.18:955][413]LogSavePackage: Save=47.26ms
+[2018.06.14-04.53.18:955][413]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/CCTV화면0DF55202498933EFE7AC91931E2B8C10.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset'
+[2018.06.14-04.53.18:956][413]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset
+[2018.06.14-04.53.19:247][430]BlueprintLog: New page: CCTV화면 컴파일
+[2018.06.14-04.53.19:745][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/CCTV화면" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset" SILENT=true
+[2018.06.14-04.53.19:798][454]LogSavePackage: Save=49.65ms
+[2018.06.14-04.53.19:798][454]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/CCTV화면26747FD643AA298C826F0682F062C597.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset'
+[2018.06.14-04.53.19:799][454]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset
+[2018.06.14-04.53.48:681][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/CCTV화면" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset" SILENT=true
+[2018.06.14-04.53.48:731][877]LogSavePackage: Save=47.25ms
+[2018.06.14-04.53.48:731][877]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/CCTV화면A7DFBCDD41E7DCA479FA74B341927192.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset'
+[2018.06.14-04.53.48:732][877]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset
+[2018.06.14-04.53.49:124][899]BlueprintLog: New page: CCTV화면 컴파일
+[2018.06.14-04.53.49:726][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/CCTV화면" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset" SILENT=true
+[2018.06.14-04.53.49:779][928]LogSavePackage: Save=49.72ms
+[2018.06.14-04.53.49:779][928]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/CCTV화면5D03B1A4457CECDF482AEAB18B92AD60.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset'
+[2018.06.14-04.53.49:780][928]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset
+[2018.06.14-04.54.48:489][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/PopUpImage" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/PopUpImage.uasset" SILENT=true
+[2018.06.14-04.54.48:522][768]LogSavePackage: Save=24.75ms
+[2018.06.14-04.54.48:522][768]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/PopUpImageF69CD4744A9AFD46BF17F09950300273.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/PopUpImage.uasset'
+[2018.06.14-04.54.48:523][768]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/PopUpImage.uasset
+[2018.06.14-04.54.48:961][795]BlueprintLog: New page: PopUpImage 컴파일
+[2018.06.14-04.54.49:372][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/PopUpImage" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/PopUpImage.uasset" SILENT=true
+[2018.06.14-04.54.49:400][817]LogSavePackage: Save=24.27ms
+[2018.06.14-04.54.49:400][817]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/PopUpImage8FB8843B448506D5E9EA1C96E649300A.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/PopUpImage.uasset'
+[2018.06.14-04.54.49:401][817]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/PopUpImage.uasset
+[2018.06.14-04.54.50:375][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/CCTV화면" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset" SILENT=true
+[2018.06.14-04.54.50:426][870]LogSavePackage: Save=47.45ms
+[2018.06.14-04.54.50:426][870]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/CCTV화면09CA58494CB7A3859A066C9074EF7AC7.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset'
+[2018.06.14-04.54.50:427][870]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset
+[2018.06.14-04.54.50:781][890]BlueprintLog: New page: CCTV화면 컴파일
+[2018.06.14-04.54.51:266][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/CCTV화면" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset" SILENT=true
+[2018.06.14-04.54.51:319][913]LogSavePackage: Save=50.24ms
+[2018.06.14-04.54.51:319][913]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/CCTV화면1031A92F41EFA02638ED20A2A8C55FE0.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset'
+[2018.06.14-04.54.51:320][913]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset
+[2018.06.14-04.55.45:491][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/CCTV화면" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset" SILENT=true
+[2018.06.14-04.55.45:545][ 76]LogSavePackage: Save=47.20ms
+[2018.06.14-04.55.45:545][ 76]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/CCTV화면F16D8AE849248D32E7D25C8363955AD3.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset'
+[2018.06.14-04.55.45:545][ 76]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset
+[2018.06.14-04.56.32:072][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_232)
+[2018.06.14-04.56.38:065][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Corner_A_219)
+[2018.06.14-04.56.38:616][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_232)
+[2018.06.14-04.56.40:899][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_232)
+[2018.06.14-04.56.41:233][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Corner_A_219)
+[2018.06.14-04.56.46:916][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_231)
+[2018.06.14-04.56.48:672][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_232)
+[2018.06.14-04.56.55:652][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.14-04.56.56:674][690]LogSavePackage: Save=986.53ms
+[2018.06.14-04.56.56:674][690]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1D436C33849D57C04AD652985D51C7409.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.14-04.56.56:677][690]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap
+[2018.06.14-04.56.56:710][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.14-04.56.57:683][690]LogSavePackage: Save=930.70ms
+[2018.06.14-04.56.57:683][690]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1_BuiltData90559AA942A30104D033AF988C4EE915.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.14-04.56.57:688][690]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.14-04.58.24:687][393]LogEditorViewport: Clicking Background
+[2018.06.14-04.58.30:135][671]LogEditorViewport: Clicking Background
+[2018.06.14-04.58.30:385][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.14-04.58.31:380][678]LogSavePackage: Save=971.18ms
+[2018.06.14-04.58.31:380][678]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day12008FD0343552A3249CF4586EF73B5B4.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.14-04.58.31:383][678]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap
+[2018.06.14-04.58.31:415][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.14-04.58.32:348][678]LogSavePackage: Save=930.11ms
+[2018.06.14-04.58.32:348][678]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1_BuiltData1524AF974E2E1FB694601E9CB89560C1.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.14-04.58.32:356][678]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.14-04.58.59:663][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (broom2)
+[2018.06.14-04.59.26:664][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mop)
+[2018.06.14-04.59.29:575][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (broom)
+[2018.06.14-05.00.12:953][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_804)
+[2018.06.14-05.00.15:023][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_804)
+[2018.06.14-05.00.15:512][287]LogEditorViewport: Clicking on Actor (LMB): DecalActor (CELLSTEM_Logo)
+[2018.06.14-05.00.21:722][594]Cmd: TRANSACTION UNDO
+[2018.06.14-05.00.21:722][594]LogEditorTransaction: Undo 액터 이동
+[2018.06.14-05.00.23:351][673]LogEditorViewport: Clicking on Actor (LMB): BP_Roof_C (1F_화장실천장)
+[2018.06.14-05.00.23:984][701]LogEditorViewport: Clicking Background
+[2018.06.14-05.00.28:389][929]LogEditorViewport: Clicking on Actor (LMB): 쓰레기_C (캔)
+[2018.06.14-05.00.36:852][339]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.06.14-05.03.32:542][ 44]LogSavePackage: Save=51.05ms
+[2018.06.14-05.03.32:542][ 44]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/InventorySlot86026C564E2415D4A8C1429948260AA1.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/InventorySlot.uasset'
+[2018.06.14-05.03.32:543][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/InventorySlot.uasset
+[2018.06.14-05.03.40:482][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/Inventory" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/Inventory.uasset" SILENT=true
+[2018.06.14-05.03.40:506][586]LogSavePackage: Save=16.25ms
+[2018.06.14-05.03.40:506][586]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Inventory4BF0F822415177E4D386BD82E5EE6F67.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/Inventory.uasset'
+[2018.06.14-05.03.40:508][586]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/Inventory.uasset
+[2018.06.14-05.04.47:712][208]LogEditorViewport: Clicking Background
+[2018.06.14-05.04.47:959][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.14-05.04.48:977][219]LogSavePackage: Save=982.44ms
+[2018.06.14-05.04.48:977][219]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1E74FE4E749D272DAF2BA45A5EABC0BED.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.14-05.04.48:980][219]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap
+[2018.06.14-05.04.49:012][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.14-05.04.49:981][219]LogSavePackage: Save=931.56ms
+[2018.06.14-05.04.49:981][219]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1_BuiltDataCE45631C442BBF12FF2449A3008767A2.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.14-05.04.49:986][219]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.14-05.05.22:973][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/CCTV화면" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset" SILENT=true
+[2018.06.14-05.05.23:028][874]LogSavePackage: Save=47.13ms
+[2018.06.14-05.05.23:028][874]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/CCTV화면EB2C66C145530833CB9FD785FD5216C1.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset'
+[2018.06.14-05.05.23:029][874]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/CCTV화면.uasset
+[2018.06.14-05.05.26:426][ 69]LogEditorViewport: Clicking Background
+[2018.06.14-05.15.18:196][622]AssetReimport: New page: 처리중인 소스 콘텐츠 변경사항 오후 11:15:18
+[2018.06.14-05.15.18:197][622]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/캔줍기.wav)
+[2018.06.14-05.15.18:198][622]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/캔줍기.wav)
+[2018.06.14-05.15.18:198][622]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/캔줍기.wav)
+[2018.06.14-05.15.18:198][622]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/캔줍기.wav)
+[2018.06.14-05.15.18:199][622]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/캔줍기.wav)
+[2018.06.14-05.15.18:199][622]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/캔줍기.wav)
+[2018.06.14-05.15.18:225][623]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/불켜기2.wav)
+[2018.06.14-05.15.18:226][623]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/불켜기2.wav)
+[2018.06.14-05.15.18:227][623]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/불켜기2.wav)
+[2018.06.14-05.15.18:227][623]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/불켜기2.wav)
+[2018.06.14-05.15.18:228][623]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/불켜기2.wav)
+[2018.06.14-05.15.18:228][623]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/불켜기2.wav)
+[2018.06.14-05.15.18:231][623]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/걷기.wav)
+[2018.06.14-05.15.18:263][623]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/TopDownBP/Sound/걷기.걷기.
+[2018.06.14-05.15.18:279][624]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/캔버리기.wav)
+[2018.06.14-05.15.18:309][624]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/TopDownBP/Sound/캔버리기.캔버리기.
+[2018.06.14-05.15.18:321][625]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/불켜기.wav)
+[2018.06.14-05.15.18:322][625]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/불켜기.wav)
+[2018.06.14-05.15.18:323][625]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/불켜기.wav)
+[2018.06.14-05.15.18:323][625]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/불켜기.wav)
+[2018.06.14-05.15.18:324][625]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/불켜기.wav)
+[2018.06.14-05.15.18:324][625]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/불켜기.wav)
+[2018.06.14-05.15.18:330][625]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/자동문소리(편집해야함).wav)
+[2018.06.14-05.15.18:422][625]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/TopDownBP/Sound/자동문소리_편집해야함_.자동문소리_편집해야함_.
+[2018.06.14-05.15.18:446][626]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/문열기2.wav)
+[2018.06.14-05.15.18:447][626]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/문열기2.wav)
+[2018.06.14-05.15.18:448][626]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/문열기2.wav)
+[2018.06.14-05.15.18:449][626]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/문열기2.wav)
+[2018.06.14-05.15.18:450][626]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/문열기2.wav)
+[2018.06.14-05.15.18:451][626]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/문열기2.wav)
+[2018.06.14-05.15.18:454][626]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/문열기.wav)
+[2018.06.14-05.15.18:471][626]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/TopDownBP/Sound/문열기.문열기.
+[2018.06.14-05.15.18:496][627]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/문닫기.wav)
+[2018.06.14-05.15.18:499][627]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/문닫기.wav)
+[2018.06.14-05.15.18:502][627]LogFactory: FactoryCreateFile: SoundWave with SoundSurroundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/문닫기.wav)
+[2018.06.14-05.15.18:504][627]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/문닫기.wav)
+[2018.06.14-05.15.18:507][627]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundSurroundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/문닫기.wav)
+[2018.06.14-05.15.18:509][627]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/문닫기.wav)
+[2018.06.14-05.15.18:557][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Sound/캔줍기" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/캔줍기.uasset" SILENT=true
+[2018.06.14-05.15.18:562][628]LogSavePackage: Save=3.50ms
+[2018.06.14-05.15.18:562][628]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/캔줍기A18FEAC3450D9D15E2B8C2AC31700620.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/캔줍기.uasset'
+[2018.06.14-05.15.18:564][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/캔줍기.uasset
+[2018.06.14-05.15.18:574][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Sound/불켜기2" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/불켜기2.uasset" SILENT=true
+[2018.06.14-05.15.18:579][628]LogSavePackage: Save=3.51ms
+[2018.06.14-05.15.18:580][628]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/불켜기274F706D8453B1B05012443A6EE769B4C.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/불켜기2.uasset'
+[2018.06.14-05.15.18:581][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/불켜기2.uasset
+[2018.06.14-05.15.18:595][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Sound/걷기" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/걷기.uasset" SILENT=true
+[2018.06.14-05.15.18:603][628]LogSavePackage: Save=6.65ms
+[2018.06.14-05.15.18:603][628]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/걷기14D3DC7C4B3D8DCA44304BA5E4B9879A.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/걷기.uasset'
+[2018.06.14-05.15.18:605][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/걷기.uasset
+[2018.06.14-05.15.18:618][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Sound/캔버리기" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/캔버리기.uasset" SILENT=true
+[2018.06.14-05.15.18:626][628]LogSavePackage: Save=6.25ms
+[2018.06.14-05.15.18:626][628]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/캔버리기90158B7A4F4FD2079B761A8BD04FB43F.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/캔버리기.uasset'
+[2018.06.14-05.15.18:628][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/캔버리기.uasset
+[2018.06.14-05.15.18:637][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Sound/불켜기" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/불켜기.uasset" SILENT=true
+[2018.06.14-05.15.18:642][628]LogSavePackage: Save=3.52ms
+[2018.06.14-05.15.18:642][628]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/불켜기3962E0F643373F9D188B3A9584A71463.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/불켜기.uasset'
+[2018.06.14-05.15.18:644][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/불켜기.uasset
+[2018.06.14-05.15.18:655][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Sound/자동문소리_편집해야함_" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/자동문소리_편집해야함_.uasset" SILENT=true
+[2018.06.14-05.15.18:663][628]LogSavePackage: Save=6.17ms
+[2018.06.14-05.15.18:663][628]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/자동문소리_편집해야함_C7186F894E8E682489539CAAD45C3569.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/자동문소리_편집해야함_.uasset'
+[2018.06.14-05.15.18:665][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/자동문소리_편집해야함_.uasset
+[2018.06.14-05.15.18:669][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Sound/문열기2" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/문열기2.uasset" SILENT=true
+[2018.06.14-05.15.18:674][628]LogSavePackage: Save=3.50ms
+[2018.06.14-05.15.18:674][628]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/문열기2E3FDEBB4448E19F967D59FA3B748F780.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/문열기2.uasset'
+[2018.06.14-05.15.18:676][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/문열기2.uasset
+[2018.06.14-05.15.18:684][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Sound/문열기" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/문열기.uasset" SILENT=true
+[2018.06.14-05.15.18:692][628]LogSavePackage: Save=5.84ms
+[2018.06.14-05.15.18:692][628]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/문열기3C701F2E4EEB2C13216483A7644EBAF0.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/문열기.uasset'
+[2018.06.14-05.15.18:694][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/문열기.uasset
+[2018.06.14-05.15.18:697][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Sound/문닫기" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/문닫기.uasset" SILENT=true
+[2018.06.14-05.15.18:703][628]LogSavePackage: Save=3.88ms
+[2018.06.14-05.15.18:703][628]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/문닫기C8DF5E1D469D3A236271428B823A5594.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/문닫기.uasset'
+[2018.06.14-05.15.18:705][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/문닫기.uasset
+[2018.06.14-05.15.21:728][775]AssetReimport: /Game/TopDownBP/Sound/캔줍기 새 애셋 임포트중.
+[2018.06.14-05.15.21:728][775]AssetReimport: /Game/TopDownBP/Sound/불켜기2 새 애셋 임포트중.
+[2018.06.14-05.15.21:728][775]AssetReimport: /Game/TopDownBP/Sound/걷기 새 애셋 임포트중.
+[2018.06.14-05.15.21:728][775]AssetReimport: /Game/TopDownBP/Sound/캔버리기 새 애셋 임포트중.
+[2018.06.14-05.15.21:728][775]AssetReimport: /Game/TopDownBP/Sound/불켜기 새 애셋 임포트중.
+[2018.06.14-05.15.21:728][775]AssetReimport: /Game/TopDownBP/Sound/자동문소리_편집해야함_ 새 애셋 임포트중.
+[2018.06.14-05.15.21:728][775]AssetReimport: /Game/TopDownBP/Sound/문열기2 새 애셋 임포트중.
+[2018.06.14-05.15.21:728][775]AssetReimport: /Game/TopDownBP/Sound/문열기 새 애셋 임포트중.
+[2018.06.14-05.15.21:728][775]AssetReimport: /Game/TopDownBP/Sound/문닫기 새 애셋 임포트중.
+[2018.06.14-05.20.31:806][930]AssetReimport: New page: 처리중인 소스 콘텐츠 변경사항 오후 11:20:31
+[2018.06.14-05.20.31:810][930]LogAudioEditor: Performing atomic reimport of [C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/자동문소리(편집해야함).wav]
+[2018.06.14-05.20.31:811][930]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/자동문소리(편집해야함).wav)
+[2018.06.14-05.20.31:813][930]LogAudioEditor: -- imported successfully
+[2018.06.14-05.20.31:820][930]LogAudioDerivedData: Display: OGG 압축 오디오 포맷 자동문소리_편집해야함_ 웨이브 빌드중...
+[2018.06.14-05.20.31:860][930]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/TopDownBP/Sound/자동문소리_편집해야함_.자동문소리_편집해야함_.
+[2018.06.14-05.20.31:889][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Sound/자동문소리_편집해야함_" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/자동문소리_편집해야함_.uasset" SILENT=true
+[2018.06.14-05.20.31:903][931]LogSavePackage: Save=6.09ms
+[2018.06.14-05.20.31:903][931]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/자동문소리_편집해야함_7595B9A543A5C187751F9EBFFEC51364.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/자동문소리_편집해야함_.uasset'
+[2018.06.14-05.20.31:905][931]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/자동문소리_편집해야함_.uasset
+[2018.06.14-05.20.34:918][ 87]AssetReimport: C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/자동문소리(편집해야함).wav 에서 자동문소리_편집해야함_ 애셋을 리임포트했습니다.
+[2018.06.14-05.20.36:635][181]LogEditorViewport: Clicking on Actor (LMB): 유리문스위치_가로_C (1F_유리문스위치1)
+[2018.06.14-05.21.55:927][258]BlueprintLog: New page: 유리문스위치_가로 컴파일
+[2018.06.14-05.21.56:464][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/유리문스위치_가로" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset" SILENT=true
+[2018.06.14-05.21.56:563][258]LogSavePackage: Save=90.87ms
+[2018.06.14-05.21.56:563][258]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/유리문스위치_가로1E39253C4312848393AF09A8F1BB341F.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset'
+[2018.06.14-05.21.56:565][258]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset
+[2018.06.14-05.22.06:408][853]BlueprintLog: New page: 유리문스위치_가로 컴파일
+[2018.06.14-05.22.06:924][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/유리문스위치_가로" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset" SILENT=true
+[2018.06.14-05.22.07:020][853]LogSavePackage: Save=92.35ms
+[2018.06.14-05.22.07:020][853]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/유리문스위치_가로BC6934494C70991BB0C973836F52848B.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset'
+[2018.06.14-05.22.07:022][853]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset
+[2018.06.14-05.22.07:660][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/유리문스위치_가로" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset" SILENT=true
+[2018.06.14-05.22.07:750][884]LogSavePackage: Save=86.70ms
+[2018.06.14-05.22.07:750][884]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/유리문스위치_가로2575F5AE4E6E25FFF9989C84F7BC6786.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset'
+[2018.06.14-05.22.07:751][884]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset
+[2018.06.14-05.22.11:859][125]BlueprintLog: New page: 유리문스위치_가로 컴파일
+[2018.06.14-05.22.12:576][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/유리문스위치_가로" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset" SILENT=true
+[2018.06.14-05.22.12:670][129]LogSavePackage: Save=91.23ms
+[2018.06.14-05.22.12:670][129]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/유리문스위치_가로BB05D6CC4CE745F6C3EA43B9CF29880B.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset'
+[2018.06.14-05.22.12:673][129]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset
+[2018.06.14-05.22.20:427][663]BlueprintLog: New page: 유리문스위치_가로 컴파일
+[2018.06.14-05.22.21:019][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/유리문스위치_가로" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset" SILENT=true
+[2018.06.14-05.22.21:115][665]LogSavePackage: Save=92.08ms
+[2018.06.14-05.22.21:115][665]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/유리문스위치_가로35E9E50043A263D6CE3C28B34DC7E187.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset'
+[2018.06.14-05.22.21:117][665]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset
+[2018.06.14-05.22.21:845][705]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.14-05.22.22:015][705]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.22.22:017][705]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.14-05.22.22:018][705]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오후 11:22:22)
+[2018.06.14-05.22.22:018][705]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.14-05.22.22:059][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040589s)
+[2018.06.14-05.22.22:059][705]LogAIModule: Creating AISystem for world Day1
+[2018.06.14-05.22.22:059][705]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2018.06.14-05.22.22:059][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.041540s)
+[2018.06.14-05.22.22:087][705]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.14-05.22.22:100][705]LogInit: FAudioDevice initialized.
+[2018.06.14-05.22.22:184][705]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.14-05.22.22:199][705]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-14.22.22
+[2018.06.14-05.22.22:202][705]LogWorld: Bringing up level for play took: 0.015972
+[2018.06.14-05.22.22:253][705]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.06.14-05.22.22:508][705]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: -0.405
+[2018.06.14-05.22.22:508][705]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.22.22:610][705]LogRenderer: Reallocating scene render targets to support 1312x756 Format 10 NumSamples 1 (Frame:1).
+[2018.06.14-05.22.54:069][969]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.22.54:132][969]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.23.22:469][643]BlueprintLog: New page: 유리문스위치_가로 컴파일
+[2018.06.14-05.23.22:987][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/유리문스위치_가로" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset" SILENT=true
+[2018.06.14-05.23.23:081][643]LogSavePackage: Save=90.94ms
+[2018.06.14-05.23.23:081][643]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/유리문스위치_가로8F9114AE48B398962F89EC956860CA4F.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset'
+[2018.06.14-05.23.23:083][643]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset
+[2018.06.14-05.23.23:975][685]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.14-05.23.24:013][685]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.23.24:013][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.14-05.23.24:013][685]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오후 11:23:24)
+[2018.06.14-05.23.24:013][685]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.14-05.23.24:051][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038094s)
+[2018.06.14-05.23.24:052][685]LogAIModule: Creating AISystem for world Day1
+[2018.06.14-05.23.24:052][685]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2018.06.14-05.23.24:052][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.038973s)
+[2018.06.14-05.23.24:078][685]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.14-05.23.24:090][685]LogInit: FAudioDevice initialized.
+[2018.06.14-05.23.24:153][685]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.14-05.23.24:167][685]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-14.23.24
+[2018.06.14-05.23.24:169][685]LogWorld: Bringing up level for play took: 0.015194
+[2018.06.14-05.23.24:421][685]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: -0.491
+[2018.06.14-05.23.24:422][685]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.23.44:588][978]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.23.44:661][978]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.23.58:185][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/유리문스위치_가로" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset" SILENT=true
+[2018.06.14-05.23.58:279][887]LogSavePackage: Save=91.04ms
+[2018.06.14-05.23.58:279][887]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/유리문스위치_가로D333457C4320DE3ED008D6B158CCDBB9.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset'
+[2018.06.14-05.23.58:281][887]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset
+[2018.06.14-05.24.03:918][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/유리문스위치_가로" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset" SILENT=true
+[2018.06.14-05.24.04:009][234]LogSavePackage: Save=88.32ms
+[2018.06.14-05.24.04:009][234]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/유리문스위치_가로29E8FC804DE3FF84C9A44D9F8636761B.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset'
+[2018.06.14-05.24.04:012][234]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset
+[2018.06.14-05.24.39:495][819]BlueprintLog: New page: 유리문스위치_가로 컴파일
+[2018.06.14-05.24.40:006][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/유리문스위치_가로" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset" SILENT=true
+[2018.06.14-05.24.40:100][819]LogSavePackage: Save=91.09ms
+[2018.06.14-05.24.40:100][819]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/유리문스위치_가로D1D9844D4358C29AC605CDAADD217E3F.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset'
+[2018.06.14-05.24.40:102][819]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset
+[2018.06.14-05.24.40:967][863]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.14-05.24.41:006][863]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.24.41:006][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.14-05.24.41:006][863]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오후 11:24:41)
+[2018.06.14-05.24.41:006][863]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.14-05.24.41:045][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038559s)
+[2018.06.14-05.24.41:045][863]LogAIModule: Creating AISystem for world Day1
+[2018.06.14-05.24.41:045][863]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2018.06.14-05.24.41:045][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.039449s)
+[2018.06.14-05.24.41:071][863]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.14-05.24.41:083][863]LogInit: FAudioDevice initialized.
+[2018.06.14-05.24.41:149][863]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.14-05.24.41:162][863]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-14.24.41
+[2018.06.14-05.24.41:164][863]LogWorld: Bringing up level for play took: 0.014629
+[2018.06.14-05.24.41:416][863]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 0.503
+[2018.06.14-05.24.41:416][863]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.25.17:989][434]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.25.18:054][434]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.25.40:687][888]BlueprintLog: New page: 유리문스위치_가로 컴파일
+[2018.06.14-05.25.41:336][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/유리문스위치_가로" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset" SILENT=true
+[2018.06.14-05.25.41:432][893]LogSavePackage: Save=93.53ms
+[2018.06.14-05.25.41:432][893]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/유리문스위치_가로189403C148C1ED767D421E975BF2D55E.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset'
+[2018.06.14-05.25.41:434][893]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset
+[2018.06.14-05.25.46:608][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.14-05.25.47:618][195]LogSavePackage: Save=978.25ms
+[2018.06.14-05.25.47:618][195]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1125887D440C88F206717F88B00EE4354.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.14-05.25.47:621][195]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap
+[2018.06.14-05.25.47:652][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.14-05.25.48:622][195]LogSavePackage: Save=930.66ms
+[2018.06.14-05.25.48:623][195]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1_BuiltDataA47787C2462DD843DEC477957ABB569F.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.14-05.25.48:630][195]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.14-05.32.56:212][636]AssetReimport: New page: 처리중인 소스 콘텐츠 변경사항 오후 11:32:56
+[2018.06.14-05.32.56:214][636]LogAudioEditor: Performing atomic reimport of [C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/자동문소리(편집해야함).wav]
+[2018.06.14-05.32.56:214][636]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/자동문소리(편집해야함).wav)
+[2018.06.14-05.32.56:215][636]LogAudioEditor: -- imported successfully
+[2018.06.14-05.32.56:235][636]LogAudioDerivedData: Display: OGG 압축 오디오 포맷 자동문소리_편집해야함_ 웨이브 빌드중...
+[2018.06.14-05.32.56:261][636]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/TopDownBP/Sound/자동문소리_편집해야함_.자동문소리_편집해야함_.
+[2018.06.14-05.32.56:267][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Sound/자동문소리_편집해야함_" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/자동문소리_편집해야함_.uasset" SILENT=true
+[2018.06.14-05.32.56:279][636]LogSavePackage: Save=5.92ms
+[2018.06.14-05.32.56:279][636]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/자동문소리_편집해야함_5C9A7A334C9301E8D820A095E1342C27.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/자동문소리_편집해야함_.uasset'
+[2018.06.14-05.32.56:281][636]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/자동문소리_편집해야함_.uasset
+[2018.06.14-05.32.57:058][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.14-05.32.58:079][702]LogSavePackage: Save=984.64ms
+[2018.06.14-05.32.58:079][702]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day127AF7A414DD5048C473346B9A169F75E.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.14-05.32.58:082][702]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap
+[2018.06.14-05.32.58:113][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.14-05.32.59:081][702]LogSavePackage: Save=931.36ms
+[2018.06.14-05.32.59:082][702]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1_BuiltDataF3BEBCDF4C99F90783238C8F78A20355.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.14-05.32.59:086][702]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.14-05.32.59:318][704]AssetReimport: C:/Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Sound/자동문소리(편집해야함).wav 에서 자동문소리_편집해야함_ 애셋을 리임포트했습니다.
+[2018.06.14-05.32.59:437][713]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.14-05.32.59:478][713]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.32.59:478][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.14-05.32.59:478][713]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오후 11:32:59)
+[2018.06.14-05.32.59:478][713]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.14-05.32.59:517][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037954s)
+[2018.06.14-05.32.59:517][713]LogAIModule: Creating AISystem for world Day1
+[2018.06.14-05.32.59:517][713]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2018.06.14-05.32.59:518][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.038923s)
+[2018.06.14-05.32.59:544][713]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.14-05.32.59:556][713]LogInit: FAudioDevice initialized.
+[2018.06.14-05.32.59:646][713]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.14-05.32.59:660][713]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-14.32.59
+[2018.06.14-05.32.59:662][713]LogWorld: Bringing up level for play took: 0.014411
+[2018.06.14-05.32.59:914][713]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 1.002
+[2018.06.14-05.32.59:915][713]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.33.01:282][783]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.33.01:353][783]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.33.03:085][873]LogEditorViewport: Clicking on Actor (LMB): 유리문스위치_가로_C (1F_유리문스위치1)
+[2018.06.14-05.33.08:754][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/유리문스위치_가로" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset" SILENT=true
+[2018.06.14-05.33.08:846][188]LogSavePackage: Save=86.56ms
+[2018.06.14-05.33.08:846][188]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/유리문스위치_가로75B4AA314B98196D7D482AAB066FA0DC.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset'
+[2018.06.14-05.33.08:847][188]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset
+[2018.06.14-05.33.09:865][243]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.14-05.33.09:892][243]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.33.09:892][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.14-05.33.09:892][243]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오후 11:33:09)
+[2018.06.14-05.33.09:892][243]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.14-05.33.09:929][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036768s)
+[2018.06.14-05.33.09:930][243]LogAIModule: Creating AISystem for world Day1
+[2018.06.14-05.33.09:930][243]LogPlayLevel: PIE: World Init took: (0.000509s)
+[2018.06.14-05.33.09:930][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.037597s)
+[2018.06.14-05.33.09:956][243]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.14-05.33.09:967][243]LogInit: FAudioDevice initialized.
+[2018.06.14-05.33.10:032][243]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.14-05.33.10:046][243]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-14.33.10
+[2018.06.14-05.33.10:047][243]LogWorld: Bringing up level for play took: 0.014588
+[2018.06.14-05.33.10:306][243]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 1.392
+[2018.06.14-05.33.10:306][243]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.34.01:554][588]Cmd: SELECT NONE
+[2018.06.14-05.34.02:364][644]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.34.02:423][644]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.34.23:165][975]BlueprintLog: New page: 유리문스위치_가로 컴파일
+[2018.06.14-05.34.23:701][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/유리문스위치_가로" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset" SILENT=true
+[2018.06.14-05.34.23:818][975]LogSavePackage: Save=106.79ms
+[2018.06.14-05.34.23:818][975]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/유리문스위치_가로162309544BECE1C21ACC0D9E5A49EE5A.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset'
+[2018.06.14-05.34.23:820][975]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset
+[2018.06.14-05.34.24:755][ 22]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.14-05.34.24:794][ 22]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.34.24:794][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.14-05.34.24:794][ 22]PIE: New page: PIE 세션: Day1 (2018. 6. 14. 오후 11:34:24)
+[2018.06.14-05.34.24:794][ 22]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.14-05.34.24:831][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036492s)
+[2018.06.14-05.34.24:831][ 22]LogAIModule: Creating AISystem for world Day1
+[2018.06.14-05.34.24:831][ 22]LogPlayLevel: PIE: World Init took: (0.000536s)
+[2018.06.14-05.34.24:832][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.037413s)
+[2018.06.14-05.34.24:857][ 22]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.14-05.34.24:868][ 22]LogInit: FAudioDevice initialized.
+[2018.06.14-05.34.24:933][ 22]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.14-05.34.24:947][ 22]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.14-14.34.24
+[2018.06.14-05.34.24:948][ 22]LogWorld: Bringing up level for play took: 0.014209
+[2018.06.14-05.34.25:202][ 22]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 0.289
+[2018.06.14-05.34.25:203][ 22]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.34.37:987][941]LogBlueprintUserMessages: [1F_유리문스위치1] 오픈
+[2018.06.14-05.34.39:539][ 53]LogBlueprintUserMessages: [1F_유리문스위치2] 클ㄹ로즈
+[2018.06.14-05.34.39:552][ 54]LogBlueprintUserMessages: [1F_유리문스위치1] 클ㄹ로즈
+[2018.06.14-05.34.41:971][225]LogBlueprintUserMessages: [1F_유리문스위치1] 오픈
+[2018.06.14-05.34.42:658][274]LogBlueprintUserMessages: [1F_유리문스위치2] 클ㄹ로즈
+[2018.06.14-05.34.42:673][275]LogBlueprintUserMessages: [1F_유리문스위치1] 클ㄹ로즈
+[2018.06.14-05.34.43:980][368]LogBlueprintUserMessages: [1F_유리문스위치1] 오픈
+[2018.06.14-05.34.45:182][452]LogBlueprintUserMessages: [1F_유리문스위치2] 클ㄹ로즈
+[2018.06.14-05.34.45:182][452]LogBlueprintUserMessages: [1F_유리문스위치1] 클ㄹ로즈
+[2018.06.14-05.34.47:212][597]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.34.47:278][597]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.14-05.34.58:434][225]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2018.06.14-05.35.05:063][644]BlueprintLog: New page: 유리문스위치_가로 컴파일
+[2018.06.14-05.35.05:637][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/유리문스위치_가로" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset" SILENT=true
+[2018.06.14-05.35.05:734][650]LogSavePackage: Save=93.83ms
+[2018.06.14-05.35.05:734][650]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/유리문스위치_가로04914A17443EF113520549916A544692.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset'
+[2018.06.14-05.35.05:736][650]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset
+[2018.06.14-05.35.15:890][256]BlueprintLog: New page: 유리문스위치_가로 컴파일
+[2018.06.14-05.35.16:480][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/유리문스위치_가로" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset" SILENT=true
+[2018.06.14-05.35.16:580][258]LogSavePackage: Save=94.69ms
+[2018.06.14-05.35.16:580][258]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/유리문스위치_가로B35464384ADD2BCC39F59A97EB50AB6F.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset'
+[2018.06.14-05.35.16:583][258]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/유리문스위치_가로.uasset
+[2018.06.14-05.35.49:180][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.14-05.35.50:177][126]LogSavePackage: Save=972.82ms
+[2018.06.14-05.35.50:177][126]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day101E81AFF465A39AB9A7464B8C48BABF4.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.14-05.35.50:181][126]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap
+[2018.06.14-05.35.50:212][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.14-05.35.51:144][126]LogSavePackage: Save=928.99ms
+[2018.06.14-05.35.51:144][126]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1_BuiltDataB64DE8294564C4E6DFCF46970571F7CC.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.14-05.35.51:149][126]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset
