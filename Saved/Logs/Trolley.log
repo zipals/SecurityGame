@@ -1,18 +1,20 @@
-﻿Log file open, 06/16/18 00:04:18
+﻿Log file open, 06/16/18 02:22:07
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: Trolley
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-1252082918) SRandInit(-1252082918).
+LogInit: Display: RandInit(1726700340) SRandInit(1726700340).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
-LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 28.550983
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.232470
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -194,524 +196,996 @@ LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.06.15-15.04.24:629][  0]LogInit: Selected Device Profile: [Windows]
-[2018.06.15-15.04.24:629][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.06.15-15.04.24:949][  0]LogInit: Computer: DESKTOP-FMM3QSI
-[2018.06.15-15.04.24:949][  0]LogInit: User: 201411255
-[2018.06.15-15.04.24:949][  0]LogInit: CPU Page size=4096, Cores=2
-[2018.06.15-15.04.24:950][  0]LogInit: High frequency timer resolution =3.312644 MHz
-[2018.06.15-15.04.24:964][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
-[2018.06.15-15.04.24:964][  0]LogMemory: Platform Memory Stats for Windows
-[2018.06.15-15.04.24:964][  0]LogMemory: Process Physical Memory: 271.66 MB used, 271.66 MB peak
-[2018.06.15-15.04.24:964][  0]LogMemory: Process Virtual Memory: 269.22 MB used, 269.22 MB peak
-[2018.06.15-15.04.24:964][  0]LogMemory: Physical Memory: 4628.38 MB used,  3449.14 MB free, 8077.52 MB total
-[2018.06.15-15.04.24:964][  0]LogMemory: Virtual Memory: 4769.73 MB used,  3449.14 MB free, 134217728.00 MB total
-[2018.06.15-15.04.26:289][  0]LogInit: Using OS detected language (ko-KR).
-[2018.06.15-15.04.26:289][  0]LogInit: Using OS detected locale (ko-KR).
-[2018.06.15-15.04.26:713][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
-[2018.06.15-15.04.27:376][  0]LogInit: Setting process to per monitor DPI aware
-[2018.06.15-15.04.34:927][  0]LogD3D11RHI: D3D11 adapters:
-[2018.06.15-15.04.35:406][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
-[2018.06.15-15.04.35:406][  0]LogD3D11RHI:       1977/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2018.06.15-15.04.35:721][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4400' (Feature Level 11_0)
-[2018.06.15-15.04.35:722][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2018.06.15-15.04.35:791][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.06.15-15.04.35:791][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.06.15-15.04.35:791][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.06.15-15.04.35:841][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.06.15-15.04.35:842][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
-[2018.06.15-15.04.35:842][  0]LogWindows: EnumDisplayDevices:
-[2018.06.15-15.04.35:843][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
-[2018.06.15-15.04.35:848][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:1)
-[2018.06.15-15.04.35:851][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
-[2018.06.15-15.04.35:853][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
-[2018.06.15-15.04.35:855][  0]LogWindows:    4. 'Intel(R) HD Graphics 4400' (P:0 D:0)
-[2018.06.15-15.04.35:857][  0]LogWindows:    5. 'Intel(R) HD Graphics 4400' (P:0 D:0)
-[2018.06.15-15.04.35:858][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.06.15-15.04.35:859][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
-[2018.06.15-15.04.35:859][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.06.15-15.04.35:859][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.06.15-15.04.35:859][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
-[2018.06.15-15.04.36:057][  0]LogD3D11RHI: Async texture creation enabled
-[2018.06.15-15.04.36:557][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2018.06.15-15.04.36:891][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/201411255/Documents/GitHub/SecurityGame/Intermediate/Shaders/WorkingDirectory/17736/).
-[2018.06.15-15.04.36:891][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/201411255/AppData/Local/Temp/UnrealShaderWorkingDir/1ED9EC044C65D93FBFD3C0AE1C1D34CC/'.
-[2018.06.15-15.04.36:924][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.06.15-15.04.45:107][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.06.15-15.04.45:223][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.06.15-15.04.45:320][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.06.15-15.04.45:414][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.06.15-15.04.45:553][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.06.15-15.04.45:707][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.06.15-15.04.45:811][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.06.15-15.04.45:904][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.06.15-15.04.46:005][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.06.15-15.04.46:116][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.06.15-15.04.46:217][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.06.15-15.04.46:323][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.06.15-15.04.46:407][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.06.15-15.04.46:492][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.06.15-15.04.46:693][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.06.15-15.04.46:693][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.06.15-15.04.46:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.06.15-15.04.46:958][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.06.15-15.04.47:240][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.06.15-15.04.47:304][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.06.15-15.04.47:396][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.06.15-15.04.47:505][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.06.15-15.04.47:599][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.06.15-15.04.47:728][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.06.15-15.04.47:728][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.06.15-15.04.49:677][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.06.15-15.04.50:765][  0]LogDerivedDataCache: Loaded boot cache 1.07s 79MB C:/Users/201411255/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.06.15-15.04.50:765][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/201411255/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2018.06.15-15.04.50:765][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/201411255/Documents/GitHub/SecurityGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.06.15-15.04.50:765][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.06.15-15.04.50:765][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/201411255/Documents/GitHub/SecurityGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.06.15-15.04.50:765][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.06.15-15.04.50:860][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.06.15-15.04.50:897][  0]LogDerivedDataCache: Using Local data cache path C:/Users/201411255/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.06.15-15.04.51:031][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.06.15-15.04.51:117][  0]LogSlate: Using Freetype 2.6.0
-[2018.06.15-15.04.51:231][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.06.15-15.04.51:238][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.06.15-15.05.00:555][  0]LogInit: Selected Device Profile: [Windows]
-[2018.06.15-15.05.04:296][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.06.15-15.05.04:472][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.06.15-15.05.04:473][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.06.15-15.05.04:473][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.06.15-15.05.04:473][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.06.15-15.05.04:473][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.06.15-15.05.05:496][  0]LogNetVersion: Trolley , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2282078908)
-[2018.06.15-15.05.09:726][  0]LogAssetRegistry: FAssetRegistry took 0.0689 seconds to start up
-[2018.06.15-15.05.35:511][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.290795 seconds
-[2018.06.15-15.05.35:587][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
-[2018.06.15-15.05.35:587][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
-[2018.06.15-15.05.35:587][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.06.15-15.05.35:780][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2018.06.15-15.06.01:303][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.06.15-15.06.01:601][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.06.15-15.06.05:271][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2018.06.15-15.06.07:687][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
-[2018.06.15-15.06.07:687][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
-[2018.06.15-15.06.07:900][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
-[2018.06.15-15.06.08:105][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
-[2018.06.15-15.06.11:382][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.06.15-15.06.11:961][  0]LogOcInput: OculusInput pre-init called
-[2018.06.15-15.06.13:539][  0]LogEngine: Initializing Engine...
-[2018.06.15-15.06.13:635][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.06.15-15.06.15:229][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.06.15-15.06.15:237][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.007 s
-[2018.06.15-15.06.16:683][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.06.15-15.06.17:150][  0]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.06.15-15.06.17:579][  0]LogInit: FAudioDevice initialized.
-[2018.06.15-15.06.17:910][  0]LogDerivedDataCache: Saved boot cache 0.31s 79MB C:/Users/201411255/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.06.15-15.06.17:969][  0]LogInit: Texture streaming: Enabled
-[2018.06.15-15.06.18:979][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.06.15-15.06.19:504][  0]LogInit: Transaction tracking system initialized
-[2018.06.15-15.06.20:888][  0]BlueprintLog: New page: 에디터 로드
-[2018.06.15-15.06.25:271][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
-[2018.06.15-15.06.27:086][  0]LogLinker: Warning: '/Game/TopDownBP/Blueprints/TopDownOverview' 파일을 찾을 수 없습니다.
-[2018.06.15-15.06.27:097][  0]LogLinker: Warning: '/Game/TopDownBP/Blueprints/TopDownOverview' 파일을 찾을 수 없습니다.
-[2018.06.15-15.06.27:102][  0]LogUObjectGlobals: Warning: 'Class /Game/TopDownBP/Blueprints/TopDownOverview.TopDownOverview_C' 오브젝트를 찾는 데 실패했습니다.
-[2018.06.15-15.06.28:378][  0]LogConsoleResponse: Display: 
-[2018.06.15-15.06.35:466][  0]LogFileCache: Scanning file cache for directory 'C:/Users/201411255/Documents/GitHub/SecurityGame/Content/' took 0.12s
-[2018.06.15-15.06.35:466][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.06.15-15.06.35:494][  0]LogCook: Display: Mobile HDR setting 1
-[2018.06.15-15.06.35:520][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.06.15-15.06.40:823][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
-[2018.06.15-15.06.40:864][  0]Cmd: MAP LOAD FILE="../../../../../../Users/201411255/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.06.15-15.06.40:872][  0]LightingResults: New page: 라이팅 빌드
-[2018.06.15-15.06.41:194][  0]MapCheck: New page: 맵 체크
-[2018.06.15-15.06.41:194][  0]LightingResults: New page: 라이팅 빌드
-[2018.06.15-15.07.02:115][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2018.06.15-15.07.42:525][  0]LogAIModule: Creating AISystem for world Day1
-[2018.06.15-15.07.45:450][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.06.15-15.07.46:077][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.06.15-15.07.46:399][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 315.968ms.
-[2018.06.15-15.07.46:400][  0]LogFileHelpers: Loading map 'Day1' took 65.562
-[2018.06.15-15.07.49:340][  0]LogCollectionManager: Loaded 0 collections in 0.004609 seconds
-[2018.06.15-15.07.49:665][  0]LogFileCache: Scanning file cache for directory 'C:/Users/201411255/Documents/GitHub/SecurityGame/Saved/Collections/' took 0.01s
-[2018.06.15-15.07.49:665][  0]LogFileCache: Scanning file cache for directory 'C:/Users/201411255/Documents/GitHub/SecurityGame/Content/Developers/201411255/Collections/' took 0.01s
-[2018.06.15-15.07.49:665][  0]LogFileCache: Scanning file cache for directory 'C:/Users/201411255/Documents/GitHub/SecurityGame/Content/Collections/' took 0.01s
-[2018.06.15-15.07.49:665][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2018.06.15-15.07.49:715][  0]LogContentBrowser: Native class hierarchy populated in 0.0376 seconds. Added 2363 classes and 519 folders.
-[2018.06.15-15.07.50:020][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.06.15-15.07.52:073][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
-[2018.06.15-15.07.52:319][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0015 seconds. Added 1 classes and 2 folders.
-[2018.06.15-15.07.55:003][  0]LogSlate: Took 0.019992 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.06.15-15.07.55:099][  0]LogSlate: Took 0.082057 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
-[2018.06.15-15.07.55:139][  0]LogSlate: Took 0.036549 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.06.15-15.07.55:291][  0]LogSlate: Took 0.030675 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.06.15-15.07.56:823][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
-[2018.06.15-15.07.59:193][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
-[2018.06.15-15.07.59:686][  0]LogSlate: Took 0.017170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.06.15-15.08.00:324][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2018.06.15-15.08.00:324][  0]LogLoad: (Engine Initialization) Total time: 295.37 seconds
-[2018.06.15-15.08.00:324][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.06.15-15.08.00:330][  0]LogExternalProfiler: Found external profiler: VSPerf
-[2018.06.15-15.08.00:330][  0]LogExternalProfiler: Using external profiler: VSPerf
-[2018.06.15-15.08.01:843][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.06.15-15.08.02:264][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/201411255/Documents/GitHub/SecurityGame/Content/' took 1.32s
-[2018.06.15-15.08.02:972][  3]LogAssetRegistry: Asset discovery search completed in 173.2709 seconds
-[2018.06.15-15.08.02:975][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2018.06.15-15.08.02:975][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000078 seconds (updated 0 objects)
-[2018.06.15-15.08.08:497][129]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.06.15-15.08.08:561][129]Cmd: MAP LOAD FILE="../../../../../../Users/201411255/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.06.15-15.08.08:561][129]LightingResults: New page: 라이팅 빌드
-[2018.06.15-15.08.08:562][129]LoadErrors: New page: 맵 로드중: Day1.umap
-[2018.06.15-15.08.08:623][129]MapCheck: New page: 맵 체크
-[2018.06.15-15.08.08:624][129]LightingResults: New page: 라이팅 빌드
-[2018.06.15-15.08.09:215][129]LogAIModule: Creating AISystem for world Day1
-[2018.06.15-15.08.09:436][129]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.06.15-15.08.09:442][129]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.06.15-15.08.09:530][129]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.06.15-15.08.09:689][129]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 158.653ms.
-[2018.06.15-15.08.09:691][129]LogFileHelpers: Loading map 'Day1' took 1.155
-[2018.06.15-15.08.13:000][231]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
-[2018.06.15-15.08.15:067][231]LogSlate: Took 0.023339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2018.06.15-15.08.16:296][232]LogSlate: Took 0.015035 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2018.06.15-15.08.30:929][449]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::OpenLevel' [요소가 없습니다.]
-[2018.06.15-15.08.33:950][549]BlueprintLog: New page: Day1 컴파일
-[2018.06.15-15.08.36:895][554]LogSavePackage: Save=1765.48ms
-[2018.06.15-15.08.36:895][554]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/SecurityGame/Saved/Day189B8821B450A37638DF778AD96AE01E4.tmp' to '../../../../../../Users/201411255/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap'
-[2018.06.15-15.08.36:941][554]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap
-[2018.06.15-15.08.37:005][554]LogFileHelpers: Saving map 'Day1' took 2.131
-[2018.06.15-15.08.41:422][654]LogAIModule: Creating AISystem for world Day2
-[2018.06.15-15.08.41:538][654]Cmd: MAP LOAD FILE="../../../../../../Users/201411255/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.06.15-15.08.41:538][654]LightingResults: New page: 라이팅 빌드
-[2018.06.15-15.08.41:539][654]LoadErrors: New page: 맵 로드중: Day2.umap
-[2018.06.15-15.08.41:546][654]MapCheck: New page: 맵 체크
-[2018.06.15-15.08.41:547][654]LightingResults: New page: 라이팅 빌드
-[2018.06.15-15.08.41:943][654]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.06.15-15.08.42:042][654]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.06.15-15.08.42:245][654]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 202.926ms.
-[2018.06.15-15.08.42:247][654]LogFileHelpers: Loading map 'Day2' took 0.710
-[2018.06.15-15.08.45:334][924]LogSlate: Took 0.000488 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2018.06.15-15.08.51:059][ 21]LogAIModule: Creating AISystem for world Day3
-[2018.06.15-15.08.51:155][ 21]Cmd: MAP LOAD FILE="../../../../../../Users/201411255/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.06.15-15.08.51:155][ 21]LightingResults: New page: 라이팅 빌드
-[2018.06.15-15.08.51:156][ 21]LoadErrors: New page: 맵 로드중: Day3.umap
-[2018.06.15-15.08.51:163][ 21]MapCheck: New page: 맵 체크
-[2018.06.15-15.08.51:163][ 21]LightingResults: New page: 라이팅 빌드
-[2018.06.15-15.08.51:499][ 21]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.06.15-15.08.51:573][ 21]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.06.15-15.08.51:733][ 21]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 160.183ms.
-[2018.06.15-15.08.51:736][ 21]LogFileHelpers: Loading map 'Day3' took 0.582
-[2018.06.15-15.09.00:428][537]LogAIModule: Creating AISystem for world Day1
-[2018.06.15-15.09.00:511][537]Cmd: MAP LOAD FILE="../../../../../../Users/201411255/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.06.15-15.09.00:511][537]LightingResults: New page: 라이팅 빌드
-[2018.06.15-15.09.00:511][537]LoadErrors: New page: 맵 로드중: Day1.umap
-[2018.06.15-15.09.00:518][537]MapCheck: New page: 맵 체크
-[2018.06.15-15.09.00:518][537]LightingResults: New page: 라이팅 빌드
-[2018.06.15-15.09.00:897][537]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.06.15-15.09.00:980][537]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.06.15-15.09.01:150][537]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 169.295ms.
-[2018.06.15-15.09.01:153][537]LogFileHelpers: Loading map 'Day1' took 0.643
-[2018.06.15-15.10.20:534][700]BlueprintLog: New page: MainUI 컴파일
-[2018.06.15-15.10.21:364][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/MainUI" FILE="../../../../../../Users/201411255/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/MainUI.uasset" SILENT=true
-[2018.06.15-15.10.21:457][731]LogSavePackage: Save=76.76ms
-[2018.06.15-15.10.21:457][731]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/SecurityGame/Saved/MainUI276A9A784CF34EA025CC4C81220FBD8B.tmp' to '../../../../../../Users/201411255/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/MainUI.uasset'
-[2018.06.15-15.10.21:463][731]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/MainUI.uasset
-[2018.06.15-15.10.29:391][  9]BlueprintLog: New page: MainUI 컴파일
-[2018.06.15-15.10.29:909][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/UI/MainUI" FILE="../../../../../../Users/201411255/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/MainUI.uasset" SILENT=true
-[2018.06.15-15.10.29:997][ 27]LogSavePackage: Save=81.61ms
-[2018.06.15-15.10.29:997][ 27]LogSavePackage: Moving '../../../../../../Users/201411255/Documents/GitHub/SecurityGame/Saved/MainUI0DE1D5EE46291A0D305A64BA5EB49634.tmp' to '../../../../../../Users/201411255/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/MainUI.uasset'
-[2018.06.15-15.10.30:000][ 27]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/201411255/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/UI/MainUI.uasset
-[2018.06.15-15.10.39:850][376]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
-[2018.06.15-15.10.40:345][377]Cmd: QUIT_EDITOR
-[2018.06.15-15.10.40:850][377]LogExit: Preparing to exit.
-[2018.06.15-15.10.42:153][377]LogDirectoryWatcher: A directory notification for 'C:/Users/201411255/Documents/GitHub/SecurityGame/Content/' was aborted.
-[2018.06.15-15.10.42:397][377]LogExit: Editor shut down
-[2018.06.15-15.10.42:400][377]LogExit: Transaction tracking system shut down
-[2018.06.15-15.10.42:755][377]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
-[2018.06.15-15.10.42:755][377]LogDirectoryWatcher: A directory notification for '../../../../../../Users/201411255/Documents/GitHub/SecurityGame/Content/' was aborted.
-[2018.06.15-15.10.42:755][377]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
-[2018.06.15-15.10.42:755][377]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
-[2018.06.15-15.10.42:755][377]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
-[2018.06.15-15.10.42:755][377]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
-[2018.06.15-15.10.42:755][377]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
-[2018.06.15-15.10.43:827][377]LogExit: Object subsystem successfully closed.
-[2018.06.15-15.10.44:039][377]LogD3D11RHI: Shutdown
-[2018.06.15-15.10.44:054][377]LogD3D11RHI: CleanupD3DDevice
-[2018.06.15-15.10.44:077][377]LogD3D11RHI: ~FD3D11DynamicRHI
-[2018.06.15-15.10.44:797][377]LogModuleManager: Shutting down and abandoning module SequencerWidgets (552)
-[2018.06.15-15.10.44:797][377]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
-[2018.06.15-15.10.44:797][377]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
-[2018.06.15-15.10.44:797][377]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
-[2018.06.15-15.10.44:817][377]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
-[2018.06.15-15.10.44:828][377]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
-[2018.06.15-15.10.44:831][377]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
-[2018.06.15-15.10.44:832][377]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
-[2018.06.15-15.10.44:832][377]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
-[2018.06.15-15.10.44:837][377]LogDirectoryWatcher: A directory notification for 'C:/Users/201411255/Documents/GitHub/SecurityGame/Content/Collections/' was aborted.
-[2018.06.15-15.10.44:837][377]LogDirectoryWatcher: A directory notification for 'C:/Users/201411255/Documents/GitHub/SecurityGame/Content/Developers/201411255/Collections/' was aborted.
-[2018.06.15-15.10.44:837][377]LogDirectoryWatcher: A directory notification for 'C:/Users/201411255/Documents/GitHub/SecurityGame/Saved/Collections/' was aborted.
-[2018.06.15-15.10.44:838][377]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
-[2018.06.15-15.10.44:849][377]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
-[2018.06.15-15.10.44:849][377]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
-[2018.06.15-15.10.44:870][377]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
-[2018.06.15-15.10.44:879][377]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
-[2018.06.15-15.10.44:879][377]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
-[2018.06.15-15.10.44:879][377]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
-[2018.06.15-15.10.44:879][377]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
-[2018.06.15-15.10.44:880][377]LogModuleManager: Shutting down and abandoning module BspMode (520)
-[2018.06.15-15.10.44:880][377]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
-[2018.06.15-15.10.44:880][377]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
-[2018.06.15-15.10.44:880][377]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
-[2018.06.15-15.10.44:889][377]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
-[2018.06.15-15.10.44:908][377]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
-[2018.06.15-15.10.44:923][377]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
-[2018.06.15-15.10.44:970][377]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
-[2018.06.15-15.10.44:970][377]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
-[2018.06.15-15.10.44:970][377]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
-[2018.06.15-15.10.44:970][377]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
-[2018.06.15-15.10.44:970][377]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
-[2018.06.15-15.10.44:970][377]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
-[2018.06.15-15.10.44:970][377]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
-[2018.06.15-15.10.44:970][377]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
-[2018.06.15-15.10.44:970][377]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
-[2018.06.15-15.10.44:970][377]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
-[2018.06.15-15.10.44:970][377]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
-[2018.06.15-15.10.44:970][377]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
-[2018.06.15-15.10.44:979][377]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
-[2018.06.15-15.10.44:980][377]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
-[2018.06.15-15.10.44:980][377]LogModuleManager: Shutting down and abandoning module SessionServices (478)
-[2018.06.15-15.10.44:980][377]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
-[2018.06.15-15.10.44:980][377]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
-[2018.06.15-15.10.44:980][377]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
-[2018.06.15-15.10.44:998][377]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
-[2018.06.15-15.10.45:015][377]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
-[2018.06.15-15.10.45:030][377]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
-[2018.06.15-15.10.45:063][377]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
-[2018.06.15-15.10.45:073][377]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
-[2018.06.15-15.10.45:073][377]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
-[2018.06.15-15.10.45:073][377]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
-[2018.06.15-15.10.45:074][377]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
-[2018.06.15-15.10.45:618][377]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
-[2018.06.15-15.10.45:618][377]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
-[2018.06.15-15.10.45:618][377]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
-[2018.06.15-15.10.45:618][377]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
-[2018.06.15-15.10.45:635][377]LogModuleManager: Shutting down and abandoning module MergeActors (446)
-[2018.06.15-15.10.45:641][377]LogModuleManager: Shutting down and abandoning module SizeMap (444)
-[2018.06.15-15.10.45:641][377]LogModuleManager: Shutting down and abandoning module TreeMap (442)
-[2018.06.15-15.10.45:668][377]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
-[2018.06.15-15.10.45:668][377]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
-[2018.06.15-15.10.45:678][377]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
-[2018.06.15-15.10.45:686][377]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
-[2018.06.15-15.10.45:686][377]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
-[2018.06.15-15.10.45:686][377]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
-[2018.06.15-15.10.45:687][377]LogModuleManager: Shutting down and abandoning module XmlParser (428)
-[2018.06.15-15.10.45:697][377]LogModuleManager: Shutting down and abandoning module Blutility (426)
-[2018.06.15-15.10.45:697][377]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
-[2018.06.15-15.10.45:698][377]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
-[2018.06.15-15.10.45:698][377]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
-[2018.06.15-15.10.45:698][377]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
-[2018.06.15-15.10.45:711][377]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
-[2018.06.15-15.10.45:724][377]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
-[2018.06.15-15.10.45:737][377]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
-[2018.06.15-15.10.45:742][377]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
-[2018.06.15-15.10.45:747][377]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
-[2018.06.15-15.10.45:800][377]LogModuleManager: Shutting down and abandoning module AutomationController (406)
-[2018.06.15-15.10.45:808][377]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
-[2018.06.15-15.10.45:831][377]LogModuleManager: Shutting down and abandoning module Layers (402)
-[2018.06.15-15.10.45:848][377]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
-[2018.06.15-15.10.45:849][377]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
-[2018.06.15-15.10.45:854][377]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
-[2018.06.15-15.10.45:864][377]LogModuleManager: Shutting down and abandoning module Persona (394)
-[2018.06.15-15.10.45:896][377]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
-[2018.06.15-15.10.45:896][377]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
-[2018.06.15-15.10.45:896][377]LogModuleManager: Shutting down and abandoning module Kismet (388)
-[2018.06.15-15.10.45:941][377]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
-[2018.06.15-15.10.45:941][377]LogModuleManager: Shutting down and abandoning module Toolbox (384)
-[2018.06.15-15.10.45:941][377]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
-[2018.06.15-15.10.45:952][377]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
-[2018.06.15-15.10.45:959][377]LogModuleManager: Shutting down and abandoning module OutputLog (378)
-[2018.06.15-15.10.45:974][377]LogModuleManager: Shutting down and abandoning module GammaUI (376)
-[2018.06.15-15.10.45:978][377]LogModuleManager: Shutting down and abandoning module Documentation (374)
-[2018.06.15-15.10.45:978][377]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
-[2018.06.15-15.10.45:978][377]LogModuleManager: Shutting down and abandoning module MovieScene (370)
-[2018.06.15-15.10.45:978][377]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
-[2018.06.15-15.10.45:978][377]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
-[2018.06.15-15.10.45:978][377]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
-[2018.06.15-15.10.45:978][377]LogModuleManager: Shutting down and abandoning module PortalServices (362)
-[2018.06.15-15.10.45:979][377]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
-[2018.06.15-15.10.45:979][377]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
-[2018.06.15-15.10.45:979][377]LogModuleManager: Shutting down and abandoning module AIModule (356)
-[2018.06.15-15.10.45:979][377]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
-[2018.06.15-15.10.45:984][377]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
-[2018.06.15-15.10.45:989][377]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
-[2018.06.15-15.10.45:989][377]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
-[2018.06.15-15.10.46:099][377]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
-[2018.06.15-15.10.46:124][377]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
-[2018.06.15-15.10.46:124][377]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
-[2018.06.15-15.10.46:124][377]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
-[2018.06.15-15.10.46:134][377]LogModuleManager: Shutting down and abandoning module OculusInput (338)
-[2018.06.15-15.10.46:144][377]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
-[2018.06.15-15.10.46:145][377]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
-[2018.06.15-15.10.46:145][377]LogModuleManager: Shutting down and abandoning module CableComponent (332)
-[2018.06.15-15.10.46:149][377]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
-[2018.06.15-15.10.46:149][377]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
-[2018.06.15-15.10.46:149][377]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
-[2018.06.15-15.10.46:149][377]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
-[2018.06.15-15.10.46:163][377]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
-[2018.06.15-15.10.46:164][377]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
-[2018.06.15-15.10.46:164][377]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
-[2018.06.15-15.10.46:164][377]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
-[2018.06.15-15.10.46:173][377]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
-[2018.06.15-15.10.46:173][377]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
-[2018.06.15-15.10.46:190][377]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
-[2018.06.15-15.10.46:190][377]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
-[2018.06.15-15.10.46:190][377]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
-[2018.06.15-15.10.46:218][377]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
-[2018.06.15-15.10.46:230][377]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
-[2018.06.15-15.10.46:230][377]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
-[2018.06.15-15.10.46:230][377]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
-[2018.06.15-15.10.46:230][377]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
-[2018.06.15-15.10.46:238][377]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
-[2018.06.15-15.10.46:244][377]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
-[2018.06.15-15.10.46:260][377]LogModuleManager: Shutting down and abandoning module SourceControl (289)
-[2018.06.15-15.10.46:264][377]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
-[2018.06.15-15.10.46:264][377]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
-[2018.06.15-15.10.46:264][377]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
-[2018.06.15-15.10.46:264][377]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
-[2018.06.15-15.10.46:281][377]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
-[2018.06.15-15.10.46:286][377]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
-[2018.06.15-15.10.46:294][377]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
-[2018.06.15-15.10.46:300][377]LogModuleManager: Shutting down and abandoning module MainFrame (274)
-[2018.06.15-15.10.46:300][377]LogModuleManager: Shutting down and abandoning module HotReload (273)
-[2018.06.15-15.10.46:316][377]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
-[2018.06.15-15.10.46:316][377]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
-[2018.06.15-15.10.46:316][377]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
-[2018.06.15-15.10.46:316][377]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
-[2018.06.15-15.10.46:316][377]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
-[2018.06.15-15.10.46:316][377]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
-[2018.06.15-15.10.46:316][377]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
-[2018.06.15-15.10.46:356][377]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
-[2018.06.15-15.10.46:473][377]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
-[2018.06.15-15.10.46:582][377]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
-[2018.06.15-15.10.46:603][377]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
-[2018.06.15-15.10.46:603][377]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
-[2018.06.15-15.10.46:603][377]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
-[2018.06.15-15.10.46:607][377]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
-[2018.06.15-15.10.46:607][377]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
-[2018.06.15-15.10.46:611][377]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
-[2018.06.15-15.10.46:611][377]LogModuleManager: Shutting down and abandoning module Paper2D (236)
-[2018.06.15-15.10.46:611][377]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
-[2018.06.15-15.10.46:618][377]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
-[2018.06.15-15.10.46:630][377]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
-[2018.06.15-15.10.46:630][377]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
-[2018.06.15-15.10.46:630][377]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
-[2018.06.15-15.10.46:630][377]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
-[2018.06.15-15.10.46:649][377]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
-[2018.06.15-15.10.46:649][377]LogModuleManager: Shutting down and abandoning module Media (221)
-[2018.06.15-15.10.46:657][377]LogModuleManager: Shutting down and abandoning module Overlay (218)
-[2018.06.15-15.10.46:657][377]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
-[2018.06.15-15.10.46:657][377]LogModuleManager: Shutting down and abandoning module VREditor (214)
-[2018.06.15-15.10.46:672][377]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
-[2018.06.15-15.10.46:680][377]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
-[2018.06.15-15.10.46:680][377]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
-[2018.06.15-15.10.46:711][377]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
-[2018.06.15-15.10.46:720][377]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
-[2018.06.15-15.10.46:730][377]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
-[2018.06.15-15.10.46:730][377]LogModuleManager: Shutting down and abandoning module UMG (200)
-[2018.06.15-15.10.46:730][377]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
-[2018.06.15-15.10.46:730][377]LogModuleManager: Shutting down and abandoning module Sequencer (198)
-[2018.06.15-15.10.46:730][377]LogModuleManager: Shutting down and abandoning module MessageLog (195)
-[2018.06.15-15.10.46:730][377]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
-[2018.06.15-15.10.46:769][377]LogModuleManager: Shutting down and abandoning module Slate (188)
-[2018.06.15-15.10.46:769][377]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
-[2018.06.15-15.10.46:781][377]LogModuleManager: Shutting down and abandoning module MRMesh (184)
-[2018.06.15-15.10.46:781][377]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
-[2018.06.15-15.10.46:781][377]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
-[2018.06.15-15.10.46:781][377]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
-[2018.06.15-15.10.46:781][377]LogModuleManager: Shutting down and abandoning module Networking (176)
-[2018.06.15-15.10.46:781][377]LogModuleManager: Shutting down and abandoning module Core (172)
-[2018.06.15-15.10.46:781][377]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
-[2018.06.15-15.10.46:782][377]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
-[2018.06.15-15.10.46:789][377]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
-[2018.06.15-15.10.46:789][377]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
-[2018.06.15-15.10.46:801][377]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
-[2018.06.15-15.10.46:810][377]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
-[2018.06.15-15.10.46:810][377]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
-[2018.06.15-15.10.46:818][377]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
-[2018.06.15-15.10.46:818][377]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
-[2018.06.15-15.10.46:822][377]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
-[2018.06.15-15.10.46:826][377]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
-[2018.06.15-15.10.46:906][377]LogDerivedDataCache: Shutdown
-[2018.06.15-15.10.46:906][377]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
-[2018.06.15-15.10.46:906][377]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
-[2018.06.15-15.10.46:923][377]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
-[2018.06.15-15.10.46:931][377]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
-[2018.06.15-15.10.46:941][377]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
-[2018.06.15-15.10.46:951][377]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
-[2018.06.15-15.10.46:968][377]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
-[2018.06.15-15.10.46:969][377]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
-[2018.06.15-15.10.46:969][377]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
-[2018.06.15-15.10.46:973][377]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
-[2018.06.15-15.10.46:978][377]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
-[2018.06.15-15.10.46:978][377]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
-[2018.06.15-15.10.46:978][377]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
-[2018.06.15-15.10.46:978][377]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
-[2018.06.15-15.10.46:978][377]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
-[2018.06.15-15.10.46:978][377]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
-[2018.06.15-15.10.46:978][377]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
-[2018.06.15-15.10.46:978][377]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
-[2018.06.15-15.10.46:978][377]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
-[2018.06.15-15.10.46:978][377]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
-[2018.06.15-15.10.46:978][377]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
-[2018.06.15-15.10.46:978][377]LogModuleManager: Shutting down and abandoning module Messaging (105)
-[2018.06.15-15.10.46:978][377]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
-[2018.06.15-15.10.46:979][377]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
-[2018.06.15-15.10.46:979][377]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
-[2018.06.15-15.10.46:979][377]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
-[2018.06.15-15.10.46:979][377]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
-[2018.06.15-15.10.46:979][377]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
-[2018.06.15-15.10.46:979][377]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
-[2018.06.15-15.10.46:979][377]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
-[2018.06.15-15.10.46:979][377]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
-[2018.06.15-15.10.46:979][377]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
-[2018.06.15-15.10.46:979][377]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
-[2018.06.15-15.10.46:979][377]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
-[2018.06.15-15.10.46:979][377]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
-[2018.06.15-15.10.46:979][377]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
-[2018.06.15-15.10.46:979][377]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
-[2018.06.15-15.10.46:979][377]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
-[2018.06.15-15.10.46:980][377]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
-[2018.06.15-15.10.46:980][377]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
-[2018.06.15-15.10.46:980][377]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
-[2018.06.15-15.10.46:980][377]LogModuleManager: Shutting down and abandoning module InputCore (64)
-[2018.06.15-15.10.46:980][377]LogModuleManager: Shutting down and abandoning module Settings (62)
-[2018.06.15-15.10.46:980][377]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
-[2018.06.15-15.10.46:980][377]LogModuleManager: Shutting down and abandoning module SteamVR (58)
-[2018.06.15-15.10.46:980][377]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
-[2018.06.15-15.10.46:990][377]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
-[2018.06.15-15.10.46:990][377]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
-[2018.06.15-15.10.46:991][377]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
-[2018.06.15-15.10.46:991][377]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
-[2018.06.15-15.10.46:991][377]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
-[2018.06.15-15.10.47:012][377]LogModuleManager: Shutting down and abandoning module XMPP (43)
-[2018.06.15-15.10.47:022][377]LogModuleManager: Shutting down and abandoning module HTTP (41)
-[2018.06.15-15.10.47:022][377]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
-[2018.06.15-15.10.47:028][377]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23777C8B-40D4-E14F-E065-3980355A4450%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=85f5624e41710235cc2d1c94528e1679%7Cfd159e6a22e842339ef246a1fe6d8531%7C6a8768f6-ef21-4795-bfa6-daf8d470321e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
-[2018.06.15-15.10.47:042][377]LogModuleManager: Shutting down and abandoning module SSL (40)
-[2018.06.15-15.10.47:053][377]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
-[2018.06.15-15.10.47:057][377]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
-[2018.06.15-15.10.47:057][377]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
-[2018.06.15-15.10.47:068][377]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
-[2018.06.15-15.10.47:084][377]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
-[2018.06.15-15.10.47:084][377]LogModuleManager: Shutting down and abandoning module Landscape (26)
-[2018.06.15-15.10.47:084][377]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
-[2018.06.15-15.10.47:107][377]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
-[2018.06.15-15.10.47:118][377]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
-[2018.06.15-15.10.47:118][377]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
-[2018.06.15-15.10.47:133][377]LogModuleManager: Shutting down and abandoning module Renderer (16)
-[2018.06.15-15.10.47:133][377]LogModuleManager: Shutting down and abandoning module Engine (14)
-[2018.06.15-15.10.47:145][377]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
-[2018.06.15-15.10.47:146][377]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
-[2018.06.15-15.10.47:161][377]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
-[2018.06.15-15.10.47:161][377]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
-[2018.06.15-15.10.47:176][377]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
-[2018.06.15-15.10.47:185][377]LogModuleManager: Shutting down and abandoning module PakFile (2)
-[2018.06.15-15.10.47:211][377]LogExit: Exiting.
-[2018.06.15-15.10.47:257][377]Log file closed, 06/16/18 00:10:47
+[2018.06.15-17.22.09:278][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.15-17.22.09:278][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.15-17.22.09:298][  0]LogInit: Computer: JUN-HYOENG-HOME
+[2018.06.15-17.22.09:298][  0]LogInit: User: user
+[2018.06.15-17.22.09:298][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.06.15-17.22.09:298][  0]LogInit: High frequency timer resolution =2.929687 MHz
+[2018.06.15-17.22.09:298][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.06.15-17.22.09:298][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.15-17.22.09:298][  0]LogMemory: Process Physical Memory: 272.12 MB used, 272.12 MB peak
+[2018.06.15-17.22.09:298][  0]LogMemory: Process Virtual Memory: 269.91 MB used, 269.91 MB peak
+[2018.06.15-17.22.09:298][  0]LogMemory: Physical Memory: 5529.55 MB used,  10768.43 MB free, 16297.98 MB total
+[2018.06.15-17.22.09:298][  0]LogMemory: Virtual Memory: 4782.39 MB used,  10768.43 MB free, 134217728.00 MB total
+[2018.06.15-17.22.09:484][  0]LogInit: Using OS detected language (ko-KR).
+[2018.06.15-17.22.09:484][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.06.15-17.22.09:524][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.06.15-17.22.09:718][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.15-17.22.11:381][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.15-17.22.11:425][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.06.15-17.22.11:425][  0]LogD3D11RHI:       6052/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.06.15-17.22.11:427][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.15-17.22.11:427][  0]LogD3D11RHI:       0/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.15-17.22.11:427][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.15-17.22.11:432][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.15-17.22.11:432][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.15-17.22.11:432][  0]LogWindows: EnumDisplayDevices:
+[2018.06.15-17.22.11:432][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.06.15-17.22.11:432][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.06.15-17.22.11:432][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.06.15-17.22.11:433][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.06.15-17.22.11:433][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.15-17.22.11:433][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.06.15-17.22.11:433][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.15-17.22.11:433][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.15-17.22.11:433][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.06.15-17.22.11:468][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.15-17.22.11:486][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.06.15-17.22.11:544][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/user/Documents/GitHub/SecurityGame/Intermediate/Shaders/WorkingDirectory/11728/).
+[2018.06.15-17.22.11:545][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/330CF11F4C0AA72D99E3C19D11F75FD9/'.
+[2018.06.15-17.22.11:545][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.15-17.22.12:435][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.15-17.22.12:491][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.15-17.22.12:546][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.15-17.22.12:600][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.15-17.22.12:659][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.15-17.22.12:715][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.15-17.22.12:771][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.15-17.22.12:827][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.15-17.22.12:877][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.15-17.22.12:935][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.15-17.22.12:990][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.15-17.22.13:045][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.15-17.22.13:100][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.15-17.22.13:154][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.15-17.22.13:265][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.15-17.22.13:265][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.15-17.22.13:324][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.15-17.22.13:369][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.15-17.22.13:472][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.15-17.22.13:500][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.15-17.22.13:553][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.15-17.22.13:607][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.15-17.22.13:661][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.15-17.22.13:719][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.15-17.22.13:719][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.15-17.22.14:247][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.15-17.22.14:561][  0]LogDerivedDataCache: Loaded boot cache 0.31s 78MB C:/Users/user/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.06.15-17.22.14:561][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.06.15-17.22.14:561][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/user/Documents/GitHub/SecurityGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.15-17.22.14:561][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.15-17.22.14:561][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/user/Documents/GitHub/SecurityGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.15-17.22.14:561][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.15-17.22.14:576][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.15-17.22.14:588][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.15-17.22.14:596][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.15-17.22.14:596][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.15-17.22.14:603][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.15-17.22.14:603][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.15-17.22.15:224][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.15-17.22.15:569][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.15-17.22.15:616][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.15-17.22.15:616][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.15-17.22.15:617][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.15-17.22.15:617][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.15-17.22.15:617][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.15-17.22.15:647][  0]LogNetVersion: Trolley , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2282078908)
+[2018.06.15-17.22.15:808][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2018.06.15-17.22.16:323][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.069942 seconds
+[2018.06.15-17.22.16:329][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.06.15-17.22.16:329][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.06.15-17.22.16:329][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.15-17.22.16:396][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.06.15-17.22.20:956][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.15-17.22.21:000][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.15-17.22.21:773][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.06.15-17.22.22:232][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.06.15-17.22.22:232][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.06.15-17.22.22:293][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.06.15-17.22.22:351][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.06.15-17.22.23:278][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.15-17.22.23:570][  0]LogOcInput: OculusInput pre-init called
+[2018.06.15-17.22.23:890][  0]LogEngine: Initializing Engine...
+[2018.06.15-17.22.23:892][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.15-17.22.24:067][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.15-17.22.24:067][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.15-17.22.24:214][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.15-17.22.24:223][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.15-17.22.24:314][  0]LogInit: FAudioDevice initialized.
+[2018.06.15-17.22.24:386][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/user/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.06.15-17.22.24:398][  0]LogInit: Texture streaming: Enabled
+[2018.06.15-17.22.24:513][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.15-17.22.24:660][  0]LogInit: Transaction tracking system initialized
+[2018.06.15-17.22.25:019][  0]BlueprintLog: New page: 에디터 로드
+[2018.06.15-17.22.26:030][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.06.15-17.22.27:076][  0]LogConsoleResponse: Display: 
+[2018.06.15-17.22.27:356][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.15-17.22.27:356][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.15-17.22.27:356][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.15-17.22.28:164][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/GitHub/SecurityGame/Content/' took 0.02s
+[2018.06.15-17.22.28:734][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.06.15-17.22.28:734][  0]Cmd: MAP LOAD FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.15-17.22.28:735][  0]LightingResults: New page: 라이팅 빌드
+[2018.06.15-17.22.28:783][  0]MapCheck: New page: 맵 체크
+[2018.06.15-17.22.28:783][  0]LightingResults: New page: 라이팅 빌드
+[2018.06.15-17.22.29:972][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.06.15-17.22.30:316][  0]LogTexture: Display: 텍스처 빌드: Postit_Texture (AutoDXT, 1024X1024)
+[2018.06.15-17.22.30:546][  0]LogMaterial: Missing cached shader map for material Postit_M, compiling. 
+[2018.06.15-17.22.30:581][  0]LogStaticMesh: Postit 스태틱 메시 빌드중...
+[2018.06.15-17.22.30:588][  0]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Mesh/Postit.Postit
+[2018.06.15-17.22.33:216][  0]LogAIModule: Creating AISystem for world Day1
+[2018.06.15-17.22.33:282][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.15-17.22.33:303][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.15-17.22.33:398][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 94.239ms.
+[2018.06.15-17.22.33:398][  0]LogFileHelpers: Loading map 'Day1' took 4.663
+[2018.06.15-17.22.33:583][  0]LogCollectionManager: Loaded 0 collections in 0.001409 seconds
+[2018.06.15-17.22.33:670][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/GitHub/SecurityGame/Saved/Collections/' took 0.01s
+[2018.06.15-17.22.33:670][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/GitHub/SecurityGame/Content/Developers/user/Collections/' took 0.01s
+[2018.06.15-17.22.33:670][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/GitHub/SecurityGame/Content/Collections/' took 0.01s
+[2018.06.15-17.22.33:670][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.06.15-17.22.33:676][  0]LogContentBrowser: Native class hierarchy populated in 0.0064 seconds. Added 2363 classes and 519 folders.
+[2018.06.15-17.22.33:748][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.15-17.22.34:052][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.15-17.22.34:099][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.06.15-17.22.34:175][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.15-17.22.34:189][  0]LogSlate: Took 0.013020 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.06.15-17.22.34:193][  0]LogSlate: Took 0.003594 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.15-17.22.34:201][  0]LogSlate: Took 0.004028 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.15-17.22.34:347][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.06.15-17.22.34:439][  0]LogRenderer: Reallocating scene render targets to support 1312x604 Format 10 NumSamples 1 (Frame:1).
+[2018.06.15-17.22.34:477][  0]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.15-17.22.34:609][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.06.15-17.22.34:609][  0]LogLoad: (Engine Initialization) Total time: 28.49 seconds
+[2018.06.15-17.22.34:609][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.15-17.22.34:609][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.06.15-17.22.34:988][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.15-17.22.35:287][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/user/Documents/GitHub/SecurityGame/Content/' took 0.32s
+[2018.06.15-17.22.35:321][  1]LogAssetRegistry: Asset discovery search completed in 19.5357 seconds
+[2018.06.15-17.22.35:323][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.15-17.22.35:323][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000034 seconds (updated 0 objects)
+[2018.06.15-17.23.33:796][716]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.15-17.23.33:808][716]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\user\Desktop\로비.png)
+[2018.06.15-17.23.33:809][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM white point
+[2018.06.15-17.23.33:809][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM red point
+[2018.06.15-17.23.33:809][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM green point
+[2018.06.15-17.23.33:809][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM blue point
+[2018.06.15-17.23.33:809][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM white point
+[2018.06.15-17.23.33:809][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM red point
+[2018.06.15-17.23.33:809][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM green point
+[2018.06.15-17.23.33:809][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM blue point
+[2018.06.15-17.23.33:851][716]LogTexture: Display: 텍스처 빌드: 로비 (AutoDXT, 1024X1024)
+[2018.06.15-17.23.34:243][716]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\user\Desktop\화장실.png)
+[2018.06.15-17.23.34:244][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM white point
+[2018.06.15-17.23.34:244][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM red point
+[2018.06.15-17.23.34:244][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM green point
+[2018.06.15-17.23.34:244][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM blue point
+[2018.06.15-17.23.34:245][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM white point
+[2018.06.15-17.23.34:245][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM red point
+[2018.06.15-17.23.34:245][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM green point
+[2018.06.15-17.23.34:245][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM blue point
+[2018.06.15-17.23.34:281][716]LogTexture: Display: 텍스처 빌드: 화장실 (AutoDXT, 1024X1024)
+[2018.06.15-17.23.34:549][716]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\user\Desktop\연구실.png)
+[2018.06.15-17.23.34:550][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM white point
+[2018.06.15-17.23.34:550][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM red point
+[2018.06.15-17.23.34:550][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM green point
+[2018.06.15-17.23.34:550][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM blue point
+[2018.06.15-17.23.34:550][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM white point
+[2018.06.15-17.23.34:550][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM red point
+[2018.06.15-17.23.34:550][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM green point
+[2018.06.15-17.23.34:550][716]LogImageWrapper: Warning: PNG Warning: Invalid cHRM blue point
+[2018.06.15-17.23.34:587][716]LogTexture: Display: 텍스처 빌드: 연구실 (AutoDXT, 1024X1024)
+[2018.06.15-17.23.34:959][716]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\user\Desktop\기타 방들.png)
+[2018.06.15-17.23.35:006][716]LogTexture: Display: 텍스처 빌드: 기타_방들 (AutoDXT, 1024X1024)
+[2018.06.15-17.23.50:015][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Material/Textures/화장실" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/Textures/화장실.uasset" SILENT=true
+[2018.06.15-17.23.50:139][593]LogSavePackage: Save=122.47ms
+[2018.06.15-17.23.50:139][593]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/화장실3D9B495942B5BB5A7680268514F443D3.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/Textures/화장실.uasset'
+[2018.06.15-17.23.50:143][593]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/Textures/화장실.uasset
+[2018.06.15-17.23.50:153][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Material/Textures/연구실" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/Textures/연구실.uasset" SILENT=true
+[2018.06.15-17.23.50:279][593]LogSavePackage: Save=124.85ms
+[2018.06.15-17.23.50:279][593]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/연구실CF7C731941F5AA72DE3CD897141F80EA.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/Textures/연구실.uasset'
+[2018.06.15-17.23.50:281][593]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/Textures/연구실.uasset
+[2018.06.15-17.23.50:290][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Material/Textures/로비" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/Textures/로비.uasset" SILENT=true
+[2018.06.15-17.23.50:427][593]LogSavePackage: Save=135.43ms
+[2018.06.15-17.23.50:427][593]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/로비211C0EEE46DA74E7EE7D8DAAAFA252F3.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/Textures/로비.uasset'
+[2018.06.15-17.23.50:430][593]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/Textures/로비.uasset
+[2018.06.15-17.23.50:440][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Material/Textures/기타_방들" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/Textures/기타_방들.uasset" SILENT=true
+[2018.06.15-17.23.50:590][593]LogSavePackage: Save=147.45ms
+[2018.06.15-17.23.50:590][593]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/기타_방들D25A1BE24FBFBD30DB102FAE636C3E9C.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/Textures/기타_방들.uasset'
+[2018.06.15-17.23.50:592][593]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/Textures/기타_방들.uasset
+[2018.06.15-17.23.54:099][771]LogSavePackage: Save=27.19ms
+[2018.06.15-17.23.54:099][771]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/기타_방들6AEB91294C8132A65D2221BF186980F6.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/기타_방들.uasset'
+[2018.06.15-17.23.54:101][771]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/기타_방들.uasset
+[2018.06.15-17.23.54:109][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Material/FloorTextures/연구실" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/연구실.uasset" SILENT=true
+[2018.06.15-17.23.54:130][771]LogSavePackage: Save=20.61ms
+[2018.06.15-17.23.54:130][771]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/연구실CDB4DF4943ABAB97779AF4952053689A.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/연구실.uasset'
+[2018.06.15-17.23.54:133][771]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/연구실.uasset
+[2018.06.15-17.23.54:140][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Material/FloorTextures/화장실" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/화장실.uasset" SILENT=true
+[2018.06.15-17.23.54:165][771]LogSavePackage: Save=21.53ms
+[2018.06.15-17.23.54:165][771]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/화장실B804C6DD47D6BD47490AAB9BBD16F6F7.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/화장실.uasset'
+[2018.06.15-17.23.54:167][771]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/화장실.uasset
+[2018.06.15-17.23.54:175][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Material/FloorTextures/로비" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/로비.uasset" SILENT=true
+[2018.06.15-17.23.54:204][771]LogSavePackage: Save=27.78ms
+[2018.06.15-17.23.54:204][771]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/로비27C2587B4F6892F2425DF7B1D2A73BD6.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/로비.uasset'
+[2018.06.15-17.23.54:206][771]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/로비.uasset
+[2018.06.15-17.24.07:591][595]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.24.18:707][661]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.24.24:815][ 75]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.24.29:656][403]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.24.31:592][499]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.06.15-17.24.32:424][534]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.06.15-17.24.32:426][534]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.24.32:678][534]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.24.32:694][534]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.24.32:736][534]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.15-17.24.32:746][534]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.15-17.24.33:086][547]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.24.33:166][547]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.24.33:183][547]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.24.33:223][547]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.15-17.24.33:727][567]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.24.33:809][567]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.24.33:826][567]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.24.33:866][567]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.15-17.24.34:038][572]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.06.15-17.24.34:038][572]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.06.15-17.24.34:038][572]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.15-17.24.34:038][572]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.24.34:038][572]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.15-17.24.34:371][586]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.24.34:452][586]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.24.34:469][586]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.24.34:510][586]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.15-17.24.35:508][626]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.06.15-17.24.35:508][626]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.06.15-17.24.35:508][626]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.15-17.24.35:508][626]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.24.35:508][626]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.15-17.24.37:010][692]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.06.15-17.24.37:010][692]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.06.15-17.24.37:010][692]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.15-17.24.37:010][692]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.24.37:010][692]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.15-17.24.42:657][306]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.24.42:673][306]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.24.42:714][306]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.15-17.24.42:747][308]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.06.15-17.24.42:747][308]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.06.15-17.24.42:747][308]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.15-17.24.42:747][308]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.24.42:747][308]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.15-17.24.44:063][384]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.06.15-17.24.44:063][384]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.06.15-17.24.44:063][384]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.15-17.24.44:063][384]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.24.44:063][384]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.15-17.24.46:693][526]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.24.48:055][592]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.06.15-17.24.48:055][592]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.06.15-17.24.48:055][592]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.15-17.24.48:055][592]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.24.48:055][592]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.15-17.24.48:212][599]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.24.49:051][641]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.24.49:610][666]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.06.15-17.24.49:610][666]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.06.15-17.24.49:610][666]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.15-17.24.49:610][666]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.24.49:610][666]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.15-17.24.50:760][753]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.24.50:783][753]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.15-17.24.52:177][835]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.06.15-17.24.52:177][835]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.06.15-17.24.52:177][835]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.15-17.24.52:177][835]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.24.52:177][835]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.15-17.24.53:007][907]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.24.53:026][907]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.15-17.24.54:398][980]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.06.15-17.24.54:398][980]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.06.15-17.24.54:398][980]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.15-17.24.54:398][980]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.24.54:398][980]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.15-17.24.55:333][ 47]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.24.55:351][ 47]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.15-17.24.56:710][106]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.06.15-17.24.56:710][106]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.06.15-17.24.56:710][106]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.15-17.24.56:711][106]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.24.56:711][106]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.15-17.24.57:475][146]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.15-17.25.04:611][518]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.25.05:406][553]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.25.06:890][619]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.06.15-17.25.06:890][619]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.06.15-17.25.06:890][619]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.15-17.25.06:890][619]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.25.06:890][619]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.15-17.25.08:313][695]LogMaterialEditor: Saving and Compiling material 로비바닥
+[2018.06.15-17.25.08:685][695]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.25.08:735][695]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.25.08:763][695]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.25.08:802][695]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 로비바닥, compiling. 
+[2018.06.15-17.25.09:862][695]TextureStreamingBuild: Display: Compiling optional shaders took 1.064 seconds.
+[2018.06.15-17.25.11:291][695]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.15-17.25.11:347][695]LogSavePackage: Save=13.77ms
+[2018.06.15-17.25.11:347][695]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/로비바닥0DA9D225406A94E87D5956BD42FF24B0.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/로비바닥.uasset'
+[2018.06.15-17.25.11:349][695]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/로비바닥.uasset
+[2018.06.15-17.25.11:355][695]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.06.15-17.25.11:355][695]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.06.15-17.25.11:355][695]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.15-17.25.11:355][695]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.15-17.25.11:355][695]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.15-17.25.16:453][962]LogMaterial: Warning: Material /Game/TopDownBP/Material/FloorTextures/로비바닥.로비바닥 needed to have new flag set bUsedWithStaticLighting !
+[2018.06.15-17.25.16:457][962]LogMaterial: Warning: Material /Engine/Transient.로비바닥 needed to have new flag set bUsedWithStaticLighting !
+[2018.06.15-17.25.16:459][962]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.25.16:477][962]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.25.20:638][139]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.06.15-17.25.20:638][139]MaterialEditorStats: Base pass shader with Surface Lightmap: 120 instructions
+[2018.06.15-17.25.20:638][139]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.06.15-17.25.20:638][139]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.15-17.25.20:638][139]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.15-17.25.20:638][139]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.15-17.25.24:252][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1Floor2)
+[2018.06.15-17.25.37:880][ 28]LogEditorViewport: Clicking Background
+[2018.06.15-17.25.38:030][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.15-17.25.39:002][ 33]LogSavePackage: Save=949.76ms
+[2018.06.15-17.25.39:002][ 33]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1DBA13314429852433B6FB7993C30D696.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.15-17.25.39:005][ 33]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap
+[2018.06.15-17.25.39:041][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.15-17.25.40:832][ 33]LogSavePackage: Save=1753.09ms
+[2018.06.15-17.25.40:832][ 33]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1_BuiltData6B03E23D480AE738705F628D84E15711.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.15-17.25.40:837][ 33]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.15-17.27.11:666][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1Floor2)
+[2018.06.15-17.27.26:242][285]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.27.26:242][285]LogMaterial: Warning: /Engine/Transient.로비바닥 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.06.15-17.27.26:242][285]LogMaterial: 	(Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 11
+[2018.06.15-17.27.26:243][285]MaterialEditorStats: Error: [SM5] (Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 11
+[2018.06.15-17.27.30:943][563]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.27.32:921][653]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.06.15-17.27.32:921][653]MaterialEditorStats: Base pass shader with Surface Lightmap: 120 instructions
+[2018.06.15-17.27.32:921][653]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.06.15-17.27.32:921][653]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.15-17.27.32:921][653]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.15-17.27.32:921][653]MaterialEditorStats: User interpolators: 14/16 Scalars (4/4 Vectors) (TexCoords: 14, Custom: 0)
+[2018.06.15-17.27.35:888][930]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.27.35:889][930]LogMaterial: Warning: /Engine/Transient.로비바닥 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.06.15-17.27.35:889][930]LogMaterial: 	(Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 0
+[2018.06.15-17.27.35:889][930]MaterialEditorStats: Error: [SM5] (Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 0
+[2018.06.15-17.27.36:701][974]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.27.38:331][ 49]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.06.15-17.27.38:331][ 49]MaterialEditorStats: Base pass shader with Surface Lightmap: 120 instructions
+[2018.06.15-17.27.38:331][ 49]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.06.15-17.27.38:331][ 49]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.15-17.27.38:331][ 49]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.15-17.27.38:331][ 49]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.15-17.28.23:457][657]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.28.23:474][657]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2018.06.15-17.28.23:479][657]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.28.23:548][657]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.15-17.28.23:551][657]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2018.06.15-17.28.26:564][805]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.06.15-17.28.26:564][805]MaterialEditorStats: Base pass shader with Surface Lightmap: 120 instructions
+[2018.06.15-17.28.26:564][805]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.06.15-17.28.26:564][805]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.15-17.28.26:564][805]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.15-17.28.26:564][805]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.15-17.28.32:156][ 80]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.28.32:202][ 80]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.15-17.28.45:832][622]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.28.45:848][622]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_1, compiling. 
+[2018.06.15-17.28.45:853][622]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.28.45:923][622]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.15-17.28.45:927][622]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_1, compiling. 
+[2018.06.15-17.28.47:097][673]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.28.47:138][673]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.15-17.28.52:694][273]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.28.52:710][273]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObjectParameter_0, compiling. 
+[2018.06.15-17.28.52:715][273]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.28.52:785][273]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.15-17.28.52:790][273]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObjectParameter_0, compiling. 
+[2018.06.15-17.28.54:401][340]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.06.15-17.28.54:401][340]MaterialEditorStats: Base pass shader with Surface Lightmap: 120 instructions
+[2018.06.15-17.28.54:401][340]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.06.15-17.28.54:401][340]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.15-17.28.54:401][340]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.15-17.28.54:401][340]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.15-17.28.55:569][413]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.28.55:611][413]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.15-17.29.12:128][266]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.29.12:149][266]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.29.12:191][266]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.15-17.29.12:196][266]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.29.12:238][266]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.15-17.29.12:286][267]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.06.15-17.29.13:905][364]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.06.15-17.29.13:905][364]MaterialEditorStats: Base pass shader with Surface Lightmap: 125 instructions
+[2018.06.15-17.29.13:905][364]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.06.15-17.29.13:905][364]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.15-17.29.13:905][364]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.15-17.29.13:905][364]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.15-17.29.20:087][662]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.29.20:136][662]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.15-17.29.21:405][734]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.29.21:428][734]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.15-17.29.23:145][812]MaterialEditorStats: Base pass shader: 103 instructions
+[2018.06.15-17.29.23:145][812]MaterialEditorStats: Base pass shader with Surface Lightmap: 120 instructions
+[2018.06.15-17.29.23:145][812]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 176 instructions
+[2018.06.15-17.29.23:145][812]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.15-17.29.23:145][812]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.15-17.29.23:145][812]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.15-17.32.10:246][788]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.32.10:287][788]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.15-17.32.10:642][808]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.32.10:659][808]LogMaterial: Warning: FMaterialUniformExpressionTexture had invalid TextureIndex! (0 / 0)
+[2018.06.15-17.32.12:415][888]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.06.15-17.32.12:415][888]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.06.15-17.32.12:415][888]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.06.15-17.32.12:415][888]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.06.15-17.32.12:415][888]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.32.13:854][995]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.32.13:870][995]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.06.15-17.32.13:902][995]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.06.15-17.32.15:385][ 66]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.06.15-17.32.15:385][ 66]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.06.15-17.32.15:385][ 66]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.06.15-17.32.15:385][ 66]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.06.15-17.32.15:385][ 66]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.32.26:901][833]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.32.26:976][834]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.06.15-17.32.28:451][899]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.06.15-17.32.28:451][899]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.06.15-17.32.28:451][899]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.06.15-17.32.28:451][899]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.06.15-17.32.28:451][899]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.32.31:667][161]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.32.31:668][161]LogMaterial: Warning: /Engine/Transient.로비바닥 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.06.15-17.32.31:668][161]LogMaterial: 	Function WorldAlignedNormal: Missing function input 'TextureObject'
+[2018.06.15-17.32.31:670][161]MaterialEditorStats: Error: [SM5] Function WorldAlignedNormal: Missing function input 'TextureObject'
+[2018.06.15-17.32.48:794][588]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.32.50:826][633]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.06.15-17.32.50:826][633]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.06.15-17.32.50:826][633]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.06.15-17.32.50:826][633]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.06.15-17.32.50:826][633]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.33.00:951][129]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.33.01:006][130]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.06.15-17.33.02:917][247]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.06.15-17.33.02:917][247]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2018.06.15-17.33.02:917][247]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.06.15-17.33.02:917][247]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.06.15-17.33.02:917][247]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.33.45:969][ 53]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.33.45:985][ 53]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_2, compiling. 
+[2018.06.15-17.33.45:995][ 53]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_2, compiling. 
+[2018.06.15-17.33.46:027][ 53]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.33.47:268][138]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.33.47:292][138]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_2, compiling. 
+[2018.06.15-17.33.48:554][228]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.33.50:351][351]MaterialEditorStats: Base pass shader: 107 instructions
+[2018.06.15-17.33.50:352][351]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2018.06.15-17.33.50:352][351]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.06.15-17.33.50:352][351]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.06.15-17.33.50:352][351]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.15-17.33.55:709][627]LogMaterialEditor: Saving and Compiling material 로비바닥
+[2018.06.15-17.33.56:082][627]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.33.56:134][627]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.33.56:177][627]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.33.56:221][627]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 로비바닥, compiling. 
+[2018.06.15-17.33.57:488][627]TextureStreamingBuild: Display: Compiling optional shaders took 1.271 seconds.
+[2018.06.15-17.33.59:659][627]LogSavePackage: Save=15.71ms
+[2018.06.15-17.33.59:659][627]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/로비바닥1D36A2D9470512CE15A6B9BF56F1EF76.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/로비바닥.uasset'
+[2018.06.15-17.33.59:661][627]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/로비바닥.uasset
+[2018.06.15-17.34.55:540][694]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.34.55:556][694]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.06.15-17.34.58:016][867]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.34.58:038][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.06.15-17.34.59:654][955]MaterialEditorStats: Base pass shader: 107 instructions
+[2018.06.15-17.34.59:654][955]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2018.06.15-17.34.59:654][955]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.06.15-17.34.59:654][955]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.06.15-17.34.59:654][955]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.15-17.35.29:461][ 78]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.06.15-17.35.38:505][105]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/Day1' took 0.011
+[2018.06.15-17.35.38:505][105]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Material/FloorTextures/기타방] ([1] browsable assets)...
+[2018.06.15-17.35.38:522][105]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TopDownBP/Material/FloorTextures/기타방.기타방]
+[2018.06.15-17.35.38:522][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Material/FloorTextures/기타방]
+[2018.06.15-17.35.38:538][105]LogSavePackage: Save=13.57ms
+[2018.06.15-17.35.38:538][105]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/기타방_Auto129ED316F4B9B1E4EF3E53A8A276CEFF1.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Autosaves/Game/TopDownBP/Material/FloorTextures/기타방_Auto1.uasset'
+[2018.06.15-17.35.38:539][105]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Autosaves/Game/TopDownBP/Material/FloorTextures/기타방_Auto1.uasset
+[2018.06.15-17.35.38:539][105]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Material/FloorTextures/연구실바닥] ([1] browsable assets)...
+[2018.06.15-17.35.38:555][105]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TopDownBP/Material/FloorTextures/연구실바닥.연구실바닥]
+[2018.06.15-17.35.38:555][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Material/FloorTextures/연구실바닥]
+[2018.06.15-17.35.38:569][105]LogSavePackage: Save=12.25ms
+[2018.06.15-17.35.38:569][105]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/연구실바닥_Auto181231F6641D16111E238C2982E45C870.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Autosaves/Game/TopDownBP/Material/FloorTextures/연구실바닥_Auto1.uasset'
+[2018.06.15-17.35.38:570][105]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Autosaves/Game/TopDownBP/Material/FloorTextures/연구실바닥_Auto1.uasset
+[2018.06.15-17.35.38:570][105]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Material/FloorTextures/화장실바닥] ([1] browsable assets)...
+[2018.06.15-17.35.38:586][105]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TopDownBP/Material/FloorTextures/화장실바닥.화장실바닥]
+[2018.06.15-17.35.38:586][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Material/FloorTextures/화장실바닥]
+[2018.06.15-17.35.38:600][105]LogSavePackage: Save=12.57ms
+[2018.06.15-17.35.38:600][105]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/화장실바닥_Auto11E61DD0E4A44E057235536A9C8933D15.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Autosaves/Game/TopDownBP/Material/FloorTextures/화장실바닥_Auto1.uasset'
+[2018.06.15-17.35.38:605][105]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Autosaves/Game/TopDownBP/Material/FloorTextures/화장실바닥_Auto1.uasset
+[2018.06.15-17.35.38:605][105]LogFileHelpers: Auto-saving content packages took 0.101
+[2018.06.15-17.35.57:464][406]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.35.57:480][406]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.15-17.35.57:488][406]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.15-17.35.57:520][406]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.35.57:561][406]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.15-17.35.59:531][496]MaterialEditorStats: Base pass shader: 107 instructions
+[2018.06.15-17.35.59:531][496]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2018.06.15-17.35.59:531][496]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.06.15-17.35.59:531][496]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.06.15-17.35.59:531][496]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.15-17.36.00:027][519]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.36.00:048][519]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.15-17.36.01:634][590]MaterialEditorStats: Base pass shader: 107 instructions
+[2018.06.15-17.36.01:635][590]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2018.06.15-17.36.01:635][590]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.06.15-17.36.01:635][590]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.06.15-17.36.01:635][590]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.15-17.36.04:263][729]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.36.04:286][729]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.15-17.36.04:931][756]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.36.04:953][756]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.15-17.36.05:523][780]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.36.05:546][780]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.15-17.36.06:945][845]LogMaterialEditor: Saving and Compiling material 로비바닥
+[2018.06.15-17.36.07:330][845]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.36.07:380][845]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.36.07:424][845]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.36.07:469][845]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 로비바닥, compiling. 
+[2018.06.15-17.36.08:738][845]TextureStreamingBuild: Display: Compiling optional shaders took 1.272 seconds.
+[2018.06.15-17.36.10:907][845]LogSavePackage: Save=15.59ms
+[2018.06.15-17.36.10:907][845]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/로비바닥0321F3A046332646AE97A59A263EAB32.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/로비바닥.uasset'
+[2018.06.15-17.36.10:910][845]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/로비바닥.uasset
+[2018.06.15-17.36.10:916][845]MaterialEditorStats: Base pass shader: 107 instructions
+[2018.06.15-17.36.10:916][845]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2018.06.15-17.36.10:916][845]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.06.15-17.36.10:916][845]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.06.15-17.36.10:916][845]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.15-17.36.15:281][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1Floor2)
+[2018.06.15-17.36.30:068][836]LogRenderer: Reallocating scene render targets to support 1392x1044 Format 10 NumSamples 1 (Frame:1).
+[2018.06.15-17.36.35:380][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1Floor2)
+[2018.06.15-17.36.43:977][576]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2018.06.15-17.36.47:217][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1Floor)
+[2018.06.15-17.40.38:331][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1Floor)
+[2018.06.15-17.41.05:548][759]Cmd: TRANSACTION UNDO
+[2018.06.15-17.41.05:548][759]LogEditorTransaction: Undo 액터 회전
+[2018.06.15-17.41.05:583][759]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.41.05:604][759]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.41.05:627][759]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.41.05:649][759]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.41.05:715][760]Cmd: TRANSACTION UNDO
+[2018.06.15-17.41.05:715][760]LogEditorTransaction: Undo 액터 스케일
+[2018.06.15-17.41.05:725][760]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.41.05:741][760]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.41.05:760][760]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.41.05:777][760]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.41.05:844][761]Cmd: TRANSACTION UNDO
+[2018.06.15-17.41.05:844][761]LogEditorTransaction: Undo 액터 회전
+[2018.06.15-17.41.05:853][761]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.41.05:870][761]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.41.05:888][761]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.41.05:905][761]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.41.06:023][767]Cmd: TRANSACTION UNDO
+[2018.06.15-17.41.06:023][767]LogEditorTransaction: Undo 액터 회전
+[2018.06.15-17.41.06:031][767]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.41.06:047][767]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.41.06:066][767]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.41.06:083][767]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.41.06:175][771]Cmd: TRANSACTION UNDO
+[2018.06.15-17.41.06:175][771]LogEditorTransaction: Undo 액터 클릭
+[2018.06.15-17.41.06:183][771]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.41.06:200][771]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.41.06:218][771]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.41.06:234][771]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.41.07:568][870]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.06.15-17.41.07:568][870]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.06.15-17.41.07:568][870]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.15-17.41.07:568][870]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.41.07:568][870]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.15-17.41.09:080][933]MaterialEditorStats: Base pass shader: 107 instructions
+[2018.06.15-17.41.09:080][933]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2018.06.15-17.41.09:080][933]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.06.15-17.41.09:080][933]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.06.15-17.41.09:080][933]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.15-17.41.09:241][939]LogEditorViewport: Clicking Background
+[2018.06.15-17.41.10:266][ 11]LogEditorViewport: Clicking Background
+[2018.06.15-17.41.10:327][ 12]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.06.15-17.41.10:327][ 12]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.06.15-17.41.10:327][ 12]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.15-17.41.10:327][ 12]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.41.10:327][ 12]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.15-17.41.11:550][ 66]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.06.15-17.41.11:550][ 66]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.06.15-17.41.11:550][ 66]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.15-17.41.11:550][ 66]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.41.11:550][ 66]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.15-17.42.09:856][ 73]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.42.11:387][142]LogMaterialEditor: Saving and Compiling material 로비바닥
+[2018.06.15-17.42.11:771][142]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.42.11:822][142]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.42.11:866][142]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.42.11:920][142]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 로비바닥, compiling. 
+[2018.06.15-17.42.13:242][142]TextureStreamingBuild: Display: Compiling optional shaders took 1.326 seconds.
+[2018.06.15-17.42.15:432][142]LogSavePackage: Save=15.62ms
+[2018.06.15-17.42.15:432][142]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/로비바닥0DF0AC3142C521FD4CF357902C6AA282.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/로비바닥.uasset'
+[2018.06.15-17.42.15:434][142]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/로비바닥.uasset
+[2018.06.15-17.42.15:449][142]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.06.15-17.42.15:449][142]MaterialEditorStats: Base pass shader with Surface Lightmap: 127 instructions
+[2018.06.15-17.42.15:449][142]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.06.15-17.42.15:449][142]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.06.15-17.42.15:449][142]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.15-17.43.01:726][449]LogEditorViewport: Clicking Background
+[2018.06.15-17.43.01:863][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.15-17.43.02:838][454]LogSavePackage: Save=947.22ms
+[2018.06.15-17.43.02:838][454]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1043BBEFA47119DCAC9ACFFB402A00CF7.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.15-17.43.02:841][454]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap
+[2018.06.15-17.43.02:878][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.15-17.43.03:986][454]LogSavePackage: Save=1071.52ms
+[2018.06.15-17.43.03:986][454]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1_BuiltData0DB796E14B560225D42493887BA956FC.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.15-17.43.03:991][454]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.15-17.43.10:076][787]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.15-17.43.10:237][787]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.15-17.43.10:238][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.15-17.43.10:238][787]PIE: New page: PIE 세션: Day1 (2018. 6. 16. 오전 11:43:10)
+[2018.06.15-17.43.10:238][787]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day1
+[2018.06.15-17.43.10:276][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038376s)
+[2018.06.15-17.43.10:277][787]LogAIModule: Creating AISystem for world Day1
+[2018.06.15-17.43.10:277][787]LogPlayLevel: PIE: World Init took: (0.000578s)
+[2018.06.15-17.43.10:277][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day1.Day1 to /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 (0.039333s)
+[2018.06.15-17.43.10:294][787]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.15-17.43.10:306][787]LogInit: FAudioDevice initialized.
+[2018.06.15-17.43.10:390][787]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.15-17.43.10:405][787]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day1.Day1 up for play (max tick rate 0) at 2018.06.16-02.43.10
+[2018.06.15-17.43.10:407][787]LogWorld: Bringing up level for play took: 0.015292
+[2018.06.15-17.43.10:453][787]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.06.15-17.43.10:726][787]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day1 에 대한 에디터에서 플레이 시작 시간: 1.033
+[2018.06.15-17.43.10:726][787]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.15-17.43.58:730][324]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.15-17.43.58:796][324]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1' with GeneratedClass '/Game/TopDownBP/Maps/Day1.Day1_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day1.Day1:PersistentLevel.Day1'
+[2018.06.15-17.44.02:205][500]LogEditorViewport: Clicking on Actor (LMB): 2F계단_C (2F계단)
+[2018.06.15-17.44.09:412][929]LogEditorViewport: Clicking on Actor (LMB): BP_반층_C (BP_반층)
+[2018.06.15-17.44.10:832][  4]LogEditorViewport: Clicking on Actor (LMB): 1F계단_C (1F계단)
+[2018.06.15-17.44.14:711][209]LogEditorViewport: Clicking Background
+[2018.06.15-17.44.14:870][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.15-17.44.15:825][214]LogSavePackage: Save=940.80ms
+[2018.06.15-17.44.15:825][214]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day18ECE2C824F99EF8EEF28A380D95CD2E1.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.15-17.44.15:828][214]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap
+[2018.06.15-17.44.15:866][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.15-17.44.16:944][214]LogSavePackage: Save=1075.78ms
+[2018.06.15-17.44.16:944][214]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1_BuiltDataF923E91A49934FA20EA9A9B58A385DED.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.15-17.44.16:951][214]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.15-17.44.17:990][259]LogEditorViewport: Clicking on Actor (LMB): 1F계단_C (1F계단)
+[2018.06.15-17.44.19:389][319]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.06.15-17.44.42:683][672]BlueprintLog: New page: 1F계단 컴파일
+[2018.06.15-17.44.43:298][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/1F계단" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/1F계단.uasset" SILENT=true
+[2018.06.15-17.44.43:325][692]LogSavePackage: Save=19.85ms
+[2018.06.15-17.44.43:325][692]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/1F계단9D1F938648D9FB8822DB0A88F039123E.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/1F계단.uasset'
+[2018.06.15-17.44.43:327][692]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/1F계단.uasset
+[2018.06.15-17.44.51:882][148]BlueprintLog: New page: 1F계단 컴파일
+[2018.06.15-17.44.57:811][460]BlueprintLog: New page: 1F계단 컴파일
+[2018.06.15-17.44.58:374][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/1F계단" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/1F계단.uasset" SILENT=true
+[2018.06.15-17.44.58:395][473]LogSavePackage: Save=18.17ms
+[2018.06.15-17.44.58:395][473]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/1F계단C9F185344154EE0886F9169C3BF6DAF3.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/1F계단.uasset'
+[2018.06.15-17.44.58:398][473]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/1F계단.uasset
+[2018.06.15-17.45.04:647][819]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 로비바닥_Inst, compiling. 
+[2018.06.15-17.45.05:035][819]TextureStreamingBuild: Display: Compiling optional shaders took 0.391 seconds.
+[2018.06.15-17.45.05:073][819]LogSavePackage: Save=17.97ms
+[2018.06.15-17.45.05:073][819]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/로비바닥_InstB52414CA40F27C89DF1BDEB465F3020B.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/로비바닥_Inst.uasset'
+[2018.06.15-17.45.05:075][819]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/로비바닥_Inst.uasset
+[2018.06.15-17.45.14:154][336]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.45.14:194][336]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.15-17.45.15:770][433]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.06.15-17.45.15:771][433]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.06.15-17.45.15:771][433]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.15-17.45.15:771][433]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.45.15:771][433]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.15-17.45.16:148][453]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionTextureObject /Engine/Transient.로비바닥:MaterialExpressionTextureObject_2 or MaterialExpressionTextureObject /Game/TopDownBP/Material/FloorTextures/로비바닥.로비바닥:MaterialExpressionTextureObject_2
+[2018.06.15-17.45.16:149][453]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.로비바닥:MaterialGraph_1.MaterialGraphNode_14 or MaterialGraphNode /Engine/Transient.연구실바닥:MaterialGraph_2.MaterialGraphNode_14
+[2018.06.15-17.45.16:150][453]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_14.MaterialExpressionVectorParameter_0"',InputName="TextureSize",Mask=1,MaskR=1,MaskG=1,MaskB=1))'
+[2018.06.15-17.45.16:170][453]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.45.16:184][453]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.15-17.45.17:922][584]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.06.15-17.45.17:922][584]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.06.15-17.45.17:922][584]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.15-17.45.17:922][584]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.45.17:922][584]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.15-17.45.19:047][671]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.45.19:086][671]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.15-17.45.19:089][671]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_3, compiling. 
+[2018.06.15-17.45.19:097][671]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_3, compiling. 
+[2018.06.15-17.45.19:127][671]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.45.19:128][671]LogMaterial: Warning: /Engine/Transient.연구실바닥 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.06.15-17.45.19:128][671]LogMaterial: 	Cannot force a cast between non-numeric types.
+[2018.06.15-17.45.19:155][671]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_3, compiling. 
+[2018.06.15-17.45.19:160][671]MaterialEditorStats: Error: [SM5] Cannot force a cast between non-numeric types.
+[2018.06.15-17.45.20:397][731]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.45.21:546][833]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.45.21:570][833]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_3, compiling. 
+[2018.06.15-17.45.22:882][921]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.06.15-17.45.22:882][921]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.06.15-17.45.22:882][921]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.06.15-17.45.22:882][921]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.15-17.45.23:531][989]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.45.24:919][ 82]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.06.15-17.45.24:919][ 82]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.06.15-17.45.24:919][ 82]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.06.15-17.45.24:919][ 82]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.45.31:553][441]LogMaterialEditor: Saving and Compiling material 연구실바닥
+[2018.06.15-17.45.31:925][441]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.45.31:972][441]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.45.32:000][441]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.45.32:045][441]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 연구실바닥, compiling. 
+[2018.06.15-17.45.33:171][441]TextureStreamingBuild: Display: Compiling optional shaders took 1.129 seconds.
+[2018.06.15-17.45.34:706][441]LogSavePackage: Save=14.40ms
+[2018.06.15-17.45.34:706][441]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/연구실바닥622CFACA46DDA3F8DB4C399BB1A8DA1F.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/연구실바닥.uasset'
+[2018.06.15-17.45.34:710][441]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/연구실바닥.uasset
+[2018.06.15-17.45.34:716][441]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.06.15-17.45.34:716][441]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.06.15-17.45.34:716][441]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.06.15-17.45.34:716][441]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.15-17.45.40:222][731]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.45.40:266][731]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.15-17.45.41:891][876]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.45.41:906][876]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_4, compiling. 
+[2018.06.15-17.45.41:913][876]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_4, compiling. 
+[2018.06.15-17.45.41:944][876]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.45.41:944][876]LogMaterial: Warning: /Engine/Transient.화장실바닥 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.06.15-17.45.41:944][876]LogMaterial: 	Cannot force a cast between non-numeric types.
+[2018.06.15-17.45.41:972][876]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_4, compiling. 
+[2018.06.15-17.45.41:978][876]MaterialEditorStats: Error: [SM5] Cannot force a cast between non-numeric types.
+[2018.06.15-17.45.43:258][940]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.45.44:558][ 42]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.06.15-17.45.44:558][ 42]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.06.15-17.45.44:558][ 42]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.06.15-17.45.44:558][ 42]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.15-17.45.44:636][ 46]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionTextureObject /Engine/Transient.로비바닥:MaterialExpressionTextureObject_2 or MaterialExpressionTextureObject /Game/TopDownBP/Material/FloorTextures/로비바닥.로비바닥:MaterialExpressionTextureObject_2
+[2018.06.15-17.45.44:636][ 46]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.로비바닥:MaterialGraph_1.MaterialGraphNode_14 or MaterialGraphNode /Engine/Transient.화장실바닥:MaterialGraph_3.MaterialGraphNode_14
+[2018.06.15-17.45.44:636][ 46]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.로비바닥:MaterialGraph_1.MaterialGraphNode_14 or MaterialGraphNode /Engine/Transient.연구실바닥:MaterialGraph_2.MaterialGraphNode_14
+[2018.06.15-17.45.44:636][ 46]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_14.MaterialExpressionVectorParameter_0"',InputName="TextureSize",Mask=1,MaskR=1,MaskG=1,MaskB=1))'
+[2018.06.15-17.45.44:657][ 46]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.45.44:672][ 46]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.15-17.45.45:999][154]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.06.15-17.45.45:999][154]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.06.15-17.45.45:999][154]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.06.15-17.45.45:999][154]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.15-17.45.47:089][248]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.45.47:106][248]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_4, compiling. 
+[2018.06.15-17.45.47:136][248]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.15-17.45.49:071][410]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.45.50:081][457]LogMaterialEditor: Saving and Compiling material 화장실바닥
+[2018.06.15-17.45.50:471][457]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.45.50:516][457]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.45.50:545][457]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.45.50:590][457]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 화장실바닥, compiling. 
+[2018.06.15-17.45.51:702][457]TextureStreamingBuild: Display: Compiling optional shaders took 1.116 seconds.
+[2018.06.15-17.45.53:238][457]LogSavePackage: Save=14.73ms
+[2018.06.15-17.45.53:238][457]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/화장실바닥4CE882764C9B8CD7F6766C8B95A629DD.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/화장실바닥.uasset'
+[2018.06.15-17.45.53:242][457]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/화장실바닥.uasset
+[2018.06.15-17.45.53:248][457]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.06.15-17.45.53:248][457]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.06.15-17.45.53:248][457]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.06.15-17.45.53:248][457]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.15-17.45.57:610][695]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.45.57:655][695]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.15-17.45.58:565][736]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.45.59:707][809]LogUObjectHash: Warning: Ambiguous search, could be MaterialExpressionTextureObject /Engine/Transient.로비바닥:MaterialExpressionTextureObject_2 or MaterialExpressionTextureObject /Game/TopDownBP/Material/FloorTextures/로비바닥.로비바닥:MaterialExpressionTextureObject_2
+[2018.06.15-17.45.59:707][809]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.로비바닥:MaterialGraph_1.MaterialGraphNode_14 or MaterialGraphNode /Engine/Transient.화장실바닥:MaterialGraph_3.MaterialGraphNode_14
+[2018.06.15-17.45.59:707][809]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.로비바닥:MaterialGraph_1.MaterialGraphNode_14 or MaterialGraphNode /Engine/Transient.연구실바닥:MaterialGraph_2.MaterialGraphNode_14
+[2018.06.15-17.45.59:707][809]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.로비바닥:MaterialGraph_1.MaterialGraphNode_14 or MaterialGraphNode /Engine/Transient.기타방:MaterialGraph_0.MaterialGraphNode_14
+[2018.06.15-17.45.59:707][809]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'"MaterialGraphNode_14.MaterialExpressionVectorParameter_0"',InputName="TextureSize",Mask=1,MaskR=1,MaskG=1,MaskB=1))'
+[2018.06.15-17.45.59:729][809]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.45.59:744][809]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.15-17.46.01:125][905]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.06.15-17.46.01:125][905]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.06.15-17.46.01:125][905]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.06.15-17.46.01:125][905]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.15-17.46.04:145][189]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.46.04:184][189]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.15-17.46.04:188][189]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_5, compiling. 
+[2018.06.15-17.46.04:195][189]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_5, compiling. 
+[2018.06.15-17.46.04:227][189]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.46.05:400][283]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.46.05:423][283]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_5, compiling. 
+[2018.06.15-17.46.06:589][366]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.46.07:873][426]LogMaterialEditor: Saving and Compiling material 기타방
+[2018.06.15-17.46.08:259][426]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.46.08:307][426]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.46.08:336][426]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.46.08:382][426]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 기타방, compiling. 
+[2018.06.15-17.46.09:505][426]TextureStreamingBuild: Display: Compiling optional shaders took 1.128 seconds.
+[2018.06.15-17.46.11:009][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Material/FloorTextures/기타방" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/기타방.uasset" SILENT=true
+[2018.06.15-17.46.11:026][426]LogSavePackage: Save=14.77ms
+[2018.06.15-17.46.11:026][426]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/기타방4ECEF860459BA68FA90A2494A5F224E3.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/기타방.uasset'
+[2018.06.15-17.46.11:028][426]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/기타방.uasset
+[2018.06.15-17.46.11:034][426]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.06.15-17.46.11:034][426]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.06.15-17.46.11:034][426]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.06.15-17.46.11:034][426]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.15-17.46.43:211][342]LogEditorViewport: Clicking on Actor (LMB): BP_Roof_C (1F_화장실천장)
+[2018.06.15-17.46.53:083][912]LogActorFactory: Actor Factory created Plane
+[2018.06.15-17.46.53:831][981]LogActorFactory: Actor Factory created Plane
+[2018.06.15-17.47.00:377][339]LogEditorViewport: Clicking on Actor (LMB): BP_Roof_C (1F_화장실천장)
+[2018.06.15-17.47.02:617][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.06.15-17.47.02:976][511]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2018.06.15-17.47.07:560][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1Floor)
+[2018.06.15-17.47.12:773][ 75]LogEditorViewport: Clicking on Actor (LMB): BP_Roof_C (1F_화장실천장)
+[2018.06.15-17.47.39:478][414]LogEditorViewport: Clicking on Actor (LMB): BP_Roof_C (1F_화장실천장)
+[2018.06.15-17.47.42:516][558]Cmd: TRANSACTION UNDO
+[2018.06.15-17.47.42:516][558]LogEditorTransaction: Undo 액터 클릭
+[2018.06.15-17.47.42:522][558]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.47.42:543][558]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.47.42:565][558]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.15-17.47.42:592][558]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.47.42:612][558]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.47.42:720][560]Cmd: TRANSACTION UNDO
+[2018.06.15-17.47.42:720][560]LogEditorTransaction: Undo 액터 회전
+[2018.06.15-17.47.42:724][560]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.47.42:741][560]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.47.42:760][560]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.47.42:777][560]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.47.42:966][564]Cmd: TRANSACTION UNDO
+[2018.06.15-17.47.42:966][564]LogEditorTransaction: Undo 액터 이동
+[2018.06.15-17.47.42:969][564]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.47.42:987][564]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.47.43:006][564]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.47.43:024][564]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.47.43:263][572]Cmd: TRANSACTION UNDO
+[2018.06.15-17.47.43:263][572]LogEditorTransaction: Undo 위치 설정
+[2018.06.15-17.47.43:287][572]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.47.43:305][572]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.47.43:323][572]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.47.43:340][572]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.47.44:844][636]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.06.15-17.47.44:844][636]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.06.15-17.47.44:844][636]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.06.15-17.47.44:844][636]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.47.46:359][694]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.06.15-17.47.46:359][694]MaterialEditorStats: Base pass shader with Surface Lightmap: 127 instructions
+[2018.06.15-17.47.46:359][694]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.06.15-17.47.46:359][694]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.06.15-17.47.46:359][694]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.15-17.47.47:669][745]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.06.15-17.47.47:669][745]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.06.15-17.47.47:670][745]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.06.15-17.47.47:670][745]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.47.48:954][799]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.06.15-17.47.48:955][799]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.06.15-17.47.48:955][799]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.06.15-17.47.48:955][799]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.47.53:069][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Corner_A_223)
+[2018.06.15-17.47.53:951][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Corner_A_223)
+[2018.06.15-17.47.54:654][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Corner_A_223)
+[2018.06.15-17.48.00:915][363]LogEditorViewport: Clicking on Actor (LMB): BP_Roof_C (1F_화장실천장)
+[2018.06.15-17.48.03:113][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.06.15-17.48.08:055][712]LogEditorViewport: Clicking on Actor (LMB): BP_Roof_C (1F_화장실천장)
+[2018.06.15-17.48.08:559][736]Cmd: TRANSACTION UNDO
+[2018.06.15-17.48.08:559][736]LogEditorTransaction: Undo 액터 클릭
+[2018.06.15-17.48.08:581][736]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.48.08:598][736]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.48.08:615][736]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.48.08:631][736]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.48.09:253][760]Cmd: TRANSACTION UNDO
+[2018.06.15-17.48.09:253][760]LogEditorTransaction: Undo 액터 클릭
+[2018.06.15-17.48.09:278][760]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.48.09:296][760]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.48.09:314][760]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.48.09:330][760]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.48.09:779][778]Cmd: TRANSACTION UNDO
+[2018.06.15-17.48.09:779][778]LogEditorTransaction: Undo 액터 이동
+[2018.06.15-17.48.09:803][778]LogMaterial: Missing cached shader map for material 기타방, compiling. 
+[2018.06.15-17.48.09:820][778]LogMaterial: Missing cached shader map for material 로비바닥, compiling. 
+[2018.06.15-17.48.09:838][778]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.48.09:855][778]LogMaterial: Missing cached shader map for material 화장실바닥, compiling. 
+[2018.06.15-17.48.11:363][838]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.06.15-17.48.11:363][838]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.06.15-17.48.11:363][838]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.06.15-17.48.11:363][838]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.48.12:864][898]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.06.15-17.48.12:864][898]MaterialEditorStats: Base pass shader with Surface Lightmap: 127 instructions
+[2018.06.15-17.48.12:864][898]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.06.15-17.48.12:864][898]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.06.15-17.48.12:864][898]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.15-17.48.14:154][975]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.06.15-17.48.14:154][975]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.06.15-17.48.14:154][975]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.06.15-17.48.14:154][975]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.48.15:438][ 39]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.06.15-17.48.15:438][ 39]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.06.15-17.48.15:438][ 39]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.06.15-17.48.15:438][ 39]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.15-17.49.22:734][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.06.15-17.49.43:755][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.15-17.49.44:765][798]LogSavePackage: Save=977.63ms
+[2018.06.15-17.49.44:765][798]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day112ACFD144E70DCAD7D52C9A6405F6BFE.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.15-17.49.44:768][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap
+[2018.06.15-17.49.44:804][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.15-17.49.45:921][798]LogSavePackage: Save=1070.55ms
+[2018.06.15-17.49.45:921][798]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1_BuiltDataD3E2447843728F0136A9238E24C1A6C4.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.15-17.49.45:926][798]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.15-17.49.56:451][335]LogEditorViewport: Clicking on Actor (LMB): BP_Roof_C (1F_창고천장)
+[2018.06.15-17.49.59:891][501]LogActorFactory: Actor Factory created Plane
+[2018.06.15-17.50.00:346][544]LogActorFactory: Actor Factory created Plane
+[2018.06.15-17.50.01:048][579]LogEditorViewport: Clicking on Actor (LMB): BP_Roof_C (1F_창고천장)
+[2018.06.15-17.50.04:321][836]LogEditorViewport: Clicking Background
+[2018.06.15-17.50.05:001][872]LogEditorViewport: Clicking on Actor (LMB): BP_Roof_C (1F_창고천장)
+[2018.06.15-17.50.06:698][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2018.06.15-17.50.09:188][160]LogEditorViewport: Clicking on Actor (LMB): BP_Roof_C (1F_창고천장)
+[2018.06.15-17.50.11:350][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2018.06.15-17.51.01:874][ 57]LogEditorViewport: Clicking on Actor (LMB): BP_Roof_C (1F_CCTV룸천장)
+[2018.06.15-17.51.09:796][668]LogActorFactory: Actor Factory created Plane
+[2018.06.15-17.51.10:039][694]LogActorFactory: Actor Factory created Plane
+[2018.06.15-17.51.11:211][756]LogEditorViewport: Clicking on Actor (LMB): BP_Roof_C (1F_CCTV룸천장)
+[2018.06.15-17.51.13:912][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2018.06.15-17.51.17:188][163]LogEditorViewport: Clicking on Actor (LMB): BP_Roof_C (1F_CCTV룸천장)
+[2018.06.15-17.51.19:270][311]LogEditorViewport: Clicking Background
+[2018.06.15-17.51.19:472][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2018.06.15-17.51.33:070][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2018.06.15-17.51.52:415][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_Corner_A_223)
+[2018.06.15-17.51.53:467][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame_B_200)
+[2018.06.15-17.51.54:083][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_216)
+[2018.06.15-17.52.26:509][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.15-17.52.27:503][983]LogSavePackage: Save=971.65ms
+[2018.06.15-17.52.27:503][983]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1D2CD8D3440EF15B212D02CA7CD28C644.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.15-17.52.27:506][983]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap
+[2018.06.15-17.52.27:548][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.15-17.52.28:631][983]LogSavePackage: Save=1080.52ms
+[2018.06.15-17.52.28:631][983]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1_BuiltData84849D934A45DF85A92AE0B2EE1B7F5A.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.15-17.52.28:637][983]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.15-17.52.32:908][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2Floor)
+[2018.06.15-17.52.36:845][397]LogMaterial: Warning: Material /Game/TopDownBP/Material/FloorTextures/연구실바닥.연구실바닥 needed to have new flag set bUsedWithStaticLighting !
+[2018.06.15-17.52.36:853][397]LogMaterial: Warning: Material /Engine/Transient.연구실바닥 needed to have new flag set bUsedWithStaticLighting !
+[2018.06.15-17.52.36:855][397]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.52.36:872][397]LogMaterial: Missing cached shader map for material 연구실바닥, compiling. 
+[2018.06.15-17.52.38:703][474]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.06.15-17.52.38:703][474]MaterialEditorStats: Base pass shader with Surface Lightmap: 127 instructions
+[2018.06.15-17.52.38:703][474]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.06.15-17.52.38:703][474]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.06.15-17.52.38:703][474]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.15-17.52.48:262][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2Floor2)
+[2018.06.15-17.53.15:204][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (table)
+[2018.06.15-17.53.15:753][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bottle_and_pill_15)
+[2018.06.15-17.53.17:059][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pillbottle2)
+[2018.06.15-17.53.17:611][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bottle_and_pill_15)
+[2018.06.15-17.53.24:497][824]LogEditorViewport: Clicking Background
+[2018.06.15-17.53.24:686][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.15-17.53.25:682][831]LogSavePackage: Save=974.88ms
+[2018.06.15-17.53.25:682][831]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day14A771CC2489B318EC71FB5AAB1066C50.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.15-17.53.25:685][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap
+[2018.06.15-17.53.25:720][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.15-17.53.26:788][831]LogSavePackage: Save=1065.67ms
+[2018.06.15-17.53.26:788][831]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1_BuiltData4B8160114A09E713A78C1E8FC816534A.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.15-17.53.26:794][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset
+[2018.06.15-17.53.29:907][930]LogSavePackage: Save=6.57ms
+[2018.06.15-17.53.29:907][930]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/연구실바닥1DA9C50D4C28A5D627D8B8BA64E67661.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/연구실바닥.uasset'
+[2018.06.15-17.53.29:909][930]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/연구실바닥.uasset
+[2018.06.15-17.53.29:936][930]LogSavePackage: Save=12.31ms
+[2018.06.15-17.53.29:936][930]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/기타방_InstC3659FF54F5B9442185A76BEC44FB46A.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/기타방_Inst.uasset'
+[2018.06.15-17.53.29:938][930]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/기타방_Inst.uasset
+[2018.06.15-17.53.29:963][930]LogSavePackage: Save=11.58ms
+[2018.06.15-17.53.29:963][930]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/연구실바닥_Inst7E27066945EF2EB31DB85FA1673C2CA5.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/연구실바닥_Inst.uasset'
+[2018.06.15-17.53.29:965][930]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/연구실바닥_Inst.uasset
+[2018.06.15-17.53.29:996][930]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy 화장실바닥_Inst, compiling. 
+[2018.06.15-17.53.30:366][930]TextureStreamingBuild: Display: Compiling optional shaders took 0.372 seconds.
+[2018.06.15-17.53.30:395][930]LogSavePackage: Save=12.39ms
+[2018.06.15-17.53.30:395][930]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/화장실바닥_Inst2DD9B5B64C36F6CE0FB3209FC62C42D4.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/화장실바닥_Inst.uasset'
+[2018.06.15-17.53.30:397][930]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Material/FloorTextures/화장실바닥_Inst.uasset
+[2018.06.15-17.53.52:159][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.15-17.53.53:153][ 51]LogSavePackage: Save=975.74ms
+[2018.06.15-17.53.53:153][ 51]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1474DC6BE46E3111A3BDC5990FEA5D9D0.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap'
+[2018.06.15-17.53.53:157][ 51]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1.umap
+[2018.06.15-17.53.53:192][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day1_BuiltData" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset" SILENT=true
+[2018.06.15-17.53.54:265][ 51]LogSavePackage: Save=1071.15ms
+[2018.06.15-17.53.54:265][ 51]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day1_BuiltData18E6EFC242BD52E96BE181B8E36922BE.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset'
+[2018.06.15-17.53.54:271][ 51]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day1_BuiltData.uasset
