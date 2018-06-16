@@ -695,3 +695,812 @@ LogInit: Object subsystem initialized
 [2018.06.16-15.23.51:513][791]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day5C78DF3CE470316C0A3DC2A88CA6F5627.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap'
 [2018.06.16-15.23.51:521][791]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap
 [2018.06.16-15.23.53:989][902]LogEditorViewport: Clicking Background
+[2018.06.16-15.30.14:223][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2018.06.16-15.30.24:934][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2018.06.16-15.30.25:588][737]LogEditorViewport: Clicking on Actor (LMB): 정문자동문_C (정문자동문)
+[2018.06.16-15.30.32:263][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2018.06.16-15.30.36:382][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2Floor5)
+[2018.06.16-15.30.36:831][250]Cmd: EDIT COPY
+[2018.06.16-15.30.36:974][257]Cmd: EDIT PASTE
+[2018.06.16-15.30.58:787][268]Cmd: TRANSACTION UNDO
+[2018.06.16-15.30.58:787][268]LogEditorTransaction: Undo 위치 설정
+[2018.06.16-15.30.58:999][273]Cmd: TRANSACTION UNDO
+[2018.06.16-15.30.58:999][273]LogEditorTransaction: Undo 액터 회전
+[2018.06.16-15.30.59:167][277]Cmd: TRANSACTION UNDO
+[2018.06.16-15.30.59:167][277]LogEditorTransaction: Undo 액터 회전
+[2018.06.16-15.30.59:333][281]Cmd: TRANSACTION UNDO
+[2018.06.16-15.30.59:333][281]LogEditorTransaction: Undo 붙여넣기
+[2018.06.16-15.30.59:497][285]Cmd: TRANSACTION UNDO
+[2018.06.16-15.30.59:497][285]LogEditorTransaction: Undo 액터 클릭
+[2018.06.16-15.30.59:693][293]Cmd: TRANSACTION UNDO
+[2018.06.16-15.30.59:693][293]LogEditorTransaction: Undo 액터 클릭
+[2018.06.16-15.31.00:072][310]Cmd: TRANSACTION UNDO
+[2018.06.16-15.31.00:072][310]LogEditorTransaction: Undo 액터 클릭
+[2018.06.16-15.31.00:350][322]Cmd: TRANSACTION UNDO
+[2018.06.16-15.31.00:350][322]LogEditorTransaction: Undo 액터 클릭
+[2018.06.16-15.31.00:586][332]Cmd: TRANSACTION UNDO
+[2018.06.16-15.31.00:586][332]LogEditorTransaction: Undo 액터 이동
+[2018.06.16-15.31.00:992][352]Cmd: TRANSACTION UNDO
+[2018.06.16-15.31.00:992][352]LogEditorTransaction: Undo 액터 이동
+[2018.06.16-15.31.02:529][424]Cmd: TRANSACTION UNDO
+[2018.06.16-15.31.02:529][424]LogEditorTransaction: Undo 액터 스케일
+[2018.06.16-15.31.21:152][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2Floor5)
+[2018.06.16-15.31.24:800][462]Cmd: TRANSACTION UNDO
+[2018.06.16-15.31.24:800][462]LogEditorTransaction: Undo 액터 스케일
+[2018.06.16-15.31.36:198][ 16]Cmd: MODE GRID=0
+[2018.06.16-15.31.36:763][ 44]Cmd: MODE GRID=1
+[2018.06.16-15.31.43:600][412]LogEditorViewport: Clicking Background
+[2018.06.16-15.31.44:092][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2Floor5)
+[2018.06.16-15.31.56:799][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2018.06.16-15.31.58:648][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.06.16-15.32.01:587][220]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube5)
+[2018.06.16-15.32.02:484][253]Cmd: EDIT COPY
+[2018.06.16-15.32.02:726][264]Cmd: EDIT PASTE
+[2018.06.16-15.32.16:149][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2018.06.16-15.32.16:912][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2018.06.16-15.32.23:336][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2018.06.16-15.32.23:480][260]Cmd: DELETE
+[2018.06.16-15.32.23:480][260]Cmd: ACTOR DELETE
+[2018.06.16-15.32.23:493][260]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.16-15.32.23:516][260]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.06.16-15.32.23:868][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2018.06.16-15.32.24:391][302]Cmd: EDIT COPY
+[2018.06.16-15.32.24:578][310]Cmd: EDIT PASTE
+[2018.06.16-15.32.36:255][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.06.16-15.32.37:541][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2018.06.16-15.32.38:092][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.06.16-15.32.38:496][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2018.06.16-15.32.40:290][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2018.06.16-15.32.41:353][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2018.06.16-15.32.43:927][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2018.06.16-15.32.49:847][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2018.06.16-15.33.10:016][464]LogEditorViewport: Clicking Background
+[2018.06.16-15.33.12:393][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2018.06.16-15.33.33:876][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2Floor5)
+[2018.06.16-15.33.35:870][693]Cmd: EDIT COPY
+[2018.06.16-15.33.36:047][700]Cmd: EDIT PASTE
+[2018.06.16-15.33.47:877][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2018.06.16-15.33.50:180][366]Cmd: TRANSACTION UNDO
+[2018.06.16-15.33.50:180][366]LogEditorTransaction: Undo 액터 이동
+[2018.06.16-15.33.52:690][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2018.06.16-15.33.55:419][603]Cmd: TRANSACTION UNDO
+[2018.06.16-15.33.55:419][603]LogEditorTransaction: Undo 액터 스케일
+[2018.06.16-15.34.16:278][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2018.06.16-15.34.31:647][353]LogEditorViewport: Clicking Background
+[2018.06.16-15.34.40:658][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2018.06.16-15.34.44:616][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2018.06.16-15.34.51:490][299]LogEditorViewport: Clicking Background
+[2018.06.16-15.34.52:961][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2018.06.16-15.35.01:946][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2018.06.16-15.35.03:395][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2018.06.16-15.35.03:912][881]LogEditorViewport: Clicking Background
+[2018.06.16-15.35.06:051][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2018.06.16-15.35.11:503][227]Cmd: MODE GRID=0
+[2018.06.16-15.35.12:133][262]Cmd: MODE GRID=1
+[2018.06.16-15.35.13:923][344]LogEditorViewport: Clicking Background
+[2018.06.16-15.35.23:883][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.06.16-15.35.26:733][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2Floor3)
+[2018.06.16-15.35.29:905][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.06.16-15.35.36:153][387]LogEditorViewport: Clicking Background
+[2018.06.16-15.35.36:668][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.06.16-15.35.41:026][628]LogEditorViewport: Clicking Background
+[2018.06.16-15.35.42:033][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.06.16-15.35.44:838][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.06.16-15.35.46:464][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.06.16-15.35.46:833][913]LogEditorViewport: Clicking Background
+[2018.06.16-15.35.47:880][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.06.16-15.35.50:433][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.06.16-15.35.50:766][115]LogEditorViewport: Clicking Background
+[2018.06.16-15.35.54:614][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.06.16-15.35.59:597][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.06.16-15.36.00:172][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.06.16-15.36.03:058][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.06.16-15.36.03:498][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.06.16-15.36.09:440][987]LogEditorViewport: Clicking Background
+[2018.06.16-15.36.16:313][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2018.06.16-15.36.18:406][406]Cmd: TRANSACTION UNDO
+[2018.06.16-15.36.18:406][406]LogEditorTransaction: Undo 액터 스케일
+[2018.06.16-15.36.30:942][994]Cmd: TRANSACTION UNDO
+[2018.06.16-15.36.30:942][994]LogEditorTransaction: Undo 액터 스케일
+[2018.06.16-15.36.31:610][ 14]Cmd: TRANSACTION UNDO
+[2018.06.16-15.36.31:610][ 14]LogEditorTransaction: Undo 액터 이동
+[2018.06.16-15.36.35:345][181]LogEditorViewport: Clicking Background
+[2018.06.16-15.36.35:675][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2018.06.16-15.36.36:644][238]Cmd: EDIT COPY
+[2018.06.16-15.36.37:105][260]Cmd: EDIT PASTE
+[2018.06.16-15.36.44:234][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2018.06.16-15.37.03:110][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2018.06.16-15.37.03:444][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2018.06.16-15.37.11:848][898]LogEditorViewport: Clicking Background
+[2018.06.16-15.37.13:819][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2018.06.16-15.37.33:437][954]LogEditorViewport: Clicking Background
+[2018.06.16-15.37.34:551][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2018.06.16-15.37.38:728][201]LogEditorViewport: Clicking Background
+[2018.06.16-15.38.45:779][298]LogSavePackage: Save=2141.67ms
+[2018.06.16-15.38.45:779][298]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day5_Auto1DE62918B4C15DA8B6D9214A4BF5F6E46.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Autosaves/Game/TopDownBP/Maps/Day5_Auto1.umap'
+[2018.06.16-15.38.45:786][298]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Autosaves/Game/TopDownBP/Maps/Day5_Auto1.umap
+[2018.06.16-15.38.45:788][298]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/Day5' took 2.220
+[2018.06.16-15.38.45:788][298]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.220
+[2018.06.16-15.40.36:725][906]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.16-15.40.36:745][906]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.16-15.40.36:745][906]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.16-15.40.36:745][906]PIE: New page: PIE 세션: Day5 (2018. 6. 17. 오전 9:40:36)
+[2018.06.16-15.40.36:745][906]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day5
+[2018.06.16-15.40.36:786][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040733s)
+[2018.06.16-15.40.36:787][906]LogAIModule: Creating AISystem for world Day5
+[2018.06.16-15.40.36:787][906]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2018.06.16-15.40.36:787][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day5.Day5 to /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5 (0.041985s)
+[2018.06.16-15.40.36:816][906]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.16-15.40.36:829][906]LogInit: FAudioDevice initialized.
+[2018.06.16-15.40.36:905][906]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.16-15.40.36:920][906]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5 up for play (max tick rate 0) at 2018.06.17-00.40.36
+[2018.06.16-15.40.36:921][906]LogWorld: Bringing up level for play took: 0.015398
+[2018.06.16-15.40.37:532][906]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day5 에 대한 에디터에서 플레이 시작 시간: 1.212
+[2018.06.16-15.40.37:533][906]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.16-15.41.00:141][201]LogScript: Warning: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController:0337
+[2018.06.16-15.41.00:141][201]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.06.16-15.41.00:141][201]LogScript: Warning: None 에 접근
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController:034C
+[2018.06.16-15.41.00:141][201]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: None 에 접근
+[2018.06.16-15.41.00:141][201]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:NavigationSystem_0 Controller:TopDownController_C_0 controlling Pawn:None (if any of these is None then there's your problem
+[2018.06.16-15.41.00:155][202]LogScript: Warning: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController:0337
+[2018.06.16-15.41.00:155][202]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.06.16-15.41.00:155][202]LogScript: Warning: None 에 접근
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController:034C
+[2018.06.16-15.41.00:155][202]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: None 에 접근
+[2018.06.16-15.41.00:155][202]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:NavigationSystem_0 Controller:TopDownController_C_0 controlling Pawn:None (if any of these is None then there's your problem
+[2018.06.16-15.41.00:170][203]LogScript: Warning: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController:0337
+[2018.06.16-15.41.00:170][203]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.06.16-15.41.00:170][203]LogScript: Warning: None 에 접근
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController:034C
+[2018.06.16-15.41.00:170][203]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: None 에 접근
+[2018.06.16-15.41.00:170][203]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:NavigationSystem_0 Controller:TopDownController_C_0 controlling Pawn:None (if any of these is None then there's your problem
+[2018.06.16-15.41.00:185][204]LogScript: Warning: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController:0337
+[2018.06.16-15.41.00:185][204]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.06.16-15.41.00:185][204]LogScript: Warning: None 에 접근
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController:034C
+[2018.06.16-15.41.00:185][204]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: None 에 접근
+[2018.06.16-15.41.00:185][204]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:NavigationSystem_0 Controller:TopDownController_C_0 controlling Pawn:None (if any of these is None then there's your problem
+[2018.06.16-15.41.00:199][205]LogScript: Warning: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController:0337
+[2018.06.16-15.41.00:199][205]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.06.16-15.41.00:200][205]LogScript: Warning: None 에 접근
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController:034C
+[2018.06.16-15.41.00:200][205]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: None 에 접근
+[2018.06.16-15.41.00:200][205]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:NavigationSystem_0 Controller:TopDownController_C_0 controlling Pawn:None (if any of these is None then there's your problem
+[2018.06.16-15.41.00:214][206]LogScript: Warning: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController:0337
+[2018.06.16-15.41.00:214][206]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.06.16-15.41.00:214][206]LogScript: Warning: None 에 접근
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController:034C
+[2018.06.16-15.41.00:214][206]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: None 에 접근
+[2018.06.16-15.41.00:214][206]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:NavigationSystem_0 Controller:TopDownController_C_0 controlling Pawn:None (if any of these is None then there's your problem
+[2018.06.16-15.41.00:229][207]LogScript: Warning: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController:0337
+[2018.06.16-15.41.00:229][207]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.06.16-15.41.00:229][207]LogScript: Warning: None 에 접근
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController:034C
+[2018.06.16-15.41.00:229][207]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: None 에 접근
+[2018.06.16-15.41.00:229][207]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:NavigationSystem_0 Controller:TopDownController_C_0 controlling Pawn:None (if any of these is None then there's your problem
+[2018.06.16-15.41.00:243][208]LogScript: Warning: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController:0337
+[2018.06.16-15.41.00:243][208]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.06.16-15.41.00:243][208]LogScript: Warning: None 에 접근
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController:034C
+[2018.06.16-15.41.00:243][208]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: None 에 접근
+[2018.06.16-15.41.00:243][208]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:NavigationSystem_0 Controller:TopDownController_C_0 controlling Pawn:None (if any of these is None then there's your problem
+[2018.06.16-15.41.00:258][209]LogScript: Warning: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TopDownController_C /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5:PersistentLevel.TopDownController_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownController.TopDownController_C:ExecuteUbergraph_TopDownController:0337
+[2018.06.16-15.41.00:258][209]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.06.16-15.41.00:258][209]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: None 에 접근
+[2018.06.16-15.41.00:258][209]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:NavigationSystem_0 Controller:TopDownController_C_0 controlling Pawn:None (if any of these is None then there's your problem
+[2018.06.16-15.41.00:272][210]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.06.16-15.41.00:272][210]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: None 에 접근
+[2018.06.16-15.41.00:273][210]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:NavigationSystem_0 Controller:TopDownController_C_0 controlling Pawn:None (if any of these is None then there's your problem
+[2018.06.16-15.41.00:287][211]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.06.16-15.41.00:287][211]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: None 에 접근
+[2018.06.16-15.41.00:287][211]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:NavigationSystem_0 Controller:TopDownController_C_0 controlling Pawn:None (if any of these is None then there's your problem
+[2018.06.16-15.41.00:302][212]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.06.16-15.41.00:302][212]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: None 에 접근
+[2018.06.16-15.41.00:302][212]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:NavigationSystem_0 Controller:TopDownController_C_0 controlling Pawn:None (if any of these is None then there's your problem
+[2018.06.16-15.41.00:316][213]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.06.16-15.41.00:316][213]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: None 에 접근
+[2018.06.16-15.41.00:316][213]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:NavigationSystem_0 Controller:TopDownController_C_0 controlling Pawn:None (if any of these is None then there's your problem
+[2018.06.16-15.41.02:853][394]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.06.16-15.41.02:853][394]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: None 에 접근
+[2018.06.16-15.41.02:853][394]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:NavigationSystem_0 Controller:TopDownController_C_0 controlling Pawn:None (if any of these is None then there's your problem
+[2018.06.16-15.41.02:868][395]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.06.16-15.41.02:868][395]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: None 에 접근
+[2018.06.16-15.41.02:868][395]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:NavigationSystem_0 Controller:TopDownController_C_0 controlling Pawn:None (if any of these is None then there's your problem
+[2018.06.16-15.41.02:882][396]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.06.16-15.41.02:882][396]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: None 에 접근
+[2018.06.16-15.41.02:882][396]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:NavigationSystem_0 Controller:TopDownController_C_0 controlling Pawn:None (if any of these is None then there's your problem
+[2018.06.16-15.41.02:896][397]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.06.16-15.41.02:896][397]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: None 에 접근
+[2018.06.16-15.41.02:896][397]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:NavigationSystem_0 Controller:TopDownController_C_0 controlling Pawn:None (if any of these is None then there's your problem
+[2018.06.16-15.41.02:910][398]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.06.16-15.41.02:911][398]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: None 에 접근
+[2018.06.16-15.41.02:911][398]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:NavigationSystem_0 Controller:TopDownController_C_0 controlling Pawn:None (if any of these is None then there's your problem
+[2018.06.16-15.41.02:925][399]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.06.16-15.41.02:925][399]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: None 에 접근
+[2018.06.16-15.41.02:925][399]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:NavigationSystem_0 Controller:TopDownController_C_0 controlling Pawn:None (if any of these is None then there's your problem
+[2018.06.16-15.41.02:939][400]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.06.16-15.41.02:939][400]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: None 에 접근
+[2018.06.16-15.41.02:939][400]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:NavigationSystem_0 Controller:TopDownController_C_0 controlling Pawn:None (if any of these is None then there's your problem
+[2018.06.16-15.41.02:953][401]PIE: Error: 블루프린트 런타임 오류: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다. 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: K2Node_DynamicCast_AsTop_Down_Character2 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+[2018.06.16-15.41.02:953][401]PIE: Error: 블루프린트 런타임 오류: None 에 접근 다음 함수에서: 'ExecuteUbergraph_TopDownController' 노드: Simple Move to Location 그래프: EventGraph 오브젝트: TopDownController 설명: None 에 접근
+[2018.06.16-15.41.02:953][401]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:NavigationSystem_0 Controller:TopDownController_C_0 controlling Pawn:None (if any of these is None then there's your problem
+[2018.06.16-15.41.04:500][508]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.16-15.41.04:543][508]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.16-15.41.24:312][474]LogEditorViewport: Clicking on Actor (LMB): 건물배치도_C (건물배치도2)
+[2018.06.16-15.41.29:734][725]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.16-15.41.29:755][725]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.16-15.41.29:755][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.16-15.41.29:755][725]PIE: New page: PIE 세션: Day5 (2018. 6. 17. 오전 9:41:29)
+[2018.06.16-15.41.29:755][725]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day5
+[2018.06.16-15.41.29:795][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040282s)
+[2018.06.16-15.41.29:796][725]LogAIModule: Creating AISystem for world Day5
+[2018.06.16-15.41.29:796][725]LogPlayLevel: PIE: World Init took: (0.000553s)
+[2018.06.16-15.41.29:796][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day5.Day5 to /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5 (0.041237s)
+[2018.06.16-15.41.29:822][725]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.16-15.41.29:833][725]LogInit: FAudioDevice initialized.
+[2018.06.16-15.41.29:896][725]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.16-15.41.29:910][725]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5 up for play (max tick rate 0) at 2018.06.17-00.41.29
+[2018.06.16-15.41.29:912][725]LogWorld: Bringing up level for play took: 0.014996
+[2018.06.16-15.41.30:523][725]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day5 에 대한 에디터에서 플레이 시작 시간: 0.202
+[2018.06.16-15.41.30:523][725]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.16-15.42.37:271][289]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.16-15.42.37:342][289]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.16-15.43.23:485][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2Floor4)
+[2018.06.16-15.43.37:157][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2018.06.16-15.43.37:572][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2Floor6)
+[2018.06.16-15.43.44:081][547]LogEditorViewport: Clicking Background
+[2018.06.16-15.43.45:161][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2Floor5)
+[2018.06.16-15.44.00:150][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2Floor5)
+[2018.06.16-15.44.18:895][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2018.06.16-15.44.19:385][245]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube11)
+[2018.06.16-15.44.30:272][765]LogEditorViewport: Clicking Background
+[2018.06.16-15.44.30:733][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2018.06.16-15.44.33:474][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2018.06.16-15.44.35:520][989]Cmd: DELETE
+[2018.06.16-15.44.35:520][989]Cmd: ACTOR DELETE
+[2018.06.16-15.44.35:533][989]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.16-15.44.35:557][989]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.06.16-15.44.38:181][115]Cmd: TRANSACTION UNDO
+[2018.06.16-15.44.38:181][115]LogEditorTransaction: Undo 액터 삭제
+[2018.06.16-15.44.39:545][179]Cmd: DELETE
+[2018.06.16-15.44.39:545][179]Cmd: ACTOR DELETE
+[2018.06.16-15.44.39:558][179]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.16-15.44.39:579][179]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.06.16-15.44.40:187][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2018.06.16-15.44.40:496][219]LogEditorViewport: Clicking Background
+[2018.06.16-15.44.41:514][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2Floor6)
+[2018.06.16-15.44.43:255][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2Floor6)
+[2018.06.16-15.44.47:239][522]LogEditorViewport: Clicking Background
+[2018.06.16-15.44.55:517][945]LogEditorViewport: Clicking Background
+[2018.06.16-15.44.56:582][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2018.06.16-15.44.57:011][ 18]LogEditorViewport: Clicking Background
+[2018.06.16-15.45.18:132][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2018.06.16-15.45.19:371][108]Cmd: EDIT COPY
+[2018.06.16-15.45.19:585][114]Cmd: EDIT PASTE
+[2018.06.16-15.45.49:454][515]LogEditorViewport: Clicking Background
+[2018.06.16-15.45.55:604][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.46.17:945][919]LogEditorViewport: Clicking Background
+[2018.06.16-15.46.19:680][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.46.36:401][772]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume)
+[2018.06.16-15.46.43:938][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.46.49:703][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2018.06.16-15.47.02:385][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2018.06.16-15.47.04:550][101]LogEditorViewport: Clicking Background
+[2018.06.16-15.47.05:985][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2018.06.16-15.47.09:260][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.47.44:017][ 49]LogEditorViewport: Clicking Background
+[2018.06.16-15.47.47:560][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2018.06.16-15.47.50:008][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2018.06.16-15.47.50:410][337]LogEditorViewport: Clicking Background
+[2018.06.16-15.47.59:203][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.48.21:131][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.48.37:154][626]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube14)
+[2018.06.16-15.48.40:508][831]LogEditorViewport: Clicking Background
+[2018.06.16-15.48.41:076][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.48.41:814][889]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube14)
+[2018.06.16-15.48.45:094][ 79]LogEditorViewport: Clicking Background
+[2018.06.16-15.48.45:447][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.48.45:874][114]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube14)
+[2018.06.16-15.48.47:430][207]LogEditorViewport: Clicking Background
+[2018.06.16-15.48.47:762][222]LogEditorViewport: Clicking on Actor (LMB): 자동개폐문_C (자동개폐문)
+[2018.06.16-15.48.48:296][246]LogEditorViewport: Clicking Background
+[2018.06.16-15.48.48:759][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.48.53:130][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.48.58:991][748]LogEditorViewport: Clicking Background
+[2018.06.16-15.49.02:736][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.49.14:747][522]LogEditorViewport: Clicking Background
+[2018.06.16-15.49.32:046][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.49.46:891][ 90]LogEditorViewport: Clicking Background
+[2018.06.16-15.49.48:525][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.49.50:954][293]LogEditorViewport: Clicking Background
+[2018.06.16-15.50.00:718][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.50.21:467][764]LogEditorViewport: Clicking Background
+[2018.06.16-15.50.23:096][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.50.50:524][130]LogEditorViewport: Clicking on Actor (LMB): 자동개폐문_C (자동개폐문)
+[2018.06.16-15.50.57:070][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2018.06.16-15.50.57:651][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.51.07:116][934]LogEditorViewport: Clicking Background
+[2018.06.16-15.51.08:111][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.51.14:474][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.51.27:646][908]LogEditorViewport: Clicking Background
+[2018.06.16-15.51.29:008][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.51.36:608][359]LogEditorViewport: Clicking Background
+[2018.06.16-15.51.40:953][574]LogEditorViewport: Clicking on Actor (LMB): 자동개폐문_C (자동개폐문)
+[2018.06.16-15.51.46:013][813]LogEditorViewport: Clicking on Actor (LMB): 자동개폐문_C (1F_관리사무실문)
+[2018.06.16-15.52.12:500][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.52.16:146][236]LogEditorViewport: Clicking on Actor (LMB): 자동개폐문_C (자동개폐문)
+[2018.06.16-15.52.19:092][371]Cmd: EDIT COPY
+[2018.06.16-15.52.19:287][380]Cmd: EDIT PASTE
+[2018.06.16-15.52.35:390][156]LogEditorViewport: Clicking Background
+[2018.06.16-15.52.43:603][565]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.52.44:110][585]Cmd: EDIT COPY
+[2018.06.16-15.52.44:300][593]Cmd: EDIT PASTE
+[2018.06.16-15.53.11:956][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.53.12:598][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.53.13:032][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2018.06.16-15.53.15:476][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.53.19:330][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2018.06.16-15.53.23:781][421]Cmd: EDIT COPY
+[2018.06.16-15.53.23:961][429]Cmd: EDIT PASTE
+[2018.06.16-15.53.34:807][956]LogEditorViewport: Clicking on Actor (LMB): 자동개폐문_C (자동개폐문)
+[2018.06.16-15.53.47:877][560]LogEditorViewport: Clicking on Actor (LMB): 자동개폐문_C (자동개폐문2)
+[2018.06.16-15.53.50:585][686]Cmd: DELETE
+[2018.06.16-15.53.50:585][686]Cmd: ACTOR DELETE
+[2018.06.16-15.53.50:598][686]LogEditorActor: Deleted Actor: 자동개폐문_C
+[2018.06.16-15.53.50:627][686]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2018.06.16-15.53.51:029][706]LogEditorViewport: Clicking on Actor (LMB): 자동개폐문_C (자동개폐문)
+[2018.06.16-15.53.51:397][722]Cmd: DELETE
+[2018.06.16-15.53.51:397][722]Cmd: ACTOR DELETE
+[2018.06.16-15.53.51:410][722]LogEditorActor: Deleted Actor: 자동개폐문_C
+[2018.06.16-15.53.51:433][722]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.06.16-15.53.54:020][880]Cmd: TRANSACTION UNDO
+[2018.06.16-15.53.54:020][880]LogEditorTransaction: Undo 액터 생성
+[2018.06.16-15.53.54:616][906]LogEditorViewport: Clicking Background
+[2018.06.16-15.53.54:818][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day5" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.16-15.53.57:000][914]LogSavePackage: Save=2111.01ms
+[2018.06.16-15.53.57:000][914]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day5B8755AD94FAF8B88870F619501ACB887.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap'
+[2018.06.16-15.53.57:008][914]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap
+[2018.06.16-15.53.59:365][ 31]BlueprintLog: New page: 자동개폐문 컴파일
+[2018.06.16-15.54.00:623][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/자동개폐문" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/자동개폐문.uasset" SILENT=true
+[2018.06.16-15.54.00:717][ 31]LogSavePackage: Save=87.46ms
+[2018.06.16-15.54.00:717][ 31]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/자동개폐문7504868745C2BC8C590B5F830DDC4F89.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/자동개폐문.uasset'
+[2018.06.16-15.54.00:718][ 31]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/자동개폐문.uasset
+[2018.06.16-15.54.03:022][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day5" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.16-15.54.05:162][ 84]LogSavePackage: Save=2112.44ms
+[2018.06.16-15.54.05:162][ 84]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day5EBEE8BF94A41726084FC2A8E320C0CE3.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap'
+[2018.06.16-15.54.05:170][ 84]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap
+[2018.06.16-15.54.05:203][ 84]LogFileHelpers: Saving map 'Day5' took 2.288
+[2018.06.16-15.54.15:615][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2018.06.16-15.54.16:659][625]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube14)
+[2018.06.16-15.54.17:122][644]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube15)
+[2018.06.16-15.54.18:310][691]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube16)
+[2018.06.16-15.54.18:602][698]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube8)
+[2018.06.16-15.54.18:923][707]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (2Floor6)
+[2018.06.16-15.54.19:521][732]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube12)
+[2018.06.16-15.54.20:618][782]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (2Floor5)
+[2018.06.16-15.54.21:124][803]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube7)
+[2018.06.16-15.54.24:054][928]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube6)
+[2018.06.16-15.54.24:413][937]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube5)
+[2018.06.16-15.54.25:596][981]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (2Floor4)
+[2018.06.16-15.54.25:949][990]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (2Floor3)
+[2018.06.16-15.54.26:206][996]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube3)
+[2018.06.16-15.54.28:894][109]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube4)
+[2018.06.16-15.54.29:225][122]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube9)
+[2018.06.16-15.54.35:951][423]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Linear_Stair_브러시_StaticMesh)
+[2018.06.16-15.54.36:782][451]LogEditorViewport: Clicking on Actor (CTRL LMB): 지하계단_C (지하계단)
+[2018.06.16-15.54.37:444][480]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Linear_Stair_브러시_StaticMesh)
+[2018.06.16-15.54.37:930][501]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube2)
+[2018.06.16-15.54.38:477][525]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube)
+[2018.06.16-15.54.57:562][415]LogEditorViewport: Clicking Background
+[2018.06.16-15.55.01:084][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day5" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.16-15.55.03:206][530]LogSavePackage: Save=2096.98ms
+[2018.06.16-15.55.03:206][530]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day5C1BDF5784730863EA5E4EAAB4676E229.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap'
+[2018.06.16-15.55.03:214][530]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap
+[2018.06.16-15.55.03:249][530]LogFileHelpers: Saving map 'Day5' took 2.268
+[2018.06.16-15.57.03:609][251]LogActorFactory: Actor Factory created SM_DoorFrame_200
+[2018.06.16-15.57.04:204][310]LogActorFactory: Actor Factory created SM_DoorFrame_200
+[2018.06.16-15.57.04:866][338]LogActorFactory: Actor Factory created SM_DoorFrame_400
+[2018.06.16-15.57.05:962][440]LogActorFactory: Actor Factory created SM_DoorFrame_400
+[2018.06.16-15.57.07:473][585]LogActorFactory: Actor Factory created SM_DoorFrame_400
+[2018.06.16-15.57.07:933][604]Cmd: TRANSACTION UNDO
+[2018.06.16-15.57.07:933][604]LogEditorTransaction: Undo 액터 생성
+[2018.06.16-15.57.08:211][613]Cmd: TRANSACTION UNDO
+[2018.06.16-15.57.08:211][613]LogEditorTransaction: Undo 액터 생성
+[2018.06.16-15.57.12:579][785]LogActorFactory: Actor Factory created SM_Door_C1
+[2018.06.16-15.57.16:592][223]LogActorFactory: Actor Factory created SM_Door_C1
+[2018.06.16-15.57.21:074][423]LogStaticMesh: SM_Door_B2_Left 스태틱 메시 빌드중...
+[2018.06.16-15.57.21:091][423]LogStaticMesh: Built static mesh [0.02s] /Game/LowPolyHospital/Meshes/SM_Door_B2_Left.SM_Door_B2_Left
+[2018.06.16-15.57.21:184][430]LogActorFactory: Actor Factory created SM_Door_B2_Left
+[2018.06.16-15.57.21:950][503]LogActorFactory: Actor Factory created SM_Door_B2_Left
+[2018.06.16-15.57.22:603][532]LogActorFactory: Actor Factory created SM_Door_B2_Right
+[2018.06.16-15.57.23:785][647]LogActorFactory: Actor Factory created SM_Door_B2_Right
+[2018.06.16-15.57.24:943][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_C1)
+[2018.06.16-15.57.25:456][719]Cmd: DELETE
+[2018.06.16-15.57.25:456][719]Cmd: ACTOR DELETE
+[2018.06.16-15.57.25:469][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.16-15.57.25:493][719]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2018.06.16-15.57.26:064][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_B2_Right)
+[2018.06.16-15.57.28:005][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_B2_Left)
+[2018.06.16-15.57.43:721][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2Floor6)
+[2018.06.16-15.57.44:036][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_B2_Right)
+[2018.06.16-15.57.50:648][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_B2_Left)
+[2018.06.16-15.57.59:454][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_B2_Right)
+[2018.06.16-15.58.05:603][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2018.06.16-15.58.06:264][660]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_B2_Right)
+[2018.06.16-15.58.07:828][732]LogEditorViewport: Clicking Background
+[2018.06.16-15.58.11:355][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_B2_Right)
+[2018.06.16-15.58.13:879][ 11]LogEditorViewport: Clicking Background
+[2018.06.16-15.58.17:219][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_B2_Right)
+[2018.06.16-15.58.17:580][169]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Door_B2_Left)
+[2018.06.16-15.58.20:619][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2018.06.16-15.58.21:041][331]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube16)
+[2018.06.16-15.58.24:419][469]Cmd: TRANSACTION UNDO
+[2018.06.16-15.58.24:419][469]LogEditorTransaction: Undo 액터 스케일
+[2018.06.16-15.58.24:870][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2018.06.16-15.58.29:453][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_B2_Right)
+[2018.06.16-15.58.31:535][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2018.06.16-15.58.47:135][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2018.06.16-15.59.05:318][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2018.06.16-15.59.06:969][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2018.06.16-15.59.12:424][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2018.06.16-15.59.15:745][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2018.06.16-15.59.22:695][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door_B2_Right)
+[2018.06.16-15.59.23:106][ 79]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Door_B2_Left)
+[2018.06.16-15.59.25:254][174]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.06.16-15.59.25:646][191]LogEditorViewport: Clicking Background
+[2018.06.16-15.59.26:586][230]LogEditorViewport: Clicking Background
+[2018.06.16-15.59.29:753][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1Floor)
+[2018.06.16-15.59.30:878][412]LogEditorViewport: Clicking Background
+[2018.06.16-15.59.31:262][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day5" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.16-15.59.33:439][422]LogSavePackage: Save=2105.37ms
+[2018.06.16-15.59.33:439][422]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day59B415ACE4A152309A4C891A1C3650B0A.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap'
+[2018.06.16-15.59.33:446][422]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap
+[2018.06.16-15.59.33:482][422]LogFileHelpers: Saving map 'Day5' took 2.326
+[2018.06.16-15.59.39:761][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2018.06.16-15.59.40:698][749]LogEditorViewport: Clicking on Actor (LMB): DecalActor (CELLSTEM_Logo3)
+[2018.06.16-15.59.41:994][805]Cmd: EDIT COPY
+[2018.06.16-15.59.42:251][812]Cmd: EDIT PASTE
+[2018.06.16-16.00.07:372][921]LogEditorViewport: Clicking on Actor (LMB): DecalActor (CELLSTEM_Logo5)
+[2018.06.16-16.00.07:688][935]Cmd: DELETE
+[2018.06.16-16.00.07:688][935]Cmd: ACTOR DELETE
+[2018.06.16-16.00.07:701][935]LogEditorActor: Deleted Actor: DecalActor
+[2018.06.16-16.00.07:724][935]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.06.16-16.00.08:460][972]LogEditorViewport: Clicking Background
+[2018.06.16-16.00.09:164][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day5" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.16-16.00.11:297][998]LogSavePackage: Save=2106.89ms
+[2018.06.16-16.00.11:297][998]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day5787B240B4EF8B07C68AEE29EE370FAC4.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap'
+[2018.06.16-16.00.11:305][998]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap
+[2018.06.16-16.00.11:339][998]LogFileHelpers: Saving map 'Day5' took 2.281
+[2018.06.16-16.00.16:276][226]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Door_B2_Right)
+[2018.06.16-16.00.16:619][240]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Door_B2_Left)
+[2018.06.16-16.00.20:383][444]LogEditorViewport: Clicking Background
+[2018.06.16-16.00.23:254][563]LogEditorViewport: Clicking Background
+[2018.06.16-16.01.10:165][966]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.16-16.01.10:218][966]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.16-16.01.10:271][966]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.16-16.01.10:334][966]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.16-16.01.10:387][966]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.06.16-16.01.10:625][967]Cmd: QUIT_EDITOR
+[2018.06.16-16.01.10:697][967]LogExit: Preparing to exit.
+[2018.06.16-16.01.11:525][967]LogDirectoryWatcher: A directory notification for 'C:/Users/user/Documents/GitHub/SecurityGame/Content/' was aborted.
+[2018.06.16-16.01.11:572][967]LogExit: Editor shut down
+[2018.06.16-16.01.11:581][967]LogExit: Transaction tracking system shut down
+[2018.06.16-16.01.11:706][967]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.06.16-16.01.11:706][967]LogDirectoryWatcher: A directory notification for '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/' was aborted.
+[2018.06.16-16.01.11:706][967]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.06.16-16.01.11:706][967]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.06.16-16.01.11:706][967]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.06.16-16.01.11:706][967]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.06.16-16.01.11:707][967]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.06.16-16.01.11:810][967]LogExit: Object subsystem successfully closed.
+[2018.06.16-16.01.11:825][967]LogD3D11RHI: Shutdown
+[2018.06.16-16.01.11:825][967]LogD3D11RHI: CleanupD3DDevice
+[2018.06.16-16.01.11:831][967]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.06.16-16.01.11:848][967]LogModuleManager: Shutting down and abandoning module BlueprintGraph (554)
+[2018.06.16-16.01.11:849][967]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (552)
+[2018.06.16-16.01.11:849][967]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2018.06.16-16.01.11:849][967]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.06.16-16.01.11:849][967]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.06.16-16.01.11:849][967]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.06.16-16.01.11:849][967]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.06.16-16.01.11:849][967]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.06.16-16.01.11:849][967]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.06.16-16.01.11:849][967]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.06.16-16.01.11:849][967]LogDirectoryWatcher: A directory notification for 'C:/Users/user/Documents/GitHub/SecurityGame/Content/Collections/' was aborted.
+[2018.06.16-16.01.11:849][967]LogDirectoryWatcher: A directory notification for 'C:/Users/user/Documents/GitHub/SecurityGame/Content/Developers/user/Collections/' was aborted.
+[2018.06.16-16.01.11:850][967]LogDirectoryWatcher: A directory notification for 'C:/Users/user/Documents/GitHub/SecurityGame/Saved/Collections/' was aborted.
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.06.16-16.01.11:850][967]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.06.16-16.01.11:851][967]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.06.16-16.01.11:851][967]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.06.16-16.01.11:851][967]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.06.16-16.01.11:851][967]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.06.16-16.01.11:851][967]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.06.16-16.01.12:164][967]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.06.16-16.01.12:164][967]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.06.16-16.01.12:164][967]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.06.16-16.01.12:164][967]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.06.16-16.01.12:164][967]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.06.16-16.01.12:164][967]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.06.16-16.01.12:164][967]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.06.16-16.01.12:164][967]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.06.16-16.01.12:164][967]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.06.16-16.01.12:164][967]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.06.16-16.01.12:164][967]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.06.16-16.01.12:164][967]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.06.16-16.01.12:164][967]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.06.16-16.01.12:164][967]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.06.16-16.01.12:164][967]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.06.16-16.01.12:164][967]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.06.16-16.01.12:164][967]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.06.16-16.01.12:164][967]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.06.16-16.01.12:164][967]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.06.16-16.01.12:165][967]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.06.16-16.01.12:165][967]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.06.16-16.01.12:165][967]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.06.16-16.01.12:165][967]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.06.16-16.01.12:165][967]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.06.16-16.01.12:220][967]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.06.16-16.01.12:220][967]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.06.16-16.01.12:220][967]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.06.16-16.01.12:220][967]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.06.16-16.01.12:220][967]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.06.16-16.01.12:220][967]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.06.16-16.01.12:220][967]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.06.16-16.01.12:220][967]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.06.16-16.01.12:220][967]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.06.16-16.01.12:220][967]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.06.16-16.01.12:227][967]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.06.16-16.01.12:227][967]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.06.16-16.01.12:227][967]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.06.16-16.01.12:227][967]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.06.16-16.01.12:227][967]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.06.16-16.01.12:228][967]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.06.16-16.01.12:228][967]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.06.16-16.01.12:228][967]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.06.16-16.01.12:228][967]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.06.16-16.01.12:228][967]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.06.16-16.01.12:228][967]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.06.16-16.01.12:228][967]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.06.16-16.01.12:228][967]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.06.16-16.01.12:228][967]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.06.16-16.01.12:228][967]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.06.16-16.01.12:228][967]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.06.16-16.01.12:228][967]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.06.16-16.01.12:228][967]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.06.16-16.01.12:228][967]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.06.16-16.01.12:228][967]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.06.16-16.01.12:350][967]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.06.16-16.01.12:351][967]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.06.16-16.01.12:351][967]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.06.16-16.01.12:351][967]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.06.16-16.01.12:351][967]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.06.16-16.01.12:351][967]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.06.16-16.01.12:351][967]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.06.16-16.01.12:351][967]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.06.16-16.01.12:351][967]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.06.16-16.01.12:351][967]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.06.16-16.01.12:351][967]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.06.16-16.01.12:351][967]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.06.16-16.01.12:351][967]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.06.16-16.01.12:351][967]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.06.16-16.01.12:352][967]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.06.16-16.01.12:352][967]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.06.16-16.01.12:352][967]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.06.16-16.01.12:352][967]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.06.16-16.01.12:352][967]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.06.16-16.01.12:352][967]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.06.16-16.01.12:352][967]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.06.16-16.01.12:352][967]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.06.16-16.01.12:352][967]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.06.16-16.01.12:452][967]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.06.16-16.01.12:553][967]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.06.16-16.01.12:553][967]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.06.16-16.01.12:553][967]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.06.16-16.01.12:553][967]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.06.16-16.01.12:553][967]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.06.16-16.01.12:553][967]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.06.16-16.01.12:553][967]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.06.16-16.01.12:553][967]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.06.16-16.01.12:554][967]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.06.16-16.01.12:554][967]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.06.16-16.01.12:555][967]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.06.16-16.01.12:555][967]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.06.16-16.01.12:555][967]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.06.16-16.01.12:555][967]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.06.16-16.01.12:555][967]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.06.16-16.01.12:555][967]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.06.16-16.01.12:561][967]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.06.16-16.01.12:561][967]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.06.16-16.01.12:561][967]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.06.16-16.01.12:561][967]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.06.16-16.01.12:561][967]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.06.16-16.01.12:561][967]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.06.16-16.01.12:561][967]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.06.16-16.01.12:561][967]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.06.16-16.01.12:561][967]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.06.16-16.01.12:561][967]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.06.16-16.01.12:561][967]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.06.16-16.01.12:561][967]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.06.16-16.01.12:561][967]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.06.16-16.01.12:561][967]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.06.16-16.01.12:561][967]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.06.16-16.01.12:561][967]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.06.16-16.01.12:563][967]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.06.16-16.01.12:563][967]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.06.16-16.01.12:563][967]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.06.16-16.01.12:563][967]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.06.16-16.01.12:563][967]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.06.16-16.01.12:563][967]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.06.16-16.01.12:563][967]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.06.16-16.01.12:563][967]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.06.16-16.01.12:565][967]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.06.16-16.01.12:565][967]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.06.16-16.01.12:565][967]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.06.16-16.01.12:565][967]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.06.16-16.01.12:565][967]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.06.16-16.01.12:565][967]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.06.16-16.01.12:565][967]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.06.16-16.01.12:565][967]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.06.16-16.01.12:565][967]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.06.16-16.01.12:601][967]LogDerivedDataCache: Shutdown
+[2018.06.16-16.01.12:601][967]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.06.16-16.01.12:601][967]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.06.16-16.01.12:601][967]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.06.16-16.01.12:601][967]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.06.16-16.01.12:601][967]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.06.16-16.01.12:601][967]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.06.16-16.01.12:601][967]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.06.16-16.01.12:601][967]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.06.16-16.01.12:601][967]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.06.16-16.01.12:601][967]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.06.16-16.01.12:601][967]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.06.16-16.01.12:601][967]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.06.16-16.01.12:602][967]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.06.16-16.01.12:602][967]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.06.16-16.01.12:602][967]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B651FA3F6-4FCB-3591-7A91-C0BB700D296F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=b5a2aad048c5dd91a640ef9c48d8cb5d%7C92e601156b18439c8aaf9522ba7a0171%7C35688319-27be-4d42-a38e-675d2b994995&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.06.16-16.01.12:630][967]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.06.16-16.01.12:631][967]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.06.16-16.01.12:631][967]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.06.16-16.01.12:631][967]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.06.16-16.01.12:631][967]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.06.16-16.01.12:632][967]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.06.16-16.01.12:632][967]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.06.16-16.01.12:632][967]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.06.16-16.01.12:634][967]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.06.16-16.01.12:634][967]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.06.16-16.01.12:634][967]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.06.16-16.01.12:634][967]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.06.16-16.01.12:634][967]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.06.16-16.01.12:634][967]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.06.16-16.01.12:634][967]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.06.16-16.01.12:634][967]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.06.16-16.01.12:634][967]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.06.16-16.01.12:634][967]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.06.16-16.01.12:634][967]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.06.16-16.01.12:638][967]LogExit: Exiting.
+[2018.06.16-16.01.12:657][967]Log file closed, 06/17/18 01:01:12
