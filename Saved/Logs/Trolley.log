@@ -2389,3 +2389,337 @@ LogInit: Object subsystem initialized
 [2018.06.17-14.13.11:799][220]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap
 [2018.06.17-14.13.11:833][220]LogFileHelpers: Saving map 'Day5' took 2.340
 [2018.06.17-14.13.35:925][571]LogEditorViewport: Clicking on Actor (LMB): 건물배치도_C (건물배치도2)
+[2018.06.17-14.14.02:700][ 45]LogEditorViewport: Clicking on Actor (LMB): CCTV컴퓨터_C (CCTV컴퓨터)
+[2018.06.17-14.14.12:438][635]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.17-14.14.12:463][635]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.14.12:464][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.17-14.14.12:464][635]PIE: New page: PIE 세션: Day5 (2018. 6. 18. 오전 8:14:12)
+[2018.06.17-14.14.12:464][635]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day5
+[2018.06.17-14.14.12:505][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040593s)
+[2018.06.17-14.14.12:505][635]LogAIModule: Creating AISystem for world Day5
+[2018.06.17-14.14.12:505][635]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2018.06.17-14.14.12:506][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day5.Day5 to /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5 (0.041722s)
+[2018.06.17-14.14.12:535][635]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.17-14.14.12:547][635]LogInit: FAudioDevice initialized.
+[2018.06.17-14.14.12:608][635]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.17-14.14.12:622][635]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5 up for play (max tick rate 0) at 2018.06.17-23.14.12
+[2018.06.17-14.14.12:624][635]LogWorld: Bringing up level for play took: 0.015407
+[2018.06.17-14.14.12:903][635]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day5 에 대한 에디터에서 플레이 시작 시간: 0.043
+[2018.06.17-14.14.12:903][635]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.15.03:782][783]LogCharacterMovement: TopDownCharacter is stuck and failed to move! Velocity: X=-212.95 Y=84.38 Z=0.00 Location: X=941.48 Y=686.85 Z=833.15 Normal: X=0.51 Y=0.86 Z=0.00 PenetrationDepth:0.000 Actor:2F_직원휴게실문 Component:StaticMesh BoneName:None (0 other events since notify)
+[2018.06.17-14.15.43:092][388]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.15.43:169][388]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.16.00:692][396]LogEditorViewport: Clicking on Actor (LMB): 라이트스위치_C (2F_직원휴게실라이트스위치)
+[2018.06.17-14.16.10:026][913]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.17-14.16.18:835][409]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.17-14.16.18:860][409]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.16.18:860][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.17-14.16.18:860][409]PIE: New page: PIE 세션: Day5 (2018. 6. 18. 오전 8:16:18)
+[2018.06.17-14.16.18:860][409]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day5
+[2018.06.17-14.16.18:901][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040612s)
+[2018.06.17-14.16.18:901][409]LogAIModule: Creating AISystem for world Day5
+[2018.06.17-14.16.18:901][409]LogPlayLevel: PIE: World Init took: (0.000548s)
+[2018.06.17-14.16.18:902][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day5.Day5 to /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5 (0.041523s)
+[2018.06.17-14.16.18:926][409]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.17-14.16.18:938][409]LogInit: FAudioDevice initialized.
+[2018.06.17-14.16.19:007][409]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.17-14.16.19:021][409]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5 up for play (max tick rate 0) at 2018.06.17-23.16.19
+[2018.06.17-14.16.19:023][409]LogWorld: Bringing up level for play took: 0.015414
+[2018.06.17-14.16.19:308][409]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day5 에 대한 에디터에서 플레이 시작 시간: 0.448
+[2018.06.17-14.16.19:309][409]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.17.26:117][133]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.17.26:161][133]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.24.07:981][599]LogEditorViewport: Clicking on Actor (LMB): 유리문스위치_가로_C (1F_유리문스위치2)
+[2018.06.17-14.25.10:611][702]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Waterdispenser)
+[2018.06.17-14.25.10:862][709]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Vandimgmachine)
+[2018.06.17-14.25.20:074][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vandimgmachine2)
+[2018.06.17-14.25.25:764][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vandimgmachine)
+[2018.06.17-14.25.29:236][686]Cmd: TRANSACTION UNDO
+[2018.06.17-14.25.29:236][686]LogEditorTransaction: Undo 액터 이동
+[2018.06.17-14.25.44:142][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Waterdispenser)
+[2018.06.17-14.25.45:188][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vandimgmachine)
+[2018.06.17-14.25.46:905][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Waterdispenser)
+[2018.06.17-14.25.50:415][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day5" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.17-14.25.52:596][800]LogSavePackage: Save=2114.81ms
+[2018.06.17-14.25.52:596][800]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day5B9777F224451117417A66D8E426AACDE.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap'
+[2018.06.17-14.25.52:604][800]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap
+[2018.06.17-14.25.52:637][800]LogFileHelpers: Saving map 'Day5' took 2.335
+[2018.06.17-14.26.22:188][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vandimgmachine)
+[2018.06.17-14.26.36:454][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Waterdispenser)
+[2018.06.17-14.26.53:964][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vandimgmachine)
+[2018.06.17-14.27.09:939][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Waterdispenser)
+[2018.06.17-14.27.22:698][732]Cmd: TRANSACTION UNDO
+[2018.06.17-14.27.22:698][732]LogEditorTransaction: Undo 액터 회전
+[2018.06.17-14.27.23:138][750]Cmd: TRANSACTION UNDO
+[2018.06.17-14.27.23:138][750]LogEditorTransaction: Undo 액터 이동
+[2018.06.17-14.28.19:681][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vandimgmachine)
+[2018.06.17-14.28.23:884][532]Cmd: TRANSACTION UNDO
+[2018.06.17-14.28.23:884][532]LogEditorTransaction: Undo 액터 이동
+[2018.06.17-14.28.35:618][232]Cmd: TRANSACTION UNDO
+[2018.06.17-14.28.35:618][232]LogEditorTransaction: Undo 액터 이동
+[2018.06.17-14.28.36:101][252]Cmd: TRANSACTION UNDO
+[2018.06.17-14.28.36:101][252]LogEditorTransaction: Undo 액터 이동
+[2018.06.17-14.29.06:450][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vandimgmachine)
+[2018.06.17-14.29.13:825][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vandimgmachine)
+[2018.06.17-14.29.19:650][250]Cmd: TRANSACTION UNDO
+[2018.06.17-14.29.19:650][250]LogEditorTransaction: Undo 액터 회전
+[2018.06.17-14.29.25:262][558]Cmd: TRANSACTION UNDO
+[2018.06.17-14.29.25:262][558]LogEditorTransaction: Undo 액터 회전
+[2018.06.17-14.29.26:015][595]Cmd: TRANSACTION UNDO
+[2018.06.17-14.29.26:015][595]LogEditorTransaction: Undo 액터 클릭
+[2018.06.17-14.29.26:847][645]Cmd: TRANSACTION UNDO
+[2018.06.17-14.29.26:847][645]LogEditorTransaction: Undo 위치 설정
+[2018.06.17-14.29.37:312][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Waterdispenser)
+[2018.06.17-14.29.44:479][667]Cmd: TRANSACTION UNDO
+[2018.06.17-14.29.44:479][667]LogEditorTransaction: Undo 액터 이동
+[2018.06.17-14.29.47:186][817]Cmd: TRANSACTION UNDO
+[2018.06.17-14.29.47:186][817]LogEditorTransaction: Undo 액터 이동
+[2018.06.17-14.29.53:952][215]Cmd: TRANSACTION UNDO
+[2018.06.17-14.29.53:952][215]LogEditorTransaction: Undo 액터 이동
+[2018.06.17-14.30.03:836][755]Cmd: TRANSACTION UNDO
+[2018.06.17-14.30.03:836][755]LogEditorTransaction: Undo 액터 이동
+[2018.06.17-14.30.11:329][188]Cmd: TRANSACTION UNDO
+[2018.06.17-14.30.11:329][188]LogEditorTransaction: Undo 액터 이동
+[2018.06.17-14.30.19:047][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_406)
+[2018.06.17-14.30.19:249][632]Cmd: TRANSACTION UNDO
+[2018.06.17-14.30.19:249][632]LogEditorTransaction: Undo 액터 클릭
+[2018.06.17-14.30.19:716][655]Cmd: TRANSACTION UNDO
+[2018.06.17-14.30.19:716][655]LogEditorTransaction: Undo 벡터 핀 값 변경
+[2018.06.17-14.30.20:213][679]Cmd: TRANSACTION UNDO
+[2018.06.17-14.30.20:213][679]LogEditorTransaction: Undo 위치 설정
+[2018.06.17-14.30.25:523][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Waterdispenser)
+[2018.06.17-14.30.31:925][359]Cmd: TRANSACTION UNDO
+[2018.06.17-14.30.31:925][359]LogEditorTransaction: Undo 액터 회전
+[2018.06.17-14.30.40:926][879]Cmd: TRANSACTION UNDO
+[2018.06.17-14.30.40:926][879]LogEditorTransaction: Undo 액터 회전
+[2018.06.17-14.30.44:280][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1Floor4)
+[2018.06.17-14.30.44:762][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Waterdispenser)
+[2018.06.17-14.30.58:115][881]Cmd: TRANSACTION UNDO
+[2018.06.17-14.30.58:115][881]LogEditorTransaction: Undo 액터 회전
+[2018.06.17-14.31.01:654][ 78]BlueprintLog: New page: Day5 컴파일
+[2018.06.17-14.31.02:365][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day5" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.17-14.31.04:567][107]LogSavePackage: Save=2133.92ms
+[2018.06.17-14.31.04:567][107]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day5A2F34741410D772648F2B6A498F9C943.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap'
+[2018.06.17-14.31.04:574][107]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap
+[2018.06.17-14.31.04:608][107]LogFileHelpers: Saving map 'Day5' took 2.353
+[2018.06.17-14.31.06:317][205]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.17-14.31.06:341][205]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.31.06:342][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.17-14.31.06:342][205]PIE: New page: PIE 세션: Day5 (2018. 6. 18. 오전 8:31:06)
+[2018.06.17-14.31.06:342][205]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day5
+[2018.06.17-14.31.06:383][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040642s)
+[2018.06.17-14.31.06:383][205]LogAIModule: Creating AISystem for world Day5
+[2018.06.17-14.31.06:383][205]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2018.06.17-14.31.06:384][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day5.Day5 to /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5 (0.041668s)
+[2018.06.17-14.31.06:407][205]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.17-14.31.06:419][205]LogInit: FAudioDevice initialized.
+[2018.06.17-14.31.06:496][205]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.17-14.31.06:510][205]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5 up for play (max tick rate 0) at 2018.06.17-23.31.06
+[2018.06.17-14.31.06:512][205]LogWorld: Bringing up level for play took: 0.015821
+[2018.06.17-14.31.06:794][205]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day5 에 대한 에디터에서 플레이 시작 시간: -0.067
+[2018.06.17-14.31.06:795][205]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.32.20:016][743]PIE: Warning: /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5:PersistentLevel.Vandimgmachine_8 의 모빌리티: 이동 작업을 위해서는 StaticMeshComponent0 가 '무버블'이어야 합니다. 
+[2018.06.17-14.32.20:016][743]PIE: Warning: /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5:PersistentLevel.Waterdispenser_27 의 모빌리티: 이동 작업을 위해서는 StaticMeshComponent0 가 '무버블'이어야 합니다. 
+[2018.06.17-14.32.34:901][714]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.32.34:991][714]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.32.41:933][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vandimgmachine)
+[2018.06.17-14.32.42:342][128]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Waterdispenser)
+[2018.06.17-14.32.44:466][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Waterdispenser)
+[2018.06.17-14.32.45:210][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vandimgmachine)
+[2018.06.17-14.32.48:704][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day5" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.17-14.32.50:852][432]LogSavePackage: Save=2120.70ms
+[2018.06.17-14.32.50:852][432]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day576A7612B4ABE1394D2EA8BA8D409A31B.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap'
+[2018.06.17-14.32.50:860][432]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap
+[2018.06.17-14.32.50:894][432]LogFileHelpers: Saving map 'Day5' took 2.296
+[2018.06.17-14.32.51:487][462]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.17-14.32.51:507][462]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.32.51:507][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.17-14.32.51:507][462]PIE: New page: PIE 세션: Day5 (2018. 6. 18. 오전 8:32:51)
+[2018.06.17-14.32.51:507][462]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day5
+[2018.06.17-14.32.51:548][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041105s)
+[2018.06.17-14.32.51:548][462]LogAIModule: Creating AISystem for world Day5
+[2018.06.17-14.32.51:548][462]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2018.06.17-14.32.51:549][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day5.Day5 to /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5 (0.042258s)
+[2018.06.17-14.32.51:573][462]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.17-14.32.51:584][462]LogInit: FAudioDevice initialized.
+[2018.06.17-14.32.51:651][462]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.17-14.32.51:666][462]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5 up for play (max tick rate 0) at 2018.06.17-23.32.51
+[2018.06.17-14.32.51:667][462]LogWorld: Bringing up level for play took: 0.015305
+[2018.06.17-14.32.51:948][462]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day5 에 대한 에디터에서 플레이 시작 시간: 1.088
+[2018.06.17-14.32.51:949][462]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.33.28:008][750]LogCharacterMovement: TopDownCharacter is stuck and failed to move! Velocity: X=-234.48 Y=130.21 Z=0.00 Location: X=942.68 Y=685.91 Z=833.15 Normal: X=0.54 Y=0.84 Z=0.00 PenetrationDepth:0.000 Actor:2F_직원휴게실문 Component:StaticMesh BoneName:None (0 other events since notify)
+[2018.06.17-14.33.47:756][ 12]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.33.47:832][ 12]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.33.50:745][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vandimgmachine)
+[2018.06.17-14.34.02:030][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vandimgmachine)
+[2018.06.17-14.34.06:373][ 75]Cmd: TRANSACTION UNDO
+[2018.06.17-14.34.06:373][ 75]LogEditorTransaction: Undo 액터 회전
+[2018.06.17-14.34.12:421][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Waterdispenser)
+[2018.06.17-14.34.30:842][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Waterdispenser)
+[2018.06.17-14.34.35:321][776]Cmd: TRANSACTION UNDO
+[2018.06.17-14.34.35:321][776]LogEditorTransaction: Undo 액터 회전
+[2018.06.17-14.34.40:503][ 60]BlueprintLog: New page: Day5 컴파일
+[2018.06.17-14.34.41:095][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day5" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.17-14.34.43:237][ 84]LogSavePackage: Save=2118.45ms
+[2018.06.17-14.34.43:237][ 84]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day551E9E0AA4FDA925F3CFA5E952AA9E05C.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap'
+[2018.06.17-14.34.43:245][ 84]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap
+[2018.06.17-14.34.43:279][ 84]LogFileHelpers: Saving map 'Day5' took 2.289
+[2018.06.17-14.34.45:861][230]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.17-14.34.45:882][230]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.34.45:882][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.17-14.34.45:882][230]PIE: New page: PIE 세션: Day5 (2018. 6. 18. 오전 8:34:45)
+[2018.06.17-14.34.45:882][230]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day5
+[2018.06.17-14.34.45:922][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040381s)
+[2018.06.17-14.34.45:922][230]LogAIModule: Creating AISystem for world Day5
+[2018.06.17-14.34.45:922][230]LogPlayLevel: PIE: World Init took: (0.000539s)
+[2018.06.17-14.34.45:922][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day5.Day5 to /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5 (0.041298s)
+[2018.06.17-14.34.45:947][230]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.17-14.34.45:958][230]LogInit: FAudioDevice initialized.
+[2018.06.17-14.34.46:049][230]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.17-14.34.46:063][230]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5 up for play (max tick rate 0) at 2018.06.17-23.34.46
+[2018.06.17-14.34.46:065][230]LogWorld: Bringing up level for play took: 0.015129
+[2018.06.17-14.34.46:346][230]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day5 에 대한 에디터에서 플레이 시작 시간: -0.515
+[2018.06.17-14.34.46:346][230]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.35.43:354][834]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.35.43:423][834]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.35.44:230][874]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vandimgmachine)
+[2018.06.17-14.35.54:100][425]Cmd: TRANSACTION UNDO
+[2018.06.17-14.35.54:100][425]LogEditorTransaction: Undo 액터 이동
+[2018.06.17-14.36.17:849][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Waterdispenser)
+[2018.06.17-14.36.26:255][349]BlueprintLog: New page: Day5 컴파일
+[2018.06.17-14.36.26:786][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day5" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.17-14.36.28:973][368]LogSavePackage: Save=2117.88ms
+[2018.06.17-14.36.28:973][368]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day5607F4617448E3981A2D88E9052E4D710.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap'
+[2018.06.17-14.36.28:981][368]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap
+[2018.06.17-14.36.29:015][368]LogFileHelpers: Saving map 'Day5' took 2.336
+[2018.06.17-14.36.35:126][721]LogEditorViewport: Clicking on Actor (LMB): TrashCan_C (TrashCan)
+[2018.06.17-14.38.01:199][134]BlueprintLog: New page: TrashCan 컴파일
+[2018.06.17-14.38.01:720][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TrashCan" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/TrashCan.uasset" SILENT=true
+[2018.06.17-14.38.01:802][134]LogSavePackage: Save=75.49ms
+[2018.06.17-14.38.01:802][134]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/TrashCanF485E91A4E455E8CDF387196AD2D1247.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/TrashCan.uasset'
+[2018.06.17-14.38.01:805][134]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Blueprints/TrashCan.uasset
+[2018.06.17-14.38.03:120][201]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.17-14.38.03:149][201]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.38.03:149][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.17-14.38.03:149][201]PIE: New page: PIE 세션: Day5 (2018. 6. 18. 오전 8:38:03)
+[2018.06.17-14.38.03:149][201]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day5
+[2018.06.17-14.38.03:190][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041255s)
+[2018.06.17-14.38.03:190][201]LogAIModule: Creating AISystem for world Day5
+[2018.06.17-14.38.03:190][201]LogPlayLevel: PIE: World Init took: (0.000568s)
+[2018.06.17-14.38.03:191][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day5.Day5 to /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5 (0.042203s)
+[2018.06.17-14.38.03:215][201]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.17-14.38.03:227][201]LogInit: FAudioDevice initialized.
+[2018.06.17-14.38.03:291][201]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.17-14.38.03:305][201]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5 up for play (max tick rate 0) at 2018.06.17-23.38.03
+[2018.06.17-14.38.03:307][201]LogWorld: Bringing up level for play took: 0.015351
+[2018.06.17-14.38.03:585][201]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day5 에 대한 에디터에서 플레이 시작 시간: 0.724
+[2018.06.17-14.38.03:585][201]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.39.23:085][254]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.39.23:168][254]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.39.25:143][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Waterdispenser)
+[2018.06.17-14.39.58:434][763]LogEditorViewport: Clicking on Actor (LMB): 건물배치도_C (건물배치도2)
+[2018.06.17-14.40.13:913][706]LogEditorViewport: Clicking on Actor (LMB): CCTV컴퓨터_C (CCTV컴퓨터)
+[2018.06.17-14.40.20:583][105]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.17-14.40.21:356][144]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.17-14.40.21:772][167]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.17-14.40.31:912][250]LogEditorViewport: Clicking on Actor (context menu): CCTV컴퓨터_C (CCTV컴퓨터)
+[2018.06.17-14.41.02:966][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vandimgmachine2)
+[2018.06.17-14.41.07:456][988]LogEditorViewport: Clicking on Actor (LMB): TrashCan_C (TrashCan2)
+[2018.06.17-14.41.08:257][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vandimgmachine2)
+[2018.06.17-14.41.14:119][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vandimgmachine)
+[2018.06.17-14.41.15:702][458]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Waterdispenser)
+[2018.06.17-14.41.19:400][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Waterdispenser)
+[2018.06.17-14.41.19:872][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Vandimgmachine)
+[2018.06.17-14.41.37:594][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Waterdispenser)
+[2018.06.17-14.41.46:251][154]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.06.17-14.41.46:278][154]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.41.46:278][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.17-14.41.46:278][154]PIE: New page: PIE 세션: Day5 (2018. 6. 18. 오전 8:41:46)
+[2018.06.17-14.41.46:278][154]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Day5
+[2018.06.17-14.41.46:320][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041219s)
+[2018.06.17-14.41.46:320][154]LogAIModule: Creating AISystem for world Day5
+[2018.06.17-14.41.46:321][154]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2018.06.17-14.41.46:321][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Day5.Day5 to /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5 (0.042382s)
+[2018.06.17-14.41.46:347][154]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.17-14.41.46:359][154]LogInit: FAudioDevice initialized.
+[2018.06.17-14.41.46:419][154]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.06.17-14.41.46:435][154]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Day5.Day5 up for play (max tick rate 0) at 2018.06.17-23.41.46
+[2018.06.17-14.41.46:436][154]LogWorld: Bringing up level for play took: 0.016493
+[2018.06.17-14.41.46:714][154]PIE: /Game/TopDownBP/Maps/UEDPIE_0_Day5 에 대한 에디터에서 플레이 시작 시간: -0.146
+[2018.06.17-14.41.46:715][154]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.42.21:919][468]LogCharacterMovement: TopDownCharacter is stuck and failed to move! Velocity: X=-227.81 Y=92.41 Z=0.00 Location: X=942.82 Y=685.57 Z=833.15 Normal: X=0.54 Y=0.84 Z=0.00 PenetrationDepth:0.000 Actor:2F_직원휴게실문 Component:StaticMesh BoneName:None (0 other events since notify)
+[2018.06.17-14.42.54:713][855]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.42.54:765][855]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5' with GeneratedClass '/Game/TopDownBP/Maps/Day5.Day5_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Day5.Day5:PersistentLevel.Day5'
+[2018.06.17-14.43.01:208][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chairs_C2)
+[2018.06.17-14.43.02:392][321]LogEditorViewport: Clicking on Actor (CTRL LMB): 라이트스위치_C (1F_CCTV라이트스위치)
+[2018.06.17-14.43.06:109][555]LogEditorViewport: Clicking on Actor (LMB): 라이트스위치_C (1F_CCTV라이트스위치)
+[2018.06.17-14.43.09:243][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chairs_C2)
+[2018.06.17-14.43.14:555][133]LogEditorViewport: Clicking on Actor (LMB): 라이트스위치_C (1F_CCTV라이트스위치)
+[2018.06.17-14.43.21:315][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chairs_C3)
+[2018.06.17-14.43.26:756][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chairs_C14)
+[2018.06.17-14.43.31:641][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chairs_C12)
+[2018.06.17-14.43.32:416][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chairs_C15)
+[2018.06.17-14.43.33:152][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chairs_C13)
+[2018.06.17-14.43.35:012][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chairs_A1)
+[2018.06.17-14.43.35:733][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chairs_A3)
+[2018.06.17-14.43.36:136][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Closebox3)
+[2018.06.17-14.43.38:119][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Closebox21)
+[2018.06.17-14.43.38:582][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Closebox20)
+[2018.06.17-14.43.38:855][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Closebox2)
+[2018.06.17-14.43.39:157][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Closebox)
+[2018.06.17-14.43.40:277][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Closebox6)
+[2018.06.17-14.43.40:700][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Closebox18)
+[2018.06.17-14.43.41:536][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (shelf5)
+[2018.06.17-14.43.42:266][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Closebox19)
+[2018.06.17-14.43.46:119][  0]LogEditorViewport: Clicking Background
+[2018.06.17-14.43.46:439][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day5" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.17-14.43.48:632][ 10]LogSavePackage: Save=2128.94ms
+[2018.06.17-14.43.48:632][ 10]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day52013074442F510B1D5F60C9054B40D6E.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap'
+[2018.06.17-14.43.48:640][ 10]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap
+[2018.06.17-14.43.48:675][ 10]LogFileHelpers: Saving map 'Day5' took 2.346
+[2018.06.17-14.46.53:263][838]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (EndGame)
+[2018.06.17-14.46.55:051][933]Cmd: EDIT COPY
+[2018.06.17-14.46.57:199][ 58]Cmd: EDIT PASTE
+[2018.06.17-14.48.43:708][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day5" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.17-14.48.45:856][158]LogSavePackage: Save=2127.50ms
+[2018.06.17-14.48.45:856][158]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day5F92BC7F444CC8513B4240D8992C37A55.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap'
+[2018.06.17-14.48.45:864][158]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap
+[2018.06.17-14.48.45:899][158]LogFileHelpers: Saving map 'Day5' took 2.299
+[2018.06.17-14.48.47:880][244]LogAIModule: Creating AISystem for world Day2
+[2018.06.17-14.48.47:942][244]Cmd: MAP LOAD FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.17-14.48.47:943][244]LightingResults: New page: 라이팅 빌드
+[2018.06.17-14.48.47:943][244]LoadErrors: New page: 맵 로드중: Day2.umap
+[2018.06.17-14.48.48:001][244]MapCheck: New page: 맵 체크
+[2018.06.17-14.48.48:001][244]LightingResults: New page: 라이팅 빌드
+[2018.06.17-14.48.48:257][244]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.17-14.48.48:313][244]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.17-14.48.48:419][244]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 106.039ms.
+[2018.06.17-14.48.48:421][244]LogFileHelpers: Loading map 'Day2' took 0.480
+[2018.06.17-14.49.07:786][ 62]BlueprintLog: New page: Day2 컴파일
+[2018.06.17-14.49.08:315][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day2" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.17-14.49.09:331][ 76]LogSavePackage: Save=987.53ms
+[2018.06.17-14.49.09:331][ 76]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day2EEB52DA34ECDF0D5A8FAB994B57339A9.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day2.umap'
+[2018.06.17-14.49.09:335][ 76]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day2.umap
+[2018.06.17-14.49.09:369][ 76]LogFileHelpers: Saving map 'Day2' took 1.159
+[2018.06.17-14.49.36:626][209]LogAIModule: Creating AISystem for world Day5
+[2018.06.17-14.49.36:686][209]Cmd: MAP LOAD FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.17-14.49.36:686][209]LightingResults: New page: 라이팅 빌드
+[2018.06.17-14.49.36:687][209]LoadErrors: New page: 맵 로드중: Day5.umap
+[2018.06.17-14.49.36:742][209]MapCheck: New page: 맵 체크
+[2018.06.17-14.49.36:742][209]LightingResults: New page: 라이팅 빌드
+[2018.06.17-14.49.36:979][209]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.17-14.49.37:036][209]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.17-14.49.37:144][209]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 108.304ms.
+[2018.06.17-14.49.37:144][209]LogFileHelpers: Loading map 'Day5' took 0.459
+[2018.06.17-14.49.42:280][585]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (EndGame2)
+[2018.06.17-14.50.09:926][424]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (EndGame)
+[2018.06.17-14.50.10:804][470]Cmd: DELETE
+[2018.06.17-14.50.10:804][470]Cmd: ACTOR DELETE
+[2018.06.17-14.50.10:817][470]LogEditorActor: Deleted Actor: TriggerBox
+[2018.06.17-14.50.10:837][470]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.06.17-14.50.40:525][437]BlueprintLog: New page: Day5 컴파일
+[2018.06.17-14.50.41:113][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Day5" FILE="../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.17-14.50.43:372][460]LogSavePackage: Save=2196.44ms
+[2018.06.17-14.50.43:372][460]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SecurityGame/Saved/Day5F344696F4C7ED62E831C5F855AF81959.tmp' to '../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap'
+[2018.06.17-14.50.43:380][460]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SecurityGame/Content/TopDownBP/Maps/Day5.umap
+[2018.06.17-14.50.43:416][460]LogFileHelpers: Saving map 'Day5' took 2.412
