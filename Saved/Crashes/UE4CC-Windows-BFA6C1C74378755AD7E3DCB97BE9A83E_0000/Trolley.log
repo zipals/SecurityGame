@@ -1,0 +1,622 @@
+﻿Log file open, 07/14/18 03:17:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Trolley
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1522865633) SRandInit(-1522865633).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.675621
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.13-18.17.24:657][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.13-18.17.24:657][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.13-18.17.24:677][  0]LogInit: Computer: DESKTOP-OCEV6JO
+[2018.07.13-18.17.24:677][  0]LogInit: User: joono
+[2018.07.13-18.17.24:677][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.07.13-18.17.24:677][  0]LogInit: High frequency timer resolution =2.742189 MHz
+[2018.07.13-18.17.24:677][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.07.13-18.17.24:677][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.13-18.17.24:677][  0]LogMemory: Process Physical Memory: 272.80 MB used, 272.80 MB peak
+[2018.07.13-18.17.24:677][  0]LogMemory: Process Virtual Memory: 270.05 MB used, 270.05 MB peak
+[2018.07.13-18.17.24:677][  0]LogMemory: Physical Memory: 3076.59 MB used,  13250.08 MB free, 16326.67 MB total
+[2018.07.13-18.17.24:677][  0]LogMemory: Virtual Memory: 4782.39 MB used,  13250.08 MB free, 134217728.00 MB total
+[2018.07.13-18.17.24:958][  0]LogInit: Using OS detected language (ko-KR).
+[2018.07.13-18.17.24:958][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.07.13-18.17.24:996][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.07.13-18.17.25:178][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.13-18.17.26:822][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.13-18.17.26:866][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.07.13-18.17.26:866][  0]LogD3D11RHI:       1987/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.07.13-18.17.26:868][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.13-18.17.26:868][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.13-18.17.26:868][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.13-18.17.26:872][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.13-18.17.26:873][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.13-18.17.26:873][  0]LogWindows: EnumDisplayDevices:
+[2018.07.13-18.17.26:873][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2018.07.13-18.17.26:873][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:1)
+[2018.07.13-18.17.26:873][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.07.13-18.17.26:873][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.07.13-18.17.26:873][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.13-18.17.26:873][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.07.13-18.17.26:873][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.13-18.17.26:873][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.13-18.17.26:873][  0]LogRHI: Texture pool is 1391 MB (70% of 1987 MB)
+[2018.07.13-18.17.26:898][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.13-18.17.26:922][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.07.13-18.17.27:024][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (../../../../../../Trolley/SecurityGame/Intermediate/Shaders/WorkingDirectory/3232/).
+[2018.07.13-18.17.27:024][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/joono/AppData/Local/Temp/UnrealShaderWorkingDir/DD8178724C8B96B6D1F824897D9F0B3D/'.
+[2018.07.13-18.17.27:026][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.13-18.17.28:561][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.13-18.17.28:620][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.13-18.17.28:679][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.13-18.17.28:738][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.13-18.17.28:800][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.13-18.17.28:859][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.13-18.17.28:918][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.13-18.17.28:977][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.13-18.17.29:031][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.13-18.17.29:089][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.13-18.17.29:148][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.13-18.17.29:207][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.13-18.17.29:266][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.13-18.17.29:324][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.13-18.17.29:441][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.13-18.17.29:441][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.13-18.17.29:504][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.13-18.17.29:554][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.13-18.17.29:664][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.13-18.17.29:694][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.13-18.17.29:752][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.13-18.17.29:810][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.13-18.17.29:867][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.13-18.17.29:929][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.13-18.17.29:929][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.13-18.17.30:569][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.13-18.17.30:897][  0]LogDerivedDataCache: Loaded boot cache 0.33s 78MB C:/Users/joono/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.07.13-18.17.30:897][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/joono/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.07.13-18.17.30:897][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Trolley/SecurityGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.13-18.17.30:897][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.13-18.17.30:897][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Trolley/SecurityGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.13-18.17.30:897][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.13-18.17.30:920][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.13-18.17.30:932][  0]LogDerivedDataCache: Using Local data cache path C:/Users/joono/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.13-18.17.30:943][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.13-18.17.30:950][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.13-18.17.30:958][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.13-18.17.30:958][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.13-18.17.31:668][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.13-18.17.32:213][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.13-18.17.32:267][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.13-18.17.32:268][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.13-18.17.32:268][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.13-18.17.32:268][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.13-18.17.32:268][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.13-18.17.32:334][  0]LogNetVersion: Trolley , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2282078908)
+[2018.07.13-18.17.32:715][  0]LogAssetRegistry: FAssetRegistry took 0.0273 seconds to start up
+[2018.07.13-18.17.33:618][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.047990 seconds
+[2018.07.13-18.17.33:623][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.07.13-18.17.33:623][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.07.13-18.17.33:623][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.13-18.17.33:691][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.07.13-18.17.38:996][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.13-18.17.39:049][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.13-18.17.39:986][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.07.13-18.17.40:521][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.07.13-18.17.40:521][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.07.13-18.17.40:601][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.07.13-18.17.40:676][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.07.13-18.17.41:825][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.13-18.17.42:170][  0]LogOcInput: OculusInput pre-init called
+[2018.07.13-18.17.42:540][  0]LogEngine: Initializing Engine...
+[2018.07.13-18.17.42:543][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.13-18.17.42:727][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.13-18.17.42:727][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.13-18.17.42:913][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.13-18.17.42:930][  0]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.13-18.17.42:952][  0]LogInit: FAudioDevice initialized.
+[2018.07.13-18.17.43:019][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/joono/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.07.13-18.17.43:025][  0]LogInit: Texture streaming: Enabled
+[2018.07.13-18.17.43:153][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.13-18.17.43:153][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={64074D68-4352-4B06-902A-DDA3E224FA0F}
+[2018.07.13-18.17.43:379][  0]LogInit: Transaction tracking system initialized
+[2018.07.13-18.17.43:827][  0]BlueprintLog: New page: 에디터 로드
+[2018.07.13-18.17.45:037][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.07.13-18.17.46:235][  0]LogConsoleResponse: Display: 
+[2018.07.13-18.17.46:538][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.13-18.17.46:539][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.13-18.17.46:539][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.13-18.17.46:738][  0]LogFileCache: Scanning file cache for directory 'C:/Trolley/SecurityGame/Content/' took 0.02s
+[2018.07.13-18.17.48:218][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.07.13-18.17.48:219][  0]Cmd: MAP LOAD FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Maps/Day1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.13-18.17.48:220][  0]LightingResults: New page: 라이팅 빌드
+[2018.07.13-18.17.48:280][  0]MapCheck: New page: 맵 체크
+[2018.07.13-18.17.48:280][  0]LightingResults: New page: 라이팅 빌드
+[2018.07.13-18.17.49:794][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.07.13-18.17.52:951][  0]LogAIModule: Creating AISystem for world Day1
+[2018.07.13-18.17.53:030][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.13-18.17.53:057][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.13-18.17.53:159][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 101.74ms.
+[2018.07.13-18.17.53:159][  0]LogFileHelpers: Loading map 'Day1' took 4.941
+[2018.07.13-18.17.53:410][  0]LogCollectionManager: Loaded 0 collections in 0.002339 seconds
+[2018.07.13-18.17.53:521][  0]LogFileCache: Scanning file cache for directory 'C:/Trolley/SecurityGame/Saved/Collections/' took 0.01s
+[2018.07.13-18.17.53:521][  0]LogFileCache: Scanning file cache for directory 'C:/Trolley/SecurityGame/Content/Developers/joono/Collections/' took 0.01s
+[2018.07.13-18.17.53:521][  0]LogFileCache: Scanning file cache for directory 'C:/Trolley/SecurityGame/Content/Collections/' took 0.01s
+[2018.07.13-18.17.53:521][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.13-18.17.53:530][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 2363 classes and 519 folders.
+[2018.07.13-18.17.53:623][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.13-18.17.53:949][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.13-18.17.54:011][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.07.13-18.17.54:065][  0]LogSlate: Took 0.005118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.13-18.17.54:087][  0]LogSlate: Took 0.020804 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.07.13-18.17.54:092][  0]LogSlate: Took 0.003480 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.13-18.17.54:099][  0]LogSlate: Took 0.004140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.13-18.17.54:267][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.07.13-18.17.54:355][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.07.13-18.17.54:517][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.07.13-18.17.54:517][  0]LogLoad: (Engine Initialization) Total time: 34.33 seconds
+[2018.07.13-18.17.54:517][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.13-18.17.54:517][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.07.13-18.17.54:900][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.13-18.17.54:957][  0]LogSlate: Took 0.004913 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.13-18.17.55:190][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Trolley/SecurityGame/Content/' took 0.31s
+[2018.07.13-18.17.55:213][  1]LogAssetRegistry: Asset discovery search completed in 22.5203 seconds
+[2018.07.13-18.17.55:215][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.13-18.17.55:215][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2018.07.13-18.19.27:394][352]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.13-18.19.27:804][352]LogStaticMesh: 약5 스태틱 메시 빌드중...
+[2018.07.13-18.19.27:816][352]LogStaticMesh: Built static mesh [0.01s] /Game/TopDownBP/Mesh/약5.약5
+[2018.07.13-18.19.27:988][352]LogAIModule: Creating AISystem for world 연구원테스트맵
+[2018.07.13-18.19.28:046][352]Cmd: MAP LOAD FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Maps/연구원테스트맵.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.13-18.19.28:046][352]LightingResults: New page: 라이팅 빌드
+[2018.07.13-18.19.28:047][352]LoadErrors: New page: 맵 로드중: 연구원테스트맵.umap
+[2018.07.13-18.19.28:051][352]MapCheck: New page: 맵 체크
+[2018.07.13-18.19.28:051][352]LightingResults: New page: 라이팅 빌드
+[2018.07.13-18.19.28:131][352]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.13-18.19.28:181][352]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.13-18.19.28:288][352]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 106.422ms.
+[2018.07.13-18.19.28:289][352]LogFileHelpers: Loading map '연구원테스트맵' took 0.244
+[2018.07.13-18.21.33:458][101]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.07.13-18.21.33:632][101]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵' with GeneratedClass '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵'
+[2018.07.13-18.21.33:633][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.13-18.21.33:633][101]PIE: New page: PIE 세션: 연구원테스트맵 (2018. 7. 14. 오후 12:21:33)
+[2018.07.13-18.21.33:634][101]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_연구원테스트맵
+[2018.07.13-18.21.33:682][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048778s)
+[2018.07.13-18.21.33:683][101]LogAIModule: Creating AISystem for world 연구원테스트맵
+[2018.07.13-18.21.33:683][101]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2018.07.13-18.21.33:683][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵 to /Game/TopDownBP/Maps/UEDPIE_0_연구원테스트맵.연구원테스트맵 (0.049836s)
+[2018.07.13-18.21.33:702][101]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.13-18.21.33:709][101]LogInit: FAudioDevice initialized.
+[2018.07.13-18.21.33:775][101]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.07.13-18.21.33:792][101]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_연구원테스트맵.연구원테스트맵 up for play (max tick rate 0) at 2018.07.14-03.21.33
+[2018.07.13-18.21.33:795][101]LogWorld: Bringing up level for play took: 0.018679
+[2018.07.13-18.21.33:851][101]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.07.13-18.21.34:157][101]PIE: /Game/TopDownBP/Maps/UEDPIE_0_연구원테스트맵 에 대한 에디터에서 플레이 시작 시간: 1.081
+[2018.07.13-18.21.34:157][101]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵' with GeneratedClass '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵'
+[2018.07.13-18.21.34:194][101]LogRenderer: Reallocating scene render targets to support 1932x1116 Format 10 NumSamples 1 (Frame:1).
+[2018.07.13-18.21.42:942][469]Cmd: DISALBLEALLSCREENMESSAGES
+[2018.07.13-18.21.42:944][469]Command not recognized: DISALBLEALLSCREENMESSAGES
+[2018.07.13-18.21.59:701][225]LogBlueprintUserMessages: [약제조기_497] 약제조실패
+[2018.07.13-18.22.00:360][255]LogBlueprintUserMessages: [약제조기_497] 약제조실패
+[2018.07.13-18.22.00:939][281]LogBlueprintUserMessages: [약제조기_497] 약제조실패
+[2018.07.13-18.22.01:137][290]LogBlueprintUserMessages: [약제조기_497] 약제조실패
+[2018.07.13-18.22.01:402][302]LogBlueprintUserMessages: [약제조기_497] 약제조실패
+[2018.07.13-18.22.01:579][310]LogBlueprintUserMessages: [약제조기_497] 약제조실패
+[2018.07.13-18.22.01:735][317]LogBlueprintUserMessages: [약제조기_497] 약제조실패
+[2018.07.13-18.22.06:895][549]LogBlueprintUserMessages: [약제조기_497] 약제조실패
+[2018.07.13-18.22.07:070][557]LogBlueprintUserMessages: [약제조기_497] 약제조실패
+[2018.07.13-18.22.07:247][565]LogBlueprintUserMessages: [약제조기_497] 약제조실패
+[2018.07.13-18.22.07:380][571]LogBlueprintUserMessages: [약제조기_497] 약제조실패
+[2018.07.13-18.22.12:669][808]LogBlueprintUserMessages: [약제조기_497] 약제조실패
+[2018.07.13-18.22.12:802][814]LogBlueprintUserMessages: [약제조기_497] 약제조실패
+[2018.07.13-18.22.13:023][824]LogBlueprintUserMessages: [약제조기_497] 약제조실패
+[2018.07.13-18.22.13:199][832]LogBlueprintUserMessages: [약제조기_497] 약제조실패
+[2018.07.13-18.22.13:333][838]LogBlueprintUserMessages: [약제조기_497] 약제조실패
+[2018.07.13-18.22.14:709][900]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵' with GeneratedClass '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵'
+[2018.07.13-18.22.14:776][900]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵' with GeneratedClass '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵'
+[2018.07.13-18.22.22:842][231]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.07.13-18.22.23:383][231]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.13-18.22.23:463][231]LogSlate: Took 0.003469 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.13-18.22.25:146][291]LogSlate: Took 0.004379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.13-18.22.44:217][418]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.07.13-18.22.44:242][418]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵' with GeneratedClass '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵'
+[2018.07.13-18.22.44:242][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.13-18.22.44:242][418]PIE: New page: PIE 세션: 연구원테스트맵 (2018. 7. 14. 오후 12:22:44)
+[2018.07.13-18.22.44:242][418]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_연구원테스트맵
+[2018.07.13-18.22.44:283][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040911s)
+[2018.07.13-18.22.44:284][418]LogAIModule: Creating AISystem for world 연구원테스트맵
+[2018.07.13-18.22.44:284][418]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2018.07.13-18.22.44:284][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵 to /Game/TopDownBP/Maps/UEDPIE_0_연구원테스트맵.연구원테스트맵 (0.041903s)
+[2018.07.13-18.22.44:314][418]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.13-18.22.44:322][418]LogInit: FAudioDevice initialized.
+[2018.07.13-18.22.44:388][418]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.07.13-18.22.44:403][418]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_연구원테스트맵.연구원테스트맵 up for play (max tick rate 0) at 2018.07.14-03.22.44
+[2018.07.13-18.22.44:405][418]LogWorld: Bringing up level for play took: 0.017341
+[2018.07.13-18.22.44:695][418]PIE: /Game/TopDownBP/Maps/UEDPIE_0_연구원테스트맵 에 대한 에디터에서 플레이 시작 시간: -0.38
+[2018.07.13-18.22.44:695][418]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵' with GeneratedClass '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵'
+[2018.07.13-18.22.53:412][571]Cmd: DISALBLEALLSCREENMESSAGES
+[2018.07.13-18.22.53:412][571]Command not recognized: DISALBLEALLSCREENMESSAGES
+[2018.07.13-18.23.10:496][177]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.23.10:834][191]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.23.11:119][203]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.23.11:308][211]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.23.11:450][217]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.23.11:733][229]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.23.11:897][236]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.23.12:325][254]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.23.12:632][267]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.23.12:799][274]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.23.13:197][291]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.23.13:385][299]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.24.06:203][661]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵' with GeneratedClass '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵'
+[2018.07.13-18.24.06:270][661]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵' with GeneratedClass '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵'
+[2018.07.13-18.24.06:998][691]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2018.07.13-18.24.07:018][691]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵' with GeneratedClass '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵'
+[2018.07.13-18.24.07:019][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.13-18.24.07:019][691]PIE: New page: PIE 세션: 연구원테스트맵 (2018. 7. 14. 오후 12:24:07)
+[2018.07.13-18.24.07:019][691]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_연구원테스트맵
+[2018.07.13-18.24.07:058][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038948s)
+[2018.07.13-18.24.07:058][691]LogAIModule: Creating AISystem for world 연구원테스트맵
+[2018.07.13-18.24.07:058][691]LogPlayLevel: PIE: World Init took: (0.000614s)
+[2018.07.13-18.24.07:059][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵 to /Game/TopDownBP/Maps/UEDPIE_0_연구원테스트맵.연구원테스트맵 (0.039925s)
+[2018.07.13-18.24.07:087][691]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.13-18.24.07:095][691]LogInit: FAudioDevice initialized.
+[2018.07.13-18.24.07:154][691]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.07.13-18.24.07:169][691]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_연구원테스트맵.연구원테스트맵 up for play (max tick rate 0) at 2018.07.14-03.24.07
+[2018.07.13-18.24.07:171][691]LogWorld: Bringing up level for play took: 0.016330
+[2018.07.13-18.24.07:462][691]PIE: /Game/TopDownBP/Maps/UEDPIE_0_연구원테스트맵 에 대한 에디터에서 플레이 시작 시간: 0.387
+[2018.07.13-18.24.07:462][691]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵' with GeneratedClass '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵'
+[2018.07.13-18.24.16:417][ 10]Cmd: DISALBLEALLSCREENMESSAGES
+[2018.07.13-18.24.16:417][ 10]Command not recognized: DISALBLEALLSCREENMESSAGES
+[2018.07.13-18.24.33:235][510]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.24.33:539][521]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.24.33:814][531]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.24.34:092][541]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.24.34:319][549]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.24.34:572][558]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.24.45:147][921]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.24.45:266][925]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.24.45:590][936]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.24.45:736][941]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.24.46:236][958]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.24.46:384][963]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.24.46:621][971]LogBlueprintUserMessages: [약제조기_497] 약제조완료
+[2018.07.13-18.24.59:017][228]LogBlueprintUserMessages: [약제조기_497] 약제조실패
+[2018.07.13-18.24.59:281][237]LogBlueprintUserMessages: [약제조기_497] 약제조실패
+[2018.07.13-18.25.00:098][265]LogBlueprintUserMessages: [약제조기_497] 약제조실패
+[2018.07.13-18.27.05:567][698]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵' with GeneratedClass '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵'
+[2018.07.13-18.27.05:626][698]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵' with GeneratedClass '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/연구원테스트맵.연구원테스트맵:PersistentLevel.연구원테스트맵'
+[2018.07.13-18.28.22:311][ 83]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.13-18.30.59:416][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/약6" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약6.uasset" SILENT=true
+[2018.07.13-18.30.59:432][895]LogSavePackage: Save=14.51ms
+[2018.07.13-18.30.59:432][895]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/약6CB6A3C614451FBCA8D3EE6B4AB8BFDB6.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약6.uasset'
+[2018.07.13-18.30.59:436][895]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약6.uasset
+[2018.07.13-18.31.09:161][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/약6" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약6.uasset" SILENT=true
+[2018.07.13-18.31.09:180][598]LogSavePackage: Save=12.79ms
+[2018.07.13-18.31.09:180][598]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/약628C7E9D948BF1DBBC9B8659654E2F622.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약6.uasset'
+[2018.07.13-18.31.09:182][598]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약6.uasset
+[2018.07.13-18.31.10:257][645]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.13-18.31.10:327][645]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.13-18.31.24:237][ 35]BlueprintLog: New page: 약통 컴파일
+[2018.07.13-18.31.25:386][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/약통" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Blueprints/약통.uasset" SILENT=true
+[2018.07.13-18.31.25:492][ 49]LogSavePackage: Save=99.64ms
+[2018.07.13-18.31.25:492][ 49]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/약통7527A530465050BEC1EA3D8CD974F69A.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Blueprints/약통.uasset'
+[2018.07.13-18.31.25:494][ 49]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Blueprints/약통.uasset
+[2018.07.13-18.31.37:544][801]BlueprintLog: New page: 약통 컴파일
+[2018.07.13-18.31.38:629][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/약통" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Blueprints/약통.uasset" SILENT=true
+[2018.07.13-18.31.38:728][817]LogSavePackage: Save=96.80ms
+[2018.07.13-18.31.38:728][817]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/약통1A4E54774FA03AE0C3F7BA9098B565AE.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Blueprints/약통.uasset'
+[2018.07.13-18.31.38:730][817]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Blueprints/약통.uasset
+[2018.07.13-18.32.20:958][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/약재료_백" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료_백.uasset" SILENT=true
+[2018.07.13-18.32.20:973][160]LogSavePackage: Save=13.37ms
+[2018.07.13-18.32.20:973][160]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/약재료_백F9F12C5B4D1A826AD445549AA98F7F74.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료_백.uasset'
+[2018.07.13-18.32.20:975][160]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료_백.uasset
+[2018.07.13-18.32.20:977][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/약1" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약1.uasset" SILENT=true
+[2018.07.13-18.32.20:986][160]LogSavePackage: Save=3.10ms
+[2018.07.13-18.32.20:986][160]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/약12E6DFBC644F748DAF99EE7ACB7EAC8E3.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약1.uasset'
+[2018.07.13-18.32.20:988][160]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약1.uasset
+[2018.07.13-18.32.28:656][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/약재료1_백" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료1_백.uasset" SILENT=true
+[2018.07.13-18.32.28:672][440]LogSavePackage: Save=13.28ms
+[2018.07.13-18.32.28:672][440]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/약재료1_백5C2A6D144A5DDC2E22BE75824B00299C.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료1_백.uasset'
+[2018.07.13-18.32.28:674][440]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료1_백.uasset
+[2018.07.13-18.32.28:816][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/약1" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약1.uasset" SILENT=true
+[2018.07.13-18.32.28:822][440]LogSavePackage: Save=3.34ms
+[2018.07.13-18.32.28:822][440]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/약11D8348354E4198BF93042BA46FA4F344.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약1.uasset'
+[2018.07.13-18.32.28:822][440]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약1.uasset
+[2018.07.13-18.32.33:440][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/약재료2_황" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료2_황.uasset" SILENT=true
+[2018.07.13-18.32.33:454][600]LogSavePackage: Save=12.75ms
+[2018.07.13-18.32.33:454][600]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/약재료2_황A368F8B944E53B426D625E849A116E41.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료2_황.uasset'
+[2018.07.13-18.32.33:456][600]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료2_황.uasset
+[2018.07.13-18.32.33:458][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/약2" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약2.uasset" SILENT=true
+[2018.07.13-18.32.33:468][600]LogSavePackage: Save=3.13ms
+[2018.07.13-18.32.33:468][600]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/약2C4D7556340A95151B3C2C48B3F7A41D7.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약2.uasset'
+[2018.07.13-18.32.33:469][600]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약2.uasset
+[2018.07.13-18.32.50:023][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/약재료3_Yellow" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료3_Yellow.uasset" SILENT=true
+[2018.07.13-18.32.50:039][210]LogSavePackage: Save=14.04ms
+[2018.07.13-18.32.50:039][210]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/약재료3_YellowF725E6924FEB9B4E31C5E18B6F80A1D4.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료3_Yellow.uasset'
+[2018.07.13-18.32.50:040][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료3_Yellow.uasset
+[2018.07.13-18.32.50:043][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/약3" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약3.uasset" SILENT=true
+[2018.07.13-18.32.50:052][210]LogSavePackage: Save=3.12ms
+[2018.07.13-18.32.50:052][210]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/약30D4A0ED94F53CD2D29BADE8465A1CE46.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약3.uasset'
+[2018.07.13-18.32.50:054][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약3.uasset
+[2018.07.13-18.32.56:425][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/약재료2_Brown" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료2_Brown.uasset" SILENT=true
+[2018.07.13-18.32.56:439][428]LogSavePackage: Save=12.85ms
+[2018.07.13-18.32.56:439][428]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/약재료2_Brown65E752D24FBECB2A3DA466A140775F23.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료2_Brown.uasset'
+[2018.07.13-18.32.56:441][428]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료2_Brown.uasset
+[2018.07.13-18.32.56:579][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/약2" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약2.uasset" SILENT=true
+[2018.07.13-18.32.56:585][428]LogSavePackage: Save=3.33ms
+[2018.07.13-18.32.56:585][428]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/약2CCAFDF724D646C2E72C37A9001BD9617.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약2.uasset'
+[2018.07.13-18.32.56:586][428]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약2.uasset
+[2018.07.13-18.33.01:177][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/약재료1_White" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료1_White.uasset" SILENT=true
+[2018.07.13-18.33.01:192][564]LogSavePackage: Save=12.94ms
+[2018.07.13-18.33.01:192][564]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/약재료1_White14B8A32344CC3C6EF1BD6580FCFAD476.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료1_White.uasset'
+[2018.07.13-18.33.01:194][564]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료1_White.uasset
+[2018.07.13-18.33.01:326][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/약1" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약1.uasset" SILENT=true
+[2018.07.13-18.33.01:332][564]LogSavePackage: Save=3.51ms
+[2018.07.13-18.33.01:332][564]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/약13C401B704DA79D46D750059A0CFF16EF.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약1.uasset'
+[2018.07.13-18.33.01:333][564]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약1.uasset
+[2018.07.13-18.33.08:842][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/약재료4_Black" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료4_Black.uasset" SILENT=true
+[2018.07.13-18.33.08:856][877]LogSavePackage: Save=13.01ms
+[2018.07.13-18.33.08:856][877]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/약재료4_Black9247A7C54B4E20C13181C4ACB695608E.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료4_Black.uasset'
+[2018.07.13-18.33.08:859][877]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료4_Black.uasset
+[2018.07.13-18.33.08:861][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/약4" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약4.uasset" SILENT=true
+[2018.07.13-18.33.08:871][877]LogSavePackage: Save=4.04ms
+[2018.07.13-18.33.08:871][877]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/약4A1061E4C4D334D1FB724E4860CB05F75.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약4.uasset'
+[2018.07.13-18.33.08:872][877]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약4.uasset
+[2018.07.13-18.33.15:701][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/약재료5_Red" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료5_Red.uasset" SILENT=true
+[2018.07.13-18.33.15:716][109]LogSavePackage: Save=12.82ms
+[2018.07.13-18.33.15:716][109]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/약재료5_Red97447E1C426EE99B9CD48391084A2940.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료5_Red.uasset'
+[2018.07.13-18.33.15:718][109]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료5_Red.uasset
+[2018.07.13-18.33.15:720][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/약5" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약5.uasset" SILENT=true
+[2018.07.13-18.33.15:729][109]LogSavePackage: Save=3.23ms
+[2018.07.13-18.33.15:729][109]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/약54E612EF14863923BC06C8987A586580D.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약5.uasset'
+[2018.07.13-18.33.15:731][109]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약5.uasset
+[2018.07.13-18.33.22:468][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Mesh/약재료6_Purlple" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료6_Purlple.uasset" SILENT=true
+[2018.07.13-18.33.22:482][328]LogSavePackage: Save=12.96ms
+[2018.07.13-18.33.22:482][328]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/약재료6_Purlple7084AE724BFB6DAF267946BBF02C89F8.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료6_Purlple.uasset'
+[2018.07.13-18.33.22:484][328]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Mesh/약재료6_Purlple.uasset
+[2018.07.13-18.33.22:682][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/약통" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Blueprints/약통.uasset" SILENT=true
+[2018.07.13-18.33.22:784][328]LogSavePackage: Save=99.15ms
+[2018.07.13-18.33.22:784][328]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/약통163502B447DA60A9D0ECC5AC7CA3C9C7.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Blueprints/약통.uasset'
+[2018.07.13-18.33.22:786][328]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Blueprints/약통.uasset
+[2018.07.13-18.33.58:489][338]BlueprintLog: New page: 약통 컴파일
+[2018.07.13-18.33.59:691][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/약통" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Blueprints/약통.uasset" SILENT=true
+[2018.07.13-18.33.59:797][362]LogSavePackage: Save=102.89ms
+[2018.07.13-18.33.59:797][362]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/약통A1C510C341D0F48F60C56BA20878C279.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Blueprints/약통.uasset'
+[2018.07.13-18.33.59:799][362]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Blueprints/약통.uasset
+[2018.07.13-18.34.24:721][578]LogSlate: Took 0.004495 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.07.13-18.34.32:640][194]BlueprintLog: New page: TopDownCharacter 컴파일
+[2018.07.13-18.34.33:758][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Character/TopDownCharacter" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Character/TopDownCharacter.uasset" SILENT=true
+[2018.07.13-18.34.33:840][194]LogSavePackage: Save=70.34ms
+[2018.07.13-18.34.33:840][194]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/TopDownCharacter69A98E1E4FF983D6FC59B3A9990A6F44.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Character/TopDownCharacter.uasset'
+[2018.07.13-18.34.33:842][194]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Character/TopDownCharacter.uasset
+[2018.07.13-18.34.34:252][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Character/TopDownCharacter" FILE="../../../../../../Trolley/SecurityGame/Content/TopDownBP/Character/TopDownCharacter.uasset" SILENT=true
+[2018.07.13-18.34.34:312][207]LogSavePackage: Save=55.75ms
+[2018.07.13-18.34.34:312][207]LogSavePackage: Moving '../../../../../../Trolley/SecurityGame/Saved/TopDownCharacterC3A1A0434E50BBF24D3508ADCFB95FCD.tmp' to '../../../../../../Trolley/SecurityGame/Content/TopDownBP/Character/TopDownCharacter.uasset'
+[2018.07.13-18.34.34:313][207]LogSavePackage: Display: Finished SavePackage ../../../../../../Trolley/SecurityGame/Content/TopDownBP/Character/TopDownCharacter.uasset
+[2018.07.13-18.34.41:937][622]LogUObjectArray: Warning: Invalid object index 7929953
+[2018.07.13-18.34.42:309][622]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.373 s
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: === Handled ensure: ===
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: 
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: Stack: 
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000D5782786 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000D552123A UE4Editor-Core.dll!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000D553B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000BF1E33F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000CC8503AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000BCD83EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000BCC174AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000BCC1ABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000BCD48225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000D4E47397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000D4E4CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000D5089913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000D4EA3484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000D4E7B68C UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000D4E6D6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000F3C3E39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000F3C31A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000F3C403EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000F3C2D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x000000000BBF6CC1 USER32.dll!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x000000000BBF6693 USER32.dll!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000F3C41516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000ED9450C8 UE4Editor.exe!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000ED955430 UE4Editor.exe!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000ED9554AA UE4Editor.exe!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000ED962379 UE4Editor.exe!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x00000000ED963D57 UE4Editor.exe!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x000000000E453034 KERNEL32.DLL!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: [Callstack] 0x000000000E5A1431 ntdll.dll!UnknownFunction []
+[2018.07.13-18.34.42:309][622]LogOutputDevice: Error: 
+[2018.07.13-18.34.42:317][622]LogStats:                SubmitErrorReport -  0.000 s
